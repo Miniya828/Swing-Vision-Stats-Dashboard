@@ -11,7 +11,7 @@ from pathlib import Path
 # Load data
 # =========================================================
 HERE = Path(__file__).resolve().parent
-DATA_PATH = HERE / "Adi_1.csv"  # keep Adi_1.csv in same folder
+DATA_PATH = HERE / "cindy_1.csv"  
 df = pd.read_csv(DATA_PATH)
 
 # ---- Required columns for full functionality ----
@@ -91,11 +91,11 @@ mask_out_left_singles = (
 
 # Assign hit_region column
 df["hit_region"] = "unknown"
-df.loc[mask_service_box, "hit_region"] = "made_inside_service_box"
-df.loc[mask_baseline_area, "hit_region"] = "made_inside_baseline"
-df.loc[mask_behind_baseline, "hit_region"] = "made_behind_baseline"
-df.loc[mask_out_right_singles, "hit_region"] = "made_outside_right_singles"
-df.loc[mask_out_left_singles, "hit_region"] = "made_outside_left_singles"
+df.loc[mask_service_box, "hit_region"] = "inside_service_box"
+df.loc[mask_baseline_area, "hit_region"] = "inside_baseline"
+df.loc[mask_behind_baseline, "hit_region"] = "behind_baseline"
+df.loc[mask_out_right_singles, "hit_region"] = "outside_right_singles"
+df.loc[mask_out_left_singles, "hit_region"] = "outside_left_singles"
 
 # =========================================================
 # Styling
@@ -356,6 +356,37 @@ rally_dist = pd.DataFrame({
     ]
 })
 rally_dist["Percentage"] = (rally_dist["Count"] / rally_dist["Count"].sum() * 100).round(1)
+
+# Create rally distribution by player with won/lost breakdown
+def rally_dist_by_player(player_name):
+    """Create rally distribution showing won vs lost points for a specific player"""
+    categories = ["1 shot", "2 shots", "3 shots", "4 shots", "5-6 shots", "7+ shots"]
+    
+    rows = []
+    for cat in categories:
+        if cat == "1 shot":
+            mask = (points["Shot_Count"] == 1)
+        elif cat == "2 shots":
+            mask = (points["Shot_Count"] == 2)
+        elif cat == "3 shots":
+            mask = (points["Shot_Count"] == 3)
+        elif cat == "4 shots":
+            mask = (points["Shot_Count"] == 4)
+        elif cat == "5-6 shots":
+            mask = ((points["Shot_Count"] >= 5) & (points["Shot_Count"] <= 6))
+        else:  # 7+ shots
+            mask = (points["Shot_Count"] >= 7)
+        
+        cat_points = points[mask]
+        won = (cat_points["Point_Winner"] == player_name).sum()
+        lost = (cat_points["Point_Winner"] != player_name).sum()
+        
+        if won > 0:
+            rows.append({"Category": cat, "Result": "Won", "Count": won})
+        if lost > 0:
+            rows.append({"Category": cat, "Result": "Lost", "Count": lost})
+    
+    return pd.DataFrame(rows)
 
 rally_mode_by_player = []
 for p in players:
@@ -725,7 +756,7 @@ app.layout = html.Div([
     html.Div([
         html.H1("🎾 Tennis Analytics Dashboard - SwingVision",
                 style={"textAlign": "center", "color": colors["primary"], "margin": "8px 0"}),
-        html.Div("Notebook-equivalent stats + interactive court explorer (Hit/Bounce) with filters + comparison plots",
+        html.Div("stats + interactive court explorer with filters + comparison plots",
                  style={"textAlign": "center", "color": colors["text"], "opacity": 0.85}),
     ], style={"background": "white", "padding": "14px", "borderRadius": "12px",
               "boxShadow": "0 2px 6px rgba(0,0,0,0.08)", "margin": "12px"}),
@@ -881,8 +912,34 @@ def render_speed_tab(player):
     ])
 
 def render_rally_tab(player):
-    fig = px.pie(rally_dist, values="Count", names="Category", hole=0.35, title="Rally Length Distribution (All Points)")
-    fig.update_layout(plot_bgcolor="white", paper_bgcolor="white", height=520)
+    # Overall distribution pie chart
+    fig_overall = px.pie(rally_dist, values="Count", names="Category", hole=0.35, 
+                         title="Rally Length Distribution (All Points)")
+    fig_overall.update_layout(plot_bgcolor="white", paper_bgcolor="white", height=450)
+    
+    # Player-specific won/lost bar chart
+    player_rally_data = rally_dist_by_player(player)
+    
+    if not player_rally_data.empty:
+        fig_player = px.bar(
+            player_rally_data,
+            x="Category",
+            y="Count",
+            color="Result",
+            barmode="group",
+            title=f"Rally Length — {player} (Won vs Lost)",
+            color_discrete_map={"Won": "#2A9D8F", "Lost": "#E76F51"}
+        )
+        fig_player.update_layout(
+            plot_bgcolor="white", 
+            paper_bgcolor="white", 
+            height=450,
+            xaxis_title="Rally Length",
+            yaxis_title="Number of Points"
+        )
+    else:
+        fig_player = go.Figure()
+        fig_player.update_layout(title=f"Rally Length — {player} (Won vs Lost)<br><sup>No data</sup>", height=450)
 
     row = rally_mode_df.loc[rally_mode_df["Player"] == player].iloc[0]
 
@@ -894,9 +951,14 @@ def render_rally_tab(player):
             kpi_card("Total Points", str(len(points))),
         ], style={"display": "grid", "gridTemplateColumns": "repeat(3, 1fr)", "gap": "10px", "marginBottom": "12px"}),
 
-        html.Div([dcc.Graph(figure=fig)],
-                 style={"background": "white", "padding": "12px", "borderRadius": "12px",
-                        "boxShadow": "0 2px 6px rgba(0,0,0,0.08)"}),
+        html.Div([
+            html.Div([dcc.Graph(figure=fig_overall)],
+                     style={"background": "white", "padding": "12px", "borderRadius": "12px",
+                            "boxShadow": "0 2px 6px rgba(0,0,0,0.08)"}),
+            html.Div([dcc.Graph(figure=fig_player)],
+                     style={"background": "white", "padding": "12px", "borderRadius": "12px",
+                            "boxShadow": "0 2px 6px rgba(0,0,0,0.08)", "marginTop": "12px"}),
+        ]),
 
         html.Div([html.H4("Rally Mode by Player"), render_table(rally_mode_df)],
                  style={"background": "white", "padding": "12px", "borderRadius": "12px",
