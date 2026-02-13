@@ -1,0 +1,615 @@
+Player,Shot,Point,Game,Set,bounce_x_std,bounce_y_std,hit_x_std,hit_y_std,hit_z,Speed (MPH),Type,Stroke,Spin,Bounce_depth,Bounce Zone,Hit Zone,Result,Winner,Bounce_Lateral,Direction,hit_position
+Cindy Hu,1,1,1,1,0.310349,5.951208,1.049805,0.113293,2.214844,139.440018,first_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,2,1,1,1,-0.364258,7.246094,0.776855,0.061212,2.429688,48.390934,first_return,Backhand,Flat,short,ad,deuce,In,Cindy Hu,middle,inside in,inside
+Cindy Hu,3,1,1,1,2.490234,3.660625,-0.364258,6.720847,1.570312,37.630787,serve_plus_one,Volley,Flat,middle,deuce,ad,In,Cindy Hu,wide,down the line,volley
+Opponent,4,1,1,1,-0.925293,6.53125,3.617188,-2.485663,1.056641,53.156822,return_plus_one,Forehand,Flat,short,ad,deuce,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,5,1,1,1,-1.625888,6.51925,-0.925293,6.006003,2.488281,151.016541,in_play,Overhead,Flat,short,ad,ad,In,Cindy Hu,middle,---,volley
+Opponent,6,1,1,1,-1.179467,-0.577175,-3.414062,-1.579413,3.654297,54.642204,in_play,Backhand,Flat,baseline out,ad,ad,Out,Cindy Hu,middle,cross court,behind
+Cindy Hu,1,2,1,1,2.814453,8.666203,-0.916016,0.145853,2.466797,73.904465,first_serve,Serve,Flat,none,deuce,ad,Net,Opponent,none,out wide,none
+Cindy Hu,1,2,1,1,-2.058491,7.754123,-1.102539,0.349753,2.503906,110.301865,second_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Opponent,2,2,1,1,-2.906317,1.926344,-3.207031,-1.251288,1.253906,90.524452,second_return,Forehand,Topspin,deep,ad,ad,In,Opponent,wide,inside out,behind
+Cindy Hu,3,2,1,1,0.994988,0.821086,-3.117188,-0.392434,1.078125,60.776981,serve_plus_one,Backhand,Topspin,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Opponent,4,2,1,1,-2.969203,5.184347,0.620605,-2.563788,1.273438,66.887596,return_plus_one,Forehand,Topspin,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,5,2,1,1,-0.365793,5.811346,-3.765625,-2.111185,1.459961,63.801556,in_play,Backhand,Topspin,short,ad,ad,In,Opponent,middle,cross court,behind
+Opponent,6,2,1,1,2.529529,3.734893,-1.314453,0.420587,1.513672,106.886887,in_play,Forehand,Flat,middle,deuce,ad,In,Opponent,wide,inside in,inside
+Cindy Hu,7,2,1,1,0.496582,5.947461,2.316406,-1.814309,1.017578,56.822006,in_play,Forehand,Flat,none,deuce,deuce,Net,Opponent,none,cross court,behind
+Cindy Hu,1,3,1,1,3.006798,6.899391,0.734863,-0.267434,2.455078,148.394455,first_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,out wide,none
+Opponent,2,3,1,1,-0.319718,-0.009192,4.402344,0.748712,1.041016,62.678555,first_return,Forehand,Slice,baseline out,ad,deuce_alley,Out,Opponent,middle,down the line,inside
+Cindy Hu,3,3,1,1,-4.020747,0.663381,-0.388672,-2.197122,1.046875,67.723228,serve_plus_one,Forehand,Topspin,deep,ad,ad,In,Opponent,wide,inside out,behind
+Opponent,4,3,1,1,-0.241361,4.366912,-4.101562,-3.032538,1.34082,74.994568,return_plus_one,Backhand,Topspin,middle,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,1,4,1,1,3.109375,5.856718,-0.433594,0.341897,2.03125,81.053741,first_serve,Serve,Slice,none,deuce,ad,Net,Cindy Hu,none,out wide,none
+Cindy Hu,1,4,1,1,-3.443676,6.343746,-1.405273,0.670066,2.623047,106.915688,second_serve,Serve,Kick,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,4,1,1,-4.30543,1.624957,-5.019531,-1.438788,1.480469,78.574654,second_return,Backhand,Flat,deep,ad_alley,ad_alley,Out,Cindy Hu,side out,cross court,behind
+Cindy Hu,3,4,1,1,2.208984,4.666278,-4.164062,-1.486184,1.273438,76.676918,serve_plus_one,Backhand,Topspin,middle,deuce,ad_alley,In,Cindy Hu,wide,down the line,behind
+Opponent,4,4,1,1,1.673052,1.513636,1.814453,-1.813788,0.919922,92.308746,return_plus_one,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,1,5,1,1,0.251572,5.638481,1.060547,0.591941,2.433594,148.811874,first_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,5,1,1,1.918945,10.28125,0.677734,0.279962,1.404297,70.567673,first_return,Backhand,Flat,short,deuce,deuce,In,Opponent,middle,inside out,inside
+Opponent,1,6,2,1,2.137382,5.936166,0.956543,-0.298163,2.269531,124.973259,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,6,2,1,-1.328361,-3.084351,3.345703,-0.978372,1.098633,72.075935,first_return,Forehand,Flat,baseline out,ad,deuce,Out,Opponent,middle,down the line,behind
+Opponent,3,6,2,1,-1.716797,10.973125,-1.374023,-1.313788,1.382812,53.709301,serve_plus_one,Backhand,Topspin,none,ad,ad,Net,Opponent,none,cross court,behind
+Opponent,1,7,2,1,0.391537,6.174609,-0.725098,0.217462,2.435547,105.06987,first_serve,Serve,Flat,none,deuce,ad,Out,Cindy Hu,none,down the T,none
+Opponent,1,7,2,1,-3.565969,6.766856,-0.691406,0.342462,2.394531,93.560188,second_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,7,2,1,3.203056,5.4885,-4.382812,0.459128,1.054688,77.220512,second_return,Backhand,Flat,short,deuce,ad_alley,In,Cindy Hu,wide,down the line,inside
+Opponent,3,7,2,1,1.38375,6.032744,2.412109,-1.126288,0.845703,87.909012,serve_plus_one,Forehand,Flat,short,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,4,7,2,1,4.105641,0.059978,2.150391,-0.072122,0.751465,82.203499,return_plus_one,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Opponent,5,7,2,1,1.925613,4.782209,3.71875,-2.829413,0.646973,80.824387,in_play,Forehand,Topspin,middle,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,6,7,2,1,-3.900643,-1.44339,2.664062,0.068503,1.207031,100.030907,in_play,Forehand,Topspin,baseline out,ad,deuce,Out,Cindy Hu,wide,down the line,inside
+Opponent,1,8,2,1,3.128603,1.957141,0.503418,-0.21315,2.236328,127.568336,first_serve,Serve,Slice,none,deuce,deuce,Out,Opponent,none,out wide,none
+Opponent,1,8,2,1,2.411508,6.202162,0.942871,1.186212,2.242188,101.066185,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,out wide,none
+Cindy Hu,2,8,2,1,5.481548,-2.708636,3.189453,1.193503,1.244141,78.619614,second_return,Forehand,Flat,baseline out,deuce_alley,deuce,Out,Opponent,side out,down the line,inside
+Opponent,1,9,2,1,-2.536722,5.474893,-1.008789,0.436212,2.341797,131.998123,first_serve,Serve,Flat,none,ad,ad,Out,Cindy Hu,none,out wide,none
+Cindy Hu,2,9,2,1,0.856201,6.662487,-3.1875,-0.251809,1.144531,86.652328,first_return,Backhand,Topspin,short,deuce,ad,In,Cindy Hu,middle,down the line,behind
+Opponent,3,9,2,1,-1.887194,6.63642,-0.145874,0.436212,0.851562,71.587975,serve_plus_one,Forehand,Slice,short,ad,ad,In,Cindy Hu,middle,inside out,inside
+Cindy Hu,4,9,2,1,1.097656,9.605938,-2.503906,2.295065,0.366211,50.499443,return_plus_one,Backhand,Flat,short,deuce,ad,In,Cindy Hu,middle,down the line,inside
+Opponent,5,9,2,1,2.601537,6.407441,1.097656,8.39715,1.292969,39.024517,in_play,Volley,Flat,short,deuce,deuce,In,Cindy Hu,wide,cross court,volley
+Cindy Hu,1,10,3,1,1.077794,5.813909,0.841797,-0.220038,2.269531,132.477997,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,10,3,1,-2.45224,5.555303,1.837891,-1.689309,1.652344,68.011528,first_return,Backhand,Topspin,short,ad,deuce,In,Opponent,wide,inside in,behind
+Cindy Hu,3,10,3,1,3.044922,11.4575,-1.608398,2.186212,2.308594,35.258247,serve_plus_one,Backhand,Slice,none,deuce,ad,Net,Opponent,none,down the line,inside
+Cindy Hu,1,11,3,1,-3.686847,6.139622,-0.501465,1.342462,2.316406,121.996796,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Opponent,2,11,3,1,-3.018867,5.555303,-4.640625,0.263816,1.068359,55.171474,first_return,Backhand,Flat,short,ad,ad_alley,In,Opponent,wide,down the line,inside
+Cindy Hu,3,11,3,1,3.496342,3.375779,-4.324219,0.951837,0.927734,72.238022,serve_plus_one,Backhand,Slice,middle,deuce,ad_alley,In,Opponent,wide,down the line,inside
+Opponent,4,11,3,1,-1.066406,8.027812,3.298828,0.724753,0.826172,48.926254,return_plus_one,Forehand,Flat,short,ad,deuce,In,Opponent,middle,down the line,inside
+Cindy Hu,5,11,3,1,2.058834,7.704842,-1.066406,6.819025,2.544922,189.130051,in_play,Overhead,Flat,short,deuce,ad,In,Opponent,wide,---,volley
+Cindy Hu,1,12,3,1,2.76145,7.309636,0.440186,0.656415,2.550781,125.576012,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,out wide,none
+Opponent,2,12,3,1,1.719014,1.471595,3.904297,1.584128,1.303711,103.19883,first_return,Forehand,Slice,deep,deuce,deuce,In,Opponent,middle,cross court,inside
+Cindy Hu,3,12,3,1,3.685374,7.380645,2.115234,-0.001288,0.688477,52.380154,serve_plus_one,Forehand,Topspin,short,deuce,deuce,In,Opponent,wide,cross court,behind
+Opponent,4,12,3,1,-3.165062,-3.748946,4.492188,1.943503,1.154297,107.152008,return_plus_one,Forehand,Topspin,baseline out,ad,deuce_alley,Out,Opponent,wide,down the line,inside
+Cindy Hu,1,13,3,1,-1.232311,5.121568,-0.715332,1.186212,2.386719,127.457077,first_serve,Serve,Flat,none,ad,ad,Out,Opponent,none,down the T,none
+Cindy Hu,1,13,3,1,-2.835798,6.958792,-1.138672,-0.220038,2.441406,100.134445,second_serve,Serve,Slice,none,ad,ad,In,Opponent,none,out wide,none
+Opponent,2,13,3,1,2.359325,-0.003998,-4.457031,-1.447122,0.84375,68.117569,second_return,Backhand,Topspin,baseline out,deuce,ad_alley,In,Opponent,wide,down the line,behind
+Cindy Hu,1,14,3,1,0.736077,7.897102,0.910645,-0.407538,2.236328,137.042587,first_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,2,14,3,1,-0.707663,4.953847,1.467773,0.459128,1.40625,67.606712,first_return,Backhand,Slice,middle,ad,deuce,In,Cindy Hu,middle,inside in,inside
+Cindy Hu,3,14,3,1,-1.329214,2.729365,-0.556641,1.373712,1.032227,67.353218,serve_plus_one,Forehand,Topspin,deep,ad,ad,In,Cindy Hu,middle,inside out,inside
+Opponent,4,14,3,1,-0.33567,2.539773,-1.90918,-0.072122,1.003906,95.324844,return_plus_one,Backhand,Topspin,deep,ad,ad,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,5,14,3,1,-4.726062,6.927907,-0.454834,-0.688788,1.220703,83.411682,in_play,Forehand,Flat,short,ad_alley,ad,Out,Cindy Hu,side out,inside in,behind
+Cindy Hu,1,15,3,1,-2.683787,8.909931,-1.395508,-0.563788,2.460938,102.194977,first_serve,Serve,Slice,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,15,3,1,-1.57467,-1.238308,-4.621094,-1.220559,0.773438,93.226784,first_return,Backhand,Topspin,baseline out,ad,ad_alley,Out,Cindy Hu,middle,down the line,behind
+Cindy Hu,3,15,3,1,-0.075507,4.653319,-1.730469,-0.766913,0.912598,50.186199,serve_plus_one,Forehand,Topspin,middle,ad,ad,In,Cindy Hu,middle,inside out,behind
+Opponent,1,16,4,1,2.841797,5.431081,1.211914,0.740378,2.5,132.47316,first_serve,Serve,Flat,none,deuce,deuce,Out,Opponent,none,out wide,none
+Cindy Hu,2,16,4,1,1.031636,0.755529,3.818359,-0.563788,0.911133,63.370701,first_return,Forehand,Topspin,deep,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,3,16,4,1,-2.730922,1.889642,1.429688,-1.704934,1.945312,66.624794,serve_plus_one,Forehand,Topspin,deep,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,4,16,4,1,-1.757007,3.590822,-2.484375,-1.516913,1.501953,72.575272,return_plus_one,Forehand,Flat,middle,ad,ad,In,Opponent,middle,inside out,behind
+Opponent,5,16,4,1,0.532594,3.404357,-2.251953,-0.876809,1.576172,98.37925,in_play,Backhand,Flat,middle,deuce,ad,In,Opponent,middle,down the line,behind
+Cindy Hu,6,16,4,1,-5.648696,0.399705,0.705566,-0.454413,1.303711,90.66906,in_play,Forehand,Topspin,deep,ad_out,deuce,Out,Opponent,side out,down the line,behind
+Opponent,1,17,4,1,3.989191,8.666203,-0.693359,0.146628,2.316406,50.409122,first_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,out wide,none
+Opponent,1,17,4,1,-2.951498,5.4885,-0.361328,0.216941,2.34375,112.42366,second_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,17,4,1,0.947667,7.041637,-3.681641,0.029962,1.457031,46.716072,second_return,Backhand,Topspin,short,deuce,ad,In,Cindy Hu,middle,down the line,inside
+Opponent,3,17,4,1,0.184207,10.161704,-0.433838,4.181784,1.324219,46.28508,serve_plus_one,Backhand,Slice,short,deuce,ad,In,Cindy Hu,middle,down the line,inside
+Cindy Hu,4,17,4,1,-2.787109,5.943061,1.172852,0.311212,0.561035,52.531063,return_plus_one,Forehand,Topspin,none,ad,deuce,Net,Cindy Hu,none,down the line,inside
+Opponent,1,18,4,1,0.718072,4.092987,1.188477,-0.033059,2.515625,136.048584,first_serve,Serve,Flat,none,deuce,deuce,Out,Opponent,none,down the T,none
+Opponent,1,18,4,1,3.173828,5.353244,0.953613,0.310691,2.458984,107.756523,second_serve,Serve,Flat,none,deuce,deuce,Out,Opponent,none,out wide,none
+Cindy Hu,2,18,4,1,0.606445,11.480938,4.59375,-0.673163,1.46875,53.516338,second_return,Forehand,Flat,none,deuce,deuce_alley,Net,Opponent,none,down the line,behind
+Opponent,1,19,4,1,-0.142412,3.950571,-1.006836,-0.212747,2.306641,122.632896,first_serve,Serve,Flat,none,ad,ad,Out,Cindy Hu,none,down the T,none
+Opponent,1,19,4,1,3.25,6.686506,-0.509277,0.623191,2.244141,60.897495,second_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,out wide,none
+Opponent,1,20,4,1,-1.489258,5.916289,0.826172,1.240378,2.328125,62.547096,first_serve,Serve,Flat,none,ad,deuce,Net,Opponent,none,out wide,none
+Opponent,1,20,4,1,1.618044,6.529092,0.807617,0.849753,2.425781,107.594948,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,20,4,1,2.497822,4.539048,2.662109,0.045587,1.191406,67.55674,second_return,Forehand,Topspin,middle,deuce,deuce,In,Opponent,wide,cross court,inside
+Opponent,3,20,4,1,-3.121499,3.830291,3.408203,-1.259622,1.535156,97.901321,serve_plus_one,Forehand,Slice,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,4,20,4,1,3.165613,4.789292,-2.789062,-0.626288,1.279297,93.110802,return_plus_one,Backhand,Flat,middle,deuce,ad,In,Opponent,wide,down the line,behind
+Opponent,5,20,4,1,-2.265786,3.815895,2.894531,-0.540872,1.179688,94.913551,in_play,Forehand,Topspin,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,6,20,4,1,2.058241,4.059109,-1.445312,-0.720038,1.001953,62.012341,in_play,Backhand,Slice,middle,deuce,ad,In,Opponent,wide,down the line,behind
+Opponent,7,20,4,1,5.266469,1.193767,1.803711,0.138816,0.922852,98.720543,in_play,Forehand,Topspin,deep,deuce_alley,deuce,Out,Opponent,side out,down the line,inside
+Opponent,1,21,4,1,-2.187838,5.499231,-0.042419,0.309327,2.375,105.11142,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,21,4,1,0.896573,5.446772,-2.626953,-0.891913,1.265625,84.581947,first_return,Forehand,Topspin,middle,deuce,ad,In,Cindy Hu,middle,inside in,behind
+Opponent,3,21,4,1,3.134357,0.924467,0.375732,-0.322122,1.121094,103.894638,serve_plus_one,Forehand,Flat,deep,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,4,21,4,1,-4.060917,0.133799,3.476562,-2.595038,0.902832,60.599438,return_plus_one,Forehand,Slice,deep,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Opponent,5,21,4,1,-0.046847,5.601209,-4.347656,-1.447122,1.396484,60.406139,in_play,Backhand,Topspin,short,ad,ad_alley,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,6,21,4,1,-0.234838,2.435405,-1.211914,-0.688788,1.256836,72.646172,in_play,Backhand,Flat,deep,ad,ad,In,Cindy Hu,middle,cross court,behind
+Opponent,1,22,4,1,1.413822,6.462923,0.712402,1.256003,2.423828,111.698944,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,22,4,1,0.851609,5.124994,2.523438,-0.282538,1.195312,60.373009,first_return,Forehand,Topspin,middle,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Opponent,3,22,4,1,-3.217256,3.227767,1.902344,-1.103372,1.833984,76.495041,serve_plus_one,Forehand,Flat,middle,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,4,22,4,1,2.009939,5.697042,-3.214844,-1.532538,1.489258,66.647842,return_plus_one,Backhand,Topspin,short,deuce,ad,In,Cindy Hu,middle,down the line,behind
+Opponent,5,22,4,1,-2.912109,5.473074,1.371094,-1.353372,1.117188,91.383102,in_play,Forehand,Flat,middle,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,6,22,4,1,-0.407227,11.098125,-3.021484,-1.907538,1.658203,60.562298,in_play,Backhand,Flat,none,ad,ad,Net,Cindy Hu,none,cross court,behind
+Cindy Hu,1,23,5,1,1.09741,3.275688,0.413574,1.170066,2.332031,133.169327,first_serve,Serve,Slice,none,deuce,deuce,Out,Opponent,none,down the T,none
+Cindy Hu,1,23,5,1,0.867197,5.482797,0.680176,0.107566,2.550781,118.273903,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,23,5,1,0.556367,4.636092,1.186523,0.561212,1.695312,86.674614,second_return,Backhand,Topspin,middle,deuce,deuce,In,Opponent,middle,inside out,inside
+Cindy Hu,3,23,5,1,-1.552301,3.274265,1.069336,-0.986184,1.079102,88.947906,serve_plus_one,Forehand,Topspin,middle,ad,deuce,In,Opponent,middle,down the line,behind
+Opponent,4,23,5,1,-0.329901,3.911628,-1.512695,-0.782538,1.342773,98.287598,return_plus_one,Backhand,Topspin,middle,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,5,23,5,1,-2.322042,1.398744,-0.540039,-1.970559,0.904785,84.074829,in_play,Forehand,Topspin,deep,ad,ad,In,Opponent,wide,inside out,behind
+Opponent,6,23,5,1,-1.257605,6.079936,-2.517578,-1.345038,1.113281,105.640907,in_play,Backhand,Flat,short,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,7,23,5,1,-2.65625,6.505104,-2.337891,-2.28306,0.745117,53.893665,in_play,Backhand,Flat,none,ad,ad,Net,Opponent,none,cross court,behind
+Cindy Hu,1,24,5,1,-2.438285,7.429283,-1.151367,0.393609,2.146484,138.300049,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,24,5,1,-1.508653,8.345161,-4.28125,0.014337,1.337891,72.365128,first_return,Backhand,Flat,short,ad,ad_alley,In,Cindy Hu,middle,down the line,inside
+Cindy Hu,3,24,5,1,-1.902026,1.381172,-3.257812,1.490378,1.077148,63.766239,serve_plus_one,Backhand,Slice,deep,ad,ad,In,Cindy Hu,middle,cross court,inside
+Opponent,4,24,5,1,0.411291,4.472175,-2.654297,-1.141913,1.015625,120.827133,return_plus_one,Backhand,Flat,middle,deuce,ad,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,5,24,5,1,-1.101166,5.74508,-0.15625,-2.15806,0.900391,84.036316,in_play,Forehand,Flat,short,ad,ad,In,Cindy Hu,middle,inside out,behind
+Opponent,6,24,5,1,1.99217,8.134037,-1.556641,0.170587,0.986328,44.117115,in_play,Backhand,Flat,short,deuce,ad,In,Cindy Hu,middle,down the line,inside
+Cindy Hu,7,24,5,1,-0.539685,1.080871,1.598633,4.263815,0.138428,59.522964,in_play,Backhand,Slice,deep,ad,deuce,In,Cindy Hu,middle,inside in,inside
+Opponent,8,24,5,1,2.148438,11.652812,-0.237183,-0.438788,0.859375,54.2351,in_play,Backhand,Topspin,none,deuce,ad,Net,Cindy Hu,none,down the line,behind
+Opponent,9,24,5,1,-3.208379,2.499955,2.578125,11.670587,0.734863,104.621887,in_play,Backhand,Flat,deep,ad,deuce,In,Cindy Hu,wide,inside in,inside
+Cindy Hu,1,25,5,1,3.181595,6.409717,0.503906,0.29714,2.146484,147.493637,first_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,out wide,none
+Opponent,2,25,5,1,3.079781,4.22753,5.089844,-0.407538,1.057617,59.352844,first_return,Forehand,Slice,middle,deuce,deuce_alley,In,Opponent,wide,down the line,behind
+Cindy Hu,3,25,5,1,-3.493637,2.58801,3.359375,0.474753,1.076172,99.823807,serve_plus_one,Forehand,Topspin,deep,ad,deuce,In,Opponent,wide,down the line,inside
+Cindy Hu,1,26,5,1,-2.037461,6.875242,-1.014648,1.123191,2.144531,126.353958,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Opponent,2,26,5,1,-0.783767,5.214329,-2.679688,-0.407538,1.171875,87.90786,first_return,Forehand,Topspin,middle,ad,ad,In,Opponent,middle,inside out,behind
+Cindy Hu,3,26,5,1,1.230337,5.847545,-1.769531,-0.978372,0.97998,99.740234,serve_plus_one,Forehand,Topspin,short,deuce,ad,In,Opponent,middle,inside in,behind
+Opponent,4,26,5,1,2.134426,3.996277,1.739258,-1.235663,0.895996,77.794128,return_plus_one,Forehand,Topspin,middle,deuce,deuce,In,Opponent,wide,cross court,behind
+Cindy Hu,5,26,5,1,2.079686,7.381811,2.484375,-1.540872,1.148438,70.116409,in_play,Forehand,Flat,short,deuce,deuce,In,Opponent,wide,cross court,behind
+Opponent,6,26,5,1,-1.053219,-2.172368,3.398438,-0.595038,1.607422,82.303154,in_play,Forehand,Topspin,baseline out,ad,deuce,Out,Opponent,middle,down the line,behind
+Cindy Hu,1,27,5,1,1.154934,4.114431,0.91748,0.263816,2.603516,153.058823,first_serve,Serve,Slice,none,deuce,deuce,Out,Cindy Hu,none,down the T,none
+Cindy Hu,1,27,5,1,1.28667,6.2943,0.474609,0.982566,2.417969,107.71244,second_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,2,27,5,1,-2.457346,5.079311,2.333984,-0.595038,1.279297,69.328728,second_return,Forehand,Topspin,middle,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,3,27,5,1,1.640674,4.194868,-2.037109,0.654441,1.423828,81.405075,serve_plus_one,Backhand,Flat,middle,deuce,ad,In,Cindy Hu,middle,down the line,inside
+Opponent,4,27,5,1,2.004736,0.012588,1.800781,-1.188788,1.118164,100.50547,return_plus_one,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,5,27,5,1,-3.854175,6.526674,3.533203,-1.423684,1.378906,52.209976,in_play,Forehand,Topspin,short,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Opponent,6,27,5,1,3.004328,5.581364,-3.259766,2.842462,1.09375,73.299667,in_play,Backhand,Slice,short,deuce,ad,In,Cindy Hu,wide,down the line,inside
+Cindy Hu,1,28,5,1,-0.757222,6.917585,-0.972168,0.826316,2.390625,136.626755,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Opponent,2,28,5,1,-0.442646,3.007808,-1.145508,-0.376288,1.243164,71.786682,first_return,Forehand,Flat,deep,ad,ad,In,Opponent,middle,inside out,behind
+Cindy Hu,3,28,5,1,-2.57494,3.196025,-0.604492,-2.009622,1.169922,88.079231,serve_plus_one,Forehand,Topspin,deep,ad,ad,In,Opponent,wide,inside out,behind
+Opponent,4,28,5,1,-0.242649,6.673981,-2.644531,-1.313788,1.128906,106.728821,return_plus_one,Backhand,Flat,short,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,5,28,5,1,-2.820121,2.998491,-1.255859,-1.728372,0.633789,75.136032,in_play,Forehand,Topspin,deep,ad,ad,In,Opponent,wide,inside out,behind
+Opponent,6,28,5,1,-1.172324,-0.480932,-3.205078,-1.813788,1.707031,81.616737,in_play,Backhand,Topspin,baseline out,ad,ad,Out,Opponent,middle,cross court,behind
+Cindy Hu,1,29,5,1,-3.142439,6.982822,-1.208008,1.271628,2.363281,126.810768,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,29,5,1,-3.242188,11.348125,-4.402344,-0.032538,1.433594,56.39677,first_return,Backhand,Flat,none,ad,ad_alley,Net,Cindy Hu,none,down the line,behind
+Opponent,1,30,6,1,1.419922,4.316875,1.496094,0.186212,2.041016,111.286636,first_serve,Serve,Flat,none,deuce,deuce,Net,Cindy Hu,none,out wide,none
+Opponent,1,30,6,1,2.494696,3.360975,1.026367,0.154962,2.304688,101.632553,first_serve,Serve,Flat,none,deuce,deuce,Out,Cindy Hu,none,down the T,none
+Opponent,1,30,6,1,2.247224,6.046433,0.941895,0.326837,2.25,101.245026,second_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,30,6,1,2.852947,5.518535,2.789062,1.021628,1.154297,70.832397,second_return,Forehand,Flat,short,deuce,deuce,In,Cindy Hu,wide,cross court,inside
+Opponent,3,30,6,1,1.832561,4.589931,4.550781,-2.157538,1.230469,97.35495,serve_plus_one,Forehand,Topspin,middle,deuce,deuce_alley,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,4,30,6,1,-5.455339,-2.634963,2.957031,-1.236184,1.126953,91.872879,return_plus_one,Forehand,Flat,baseline out,ad_alley,deuce,Out,Cindy Hu,side out,down the line,behind
+Opponent,1,31,6,1,-2.253494,2.836975,-0.794922,1.279962,2.345703,98.34919,first_serve,Serve,Flat,none,ad,ad,Out,Opponent,none,down the T,none
+Opponent,1,31,6,1,-3.480974,8.320345,-0.565918,1.029962,2.507812,85.88192,second_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Cindy Hu,2,31,6,1,-3.146484,11.359375,-4.699219,1.060691,1.111328,47.666718,second_return,Backhand,Topspin,none,ad,ad_alley,Net,Opponent,none,down the line,inside
+Opponent,1,32,6,1,-1.169922,9.05125,1.055664,0.199417,2.126953,36.905682,first_serve,Serve,Flat,none,ad,deuce,Net,Opponent,none,down the T,none
+Opponent,1,32,6,1,4.293828,4.377035,-0.438477,0.015504,2.390625,102.300407,first_serve,Serve,Flat,none,deuce_alley,deuce,Out,Opponent,none,out wide,none
+Opponent,1,32,6,1,3.412464,5.578504,1.070312,0.436212,2.224609,94.878181,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,out wide,none
+Cindy Hu,2,32,6,1,-1.733389,0.005029,4.421875,0.084128,1.207031,98.173073,second_return,Forehand,Flat,deep,ad,deuce_alley,In,Opponent,middle,down the line,inside
+Opponent,3,32,6,1,3.258399,1.439459,-1.416992,-0.626288,1.164062,84.718781,serve_plus_one,Backhand,Topspin,deep,deuce,ad,In,Opponent,wide,down the line,behind
+Cindy Hu,4,32,6,1,3.392578,11.6875,2.533203,0.193503,0.723633,51.82106,return_plus_one,Forehand,Flat,none,deuce,deuce,Net,Opponent,none,cross court,inside
+Opponent,1,33,6,1,-2.512717,6.874285,-0.521973,0.875013,2.296875,98.586098,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Cindy Hu,2,33,6,1,-0.737724,0.859308,-3.148438,0.357566,1.152344,88.368324,first_return,Backhand,Flat,deep,ad,ad,In,Opponent,middle,cross court,inside
+Opponent,3,33,6,1,1.937027,2.236312,-0.794434,-1.501288,1.182617,87.542038,serve_plus_one,Forehand,Topspin,deep,deuce,ad,In,Opponent,middle,inside in,behind
+Cindy Hu,4,33,6,1,-2.652344,5.448242,1.888672,-1.759622,1.017578,93.15683,return_plus_one,Forehand,Topspin,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Opponent,1,35,6,1,-3.335834,5.037493,-0.559082,0.842346,2.339844,117.08812,first_serve,Serve,Flat,none,ad,ad,Out,Cindy Hu,none,out wide,none
+Opponent,1,35,6,1,-1.340815,6.340365,-0.626953,1.279962,2.341797,93.215065,second_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,35,6,1,-0.019855,5.526346,-1.533203,-0.431497,1.390625,108.777412,second_return,Forehand,Topspin,short,center_line,ad,In,Cindy Hu,middle,inside in,behind
+Opponent,3,35,6,1,-3.380859,11.637188,-0.734375,-1.220038,1.203125,43.381187,serve_plus_one,Forehand,Topspin,none,ad,ad,Net,Cindy Hu,none,inside out,behind
+Opponent,1,36,6,1,-3.766372,6.90615,-0.672852,0.186121,2.345703,125.172371,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Cindy Hu,2,36,6,1,-0.598645,5.494588,-4.941406,-0.118997,1.046875,51.856758,first_return,Backhand,Flat,short,ad,ad_alley,In,Opponent,middle,down the line,behind
+Opponent,3,36,6,1,-4.105874,-0.140827,-2.044922,0.451837,1.429688,94.873085,serve_plus_one,Forehand,Flat,baseline out,ad,ad,Out,Opponent,wide,inside out,inside
+Cindy Hu,1,37,7,1,0.773313,6.155225,0.974121,0.622566,2.412109,132.847687,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,37,7,1,-1.837508,7.422546,1.211914,-1.408059,1.374023,60.763721,first_return,Backhand,Slice,short,ad,deuce,In,Opponent,middle,inside in,behind
+Cindy Hu,3,37,7,1,-2.437178,0.338283,-1.882812,2.108087,0.87793,60.027843,serve_plus_one,Backhand,Slice,deep,ad,ad,In,Opponent,wide,cross court,inside
+Opponent,4,37,7,1,1.318174,0.590473,-2.294922,-1.454934,1.033203,58.68475,return_plus_one,Backhand,Flat,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Cindy Hu,1,38,7,1,-0.975424,7.417952,-1.116211,-0.501288,2.390625,132.075912,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,down the T,none
+Opponent,2,38,7,1,3.597715,0.382019,-1.828125,-0.283059,1.347656,105.139526,first_return,Forehand,Flat,deep,deuce,ad,In,Cindy Hu,wide,inside in,behind
+Cindy Hu,1,39,7,1,4.10923,4.746745,0.914062,-0.030421,2.119141,78.499458,first_serve,Serve,Kick,none,deuce,deuce,Out,Opponent,none,out wide,none
+Opponent,2,39,7,1,-0.151733,5.042969,4.941406,0.841941,1.513672,67.205742,first_return,Forehand,Topspin,none,ad,deuce_alley,Net,Opponent,none,down the line,inside
+Cindy Hu,3,39,7,1,0.99044,7.621208,-0.108582,1.686212,2.347656,98.726669,serve_plus_one,Overhead,Flat,short,deuce,ad,In,Opponent,middle,inside in,volley
+Opponent,4,39,7,1,0.066429,2.491342,1.052734,1.732566,1.636719,61.807156,return_plus_one,Backhand,Slice,deep,deuce,deuce,In,Opponent,middle,inside out,inside
+Cindy Hu,5,39,7,1,0.390625,9.789062,0.37793,0.514337,1.166016,69.161316,in_play,Forehand,Topspin,short,deuce,deuce,In,Opponent,middle,cross court,inside
+Opponent,6,39,7,1,0.413141,5.534374,0.390625,9.263816,0.532227,32.055855,in_play,Volley,Flat,short,deuce,deuce,In,Opponent,middle,cross court,volley
+Cindy Hu,7,39,7,1,-0.356934,7.375,0.716309,-0.188788,0.541992,52.402458,in_play,Forehand,Flat,short,ad,deuce,In,Opponent,middle,down the line,behind
+Opponent,8,39,7,1,2.428921,0.955173,-0.356934,6.849753,2.865234,101.835457,in_play,Overhead,Flat,deep,deuce,ad,In,Opponent,wide,---,volley
+Cindy Hu,1,40,7,1,-3.920899,7.241634,-0.54248,1.342462,2.296875,123.119171,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,40,7,1,-1.387695,10.65625,-4.695312,0.498191,1.416016,39.995495,first_return,Backhand,Topspin,none,ad,ad_alley,Net,Cindy Hu,none,down the line,inside
+Cindy Hu,1,41,7,1,3.558906,5.705778,0.748047,-0.220038,2.228516,136.089127,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,out wide,none
+Opponent,2,41,7,1,3.601013,0.003538,4.644531,-0.009622,1.00293,87.196632,first_return,Forehand,Topspin,deep,deuce,deuce_alley,In,Opponent,wide,down the line,behind
+Opponent,1,42,8,1,0.767499,4.591657,1.369141,0.959128,2.613281,126.271683,first_serve,Serve,Flat,none,deuce,deuce,Out,Opponent,none,down the T,none
+Opponent,1,42,8,1,2.216566,6.073995,1,0.412253,2.408203,113.983917,second_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,42,8,1,1.820264,-0.253902,3.494141,0.436212,1.166016,79.223885,second_return,Forehand,Topspin,baseline out,deuce,deuce,Out,Opponent,middle,cross court,inside
+Opponent,1,43,8,1,-3.205011,7.035644,-0.455078,1.170066,2.199219,117.472076,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,43,8,1,5.730232,5.494338,-3.898438,-0.251288,1.009766,63.758606,first_return,Backhand,Flat,short,deuce_out,ad,Out,Cindy Hu,side out,down the line,behind
+Opponent,1,44,8,1,1.200825,6.251344,1.120117,0.451316,2.533203,135.505692,first_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,44,8,1,4.451465,6.127389,1.720703,0.592462,2.324219,45.734692,first_return,Backhand,Flat,short,deuce_alley,deuce,Out,Cindy Hu,side out,inside in,inside
+Opponent,1,45,8,1,-4.08838,7.358018,-0.406006,0.427878,2.269531,130.523438,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,1,46,9,1,-0.946777,11.757812,0.310303,0.881003,2.394531,49.618282,first_serve,Serve,Slice,none,ad,deuce,Net,Opponent,none,down the T,none
+Cindy Hu,1,46,9,1,1.16423,6.301797,1.035156,0.022883,2.707031,107.847198,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,46,9,1,-1.121635,2.210908,2.494141,-0.251288,1.273438,80.479309,second_return,Forehand,Topspin,deep,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,3,46,9,1,-0.680415,1.671571,-0.778809,-1.329934,1.279297,71.477661,serve_plus_one,Forehand,Flat,deep,ad,ad,In,Opponent,middle,inside out,behind
+Opponent,4,46,9,1,-2.276961,5.427613,0.067627,-1.298163,1.658203,83.25473,return_plus_one,Forehand,Flat,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,5,46,9,1,-2.204777,2.604862,-2.96875,-0.079934,1.490234,77.235069,in_play,Backhand,Flat,deep,ad,ad,In,Opponent,wide,cross court,behind
+Opponent,6,46,9,1,0.977051,11.3325,-2.207031,0.686212,1.110352,41.759293,in_play,Backhand,Slice,none,deuce,ad,Net,Opponent,none,down the line,inside
+Cindy Hu,1,47,9,1,-2.153572,5.39496,-0.986328,0.935691,2.21875,129.935822,first_serve,Serve,Flat,none,ad,ad,Out,Opponent,none,down the T,none
+Cindy Hu,1,47,9,1,-2.834009,7.577343,-0.958496,0.513816,2.396484,99.018692,second_serve,Serve,Slice,none,ad,ad,In,Opponent,none,out wide,none
+Opponent,2,47,9,1,0.936586,2.269905,-3.785156,-0.657538,1.279297,77.507057,second_return,Backhand,Topspin,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Cindy Hu,3,47,9,1,-2.522213,3.805656,0.156006,-2.212747,1.324219,75.746086,serve_plus_one,Forehand,Topspin,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Opponent,4,47,9,1,-2.020501,5.498893,-2.451172,-1.063788,1.431641,73.245872,return_plus_one,Backhand,Topspin,short,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,5,47,9,1,-2.089503,5.164909,-3.205078,-0.134622,1.289062,68.526421,in_play,Backhand,Slice,middle,ad,ad,In,Opponent,wide,cross court,behind
+Opponent,6,47,9,1,-3.631172,2.714513,-2.541016,-0.095038,0.981445,83.83606,in_play,Backhand,Flat,deep,ad,ad,In,Opponent,wide,cross court,behind
+Cindy Hu,7,47,9,1,0.180561,0.785146,-3.896484,-0.759622,1.386719,56.501549,in_play,Backhand,Topspin,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Opponent,8,47,9,1,0.686523,1.23875,0.813965,-1.282538,1.314453,96.663643,in_play,Forehand,Slice,none,deuce,deuce,Net,Opponent,none,cross court,behind
+Opponent,9,47,9,1,-0.469614,1.994374,0.686523,0.029962,1.174805,85.452881,in_play,Forehand,Topspin,deep,ad,deuce,In,Opponent,middle,down the line,inside
+Cindy Hu,10,47,9,1,-2.883775,2.54083,-0.525879,-2.540872,1.138672,80.204781,in_play,Backhand,Topspin,deep,ad,ad,In,Opponent,wide,cross court,behind
+Opponent,11,47,9,1,0.256477,2.225543,-2.882812,-1.220038,1.271484,113.384583,in_play,Backhand,Flat,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Cindy Hu,12,47,9,1,1.551036,0.002574,-0.298828,-2.509622,1.253906,87.291039,in_play,Forehand,Flat,deep,deuce,ad,In,Opponent,middle,inside in,behind
+Opponent,13,47,9,1,-1.18776,0.014843,1.942383,-2.095038,0.399902,84.976036,in_play,Forehand,Flat,deep,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,14,47,9,1,0.995254,3.40625,-1.220703,-1.915872,1.012695,65.81179,in_play,Backhand,Flat,middle,deuce,ad,In,Opponent,middle,down the line,behind
+Opponent,15,47,9,1,5.460938,0.914062,1.224609,-0.376288,1.601562,94.498871,in_play,Forehand,Topspin,deep,deuce_alley,deuce,Out,Opponent,side out,down the line,behind
+Cindy Hu,1,48,9,1,-0.473633,11.6875,0.772461,0.542167,1.947266,62.479736,first_serve,Serve,Flat,none,ad,deuce,Net,Opponent,none,down the T,none
+Cindy Hu,1,48,9,1,1.655086,6.760681,1.043945,0.006003,2.578125,111.741745,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,48,9,1,3.18746,2.362568,2.478516,0.858087,1.632812,63.178574,second_return,Forehand,Slice,deep,deuce,deuce,In,Opponent,wide,cross court,inside
+Cindy Hu,3,48,9,1,2.158333,6.502485,3.773438,-0.392434,1.297852,84.705765,serve_plus_one,Forehand,Topspin,short,deuce,deuce,In,Opponent,wide,cross court,behind
+Opponent,4,48,9,1,1.286352,3.323844,3.904297,-0.329413,1.155273,68.947418,return_plus_one,Forehand,Slice,middle,deuce,deuce,In,Opponent,middle,cross court,behind
+Cindy Hu,5,48,9,1,1.825434,4.170221,1.926758,-0.931497,0.734863,96.725159,in_play,Forehand,Topspin,middle,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,6,48,9,1,0.804743,4.433243,2.789062,-0.470038,1.095703,74.476349,in_play,Forehand,Slice,middle,deuce,deuce,In,Opponent,middle,cross court,behind
+Cindy Hu,7,48,9,1,1.48317,1.825605,1.198242,-0.322122,0.80957,64.069656,in_play,Forehand,Flat,deep,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,8,48,9,1,3.723881,2.305449,2.242188,-2.095038,1.042969,95.255974,in_play,Forehand,Topspin,deep,deuce,deuce,In,Opponent,wide,cross court,behind
+Cindy Hu,1,49,9,1,-3.095174,6.875686,-0.570312,0.203817,2.119141,134.196045,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Opponent,2,49,9,1,0.827295,0.292127,-4.203125,-0.563788,1.506836,81.484612,first_return,Backhand,Topspin,deep,deuce,ad_alley,In,Opponent,middle,down the line,behind
+Cindy Hu,3,49,9,1,-2.772997,3.799547,0.436768,-2.392435,0.992188,70.465637,serve_plus_one,Forehand,Flat,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Opponent,4,49,9,1,-1.272731,1.157521,-2.919922,-0.688788,2.378906,59.070145,return_plus_one,Backhand,Topspin,deep,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,5,49,9,1,-3.669166,4.856399,-1.116211,-1.540872,1.869141,93.16288,in_play,Forehand,Flat,middle,ad,ad,In,Opponent,wide,inside out,behind
+Opponent,6,49,9,1,1.339268,4.530269,-4.414062,-0.845038,1.869141,50.978786,in_play,Backhand,Slice,middle,deuce,ad_alley,In,Opponent,middle,down the line,behind
+Cindy Hu,7,49,9,1,2.507387,3.958442,0.463867,1.506003,1.348633,107.662682,in_play,Forehand,Topspin,middle,deuce,deuce,In,Opponent,wide,cross court,inside
+Cindy Hu,1,50,9,1,1.595096,4.209907,0.555664,1.396628,2.404297,134.128159,first_serve,Serve,Slice,none,deuce,deuce,Out,Cindy Hu,none,down the T,none
+Cindy Hu,1,50,9,1,1.010864,7.942993,0.882812,0.146628,2.527344,109.074989,second_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,2,50,9,1,1.029171,1.112978,2.753906,-1.188788,1.140625,88.679276,second_return,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,3,50,9,1,-4.092315,1.518772,0.864746,-1.353372,0.673828,76.165474,serve_plus_one,Forehand,Flat,deep,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Opponent,4,50,9,1,-0.156481,5.467918,-3.435547,-2.157538,1.201172,84.541855,return_plus_one,Backhand,Topspin,middle,ad,ad,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,5,50,9,1,3.860497,0.293718,-1.066406,-1.759622,1.183594,97.599739,in_play,Forehand,Topspin,deep,deuce,ad,In,Cindy Hu,wide,inside in,behind
+Opponent,6,50,9,1,-2.527647,3.451751,3.767578,-2.610663,1.292969,77.398872,in_play,Forehand,Flat,middle,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,7,50,9,1,-4.105371,4.432445,-2.058594,-0.040872,1.210938,84.210075,in_play,Backhand,Flat,middle,ad,ad,In,Cindy Hu,wide,cross court,behind
+Opponent,8,50,9,1,-3.714622,2.739181,-4.472656,-2.204413,1.59375,66.120941,in_play,Backhand,Topspin,deep,ad,ad_alley,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,9,50,9,1,-2.081258,0.104511,-4.089844,-0.618997,1.453125,89.123741,in_play,Backhand,Topspin,deep,ad,ad,In,Cindy Hu,wide,cross court,behind
+Opponent,10,50,9,1,-2.975413,4.538005,-2.042969,-0.220038,1.172852,63.512753,in_play,Backhand,Topspin,middle,ad,ad,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,11,50,9,1,-2.369141,5.453466,-3.470703,-0.931497,1.395508,64.793228,in_play,Backhand,Flat,middle,ad,ad,In,Cindy Hu,wide,cross court,behind
+Opponent,12,50,9,1,-1.621359,1.422896,-2.990234,1.029962,1.113281,61.943779,in_play,Backhand,Slice,deep,ad,ad,In,Cindy Hu,middle,cross court,inside
+Cindy Hu,13,50,9,1,-5.427613,-0.240326,-1.572266,-1.048684,1.3125,82.060234,in_play,Forehand,Flat,baseline out,ad_alley,ad,Out,Cindy Hu,side out,inside in,behind
+Cindy Hu,1,51,9,1,-3.318509,7.245103,-1.318359,0.310691,2.28125,123.766708,first_serve,Serve,Slice,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,51,9,1,3.313881,4.161272,-4.585938,-0.313788,1.5,78.473587,first_return,Backhand,Topspin,middle,deuce,ad_alley,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,3,51,9,1,0.173795,2.471857,2.681641,-1.626809,1.017578,59.474751,serve_plus_one,Forehand,Slice,deep,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Opponent,4,51,9,1,2.249613,2.714067,0.799316,0.404962,1.34082,91.332405,return_plus_one,Backhand,Topspin,deep,deuce,deuce,In,Cindy Hu,wide,inside out,inside
+Cindy Hu,5,51,9,1,-2.626953,5.473074,2.773438,-1.720559,1.041016,77.93116,in_play,Forehand,Flat,middle,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Opponent,6,51,9,1,-1.068074,4.87666,-1.842773,-0.407538,0.972656,106.299797,in_play,Backhand,Topspin,middle,ad,ad,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,7,51,9,1,-0.594238,5.828212,-2.025391,-1.259622,0.884277,45.146618,in_play,Backhand,Slice,none,ad,ad,Net,Cindy Hu,none,cross court,behind
+Cindy Hu,1,52,9,1,0.333816,6.587991,0.907227,1.123191,2.285156,147.735245,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,2,52,9,1,0.947604,6.41905,1.134766,-0.595038,1.232422,80.88002,first_return,Backhand,Topspin,short,deuce,deuce,In,Cindy Hu,middle,inside out,behind
+Cindy Hu,3,52,9,1,-1.400391,5.760313,1.023438,0.646628,0.74707,51.169003,serve_plus_one,Forehand,Topspin,none,ad,deuce,Net,Cindy Hu,none,down the line,inside
+Opponent,1,53,10,1,1.313025,5.860244,0.947266,-0.595038,2.28125,155.924347,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,53,10,1,1.468652,0.115428,1.588867,-0.954934,1.15625,80.581161,first_return,Backhand,Flat,deep,deuce,deuce,In,Opponent,middle,inside out,behind
+Opponent,3,53,10,1,-0.339092,2.067173,1.49707,-1.470038,0.882812,55.237076,serve_plus_one,Forehand,Flat,deep,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,4,53,10,1,0.815225,6.175504,-0.520996,-0.579934,1.527344,111.281723,return_plus_one,Forehand,Flat,short,deuce,ad,In,Opponent,middle,inside in,behind
+Opponent,1,54,10,1,-2.957247,5.918941,-0.555176,1.404962,2.339844,114.366539,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,54,10,1,-1.342742,3.150098,-3.824219,-0.212747,0.961914,61.571835,first_return,Backhand,Flat,deep,ad,ad,In,Cindy Hu,middle,cross court,behind
+Opponent,3,54,10,1,-0.50293,11.105938,-1.470703,0.311212,1.203125,48.612591,serve_plus_one,Backhand,Slice,none,ad,ad,Net,Cindy Hu,none,cross court,inside
+Opponent,1,55,10,1,2.989825,8.515154,0.490967,1.139337,2.314453,93.173004,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,55,10,1,0.611841,0.157196,4.164062,0.310691,1.257812,99.685448,first_return,Forehand,Topspin,deep,deuce,deuce_alley,In,Cindy Hu,middle,down the line,inside
+Opponent,3,55,10,1,-4.726562,0.921875,0.480225,-0.204413,0.437988,71.354179,serve_plus_one,Backhand,Flat,deep,ad_alley,deuce,Out,Cindy Hu,side out,inside in,behind
+Opponent,1,56,10,1,-1.688527,7.477161,-0.876953,-0.563788,2.398438,109.135803,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,56,10,1,-0.50344,0.008741,-1.952148,-1.220559,1.421875,88.079781,first_return,Forehand,Flat,deep,ad,ad,In,Cindy Hu,middle,inside out,behind
+Opponent,3,56,10,1,-0.134548,3.525256,-0.010567,-1.313788,1.399414,72.835876,serve_plus_one,Forehand,Topspin,middle,ad,center_line,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,4,56,10,1,-2.219494,-0.294674,-0.25293,-1.892434,1.228516,91.420532,return_plus_one,Forehand,Topspin,baseline out,ad,ad,Out,Cindy Hu,wide,inside out,behind
+Opponent,5,56,10,1,-0.249092,4.901906,-2.572266,-1.938788,0.43457,83.048882,in_play,Backhand,Topspin,middle,ad,ad,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,6,56,10,1,-1.953894,3.184688,-0.949707,-1.736184,1.111328,89.8778,in_play,Forehand,Topspin,deep,ad,ad,In,Cindy Hu,middle,inside out,behind
+Opponent,7,56,10,1,4.622448,2.508246,-2.376953,-1.204413,1.564453,88.432579,in_play,Backhand,Topspin,deep,deuce_alley,ad,Out,Cindy Hu,side out,down the line,behind
+Opponent,1,57,10,1,0.902477,6.424815,0.969727,0.608087,2.240234,101.793015,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,57,10,1,1.19346,0.536962,1.708008,0.037253,1.154297,78.222572,first_return,Backhand,Flat,deep,deuce,deuce,In,Opponent,middle,inside out,inside
+Opponent,3,57,10,1,-4.405542,5.274333,1.810547,-1.470038,1.171875,76.776398,serve_plus_one,Forehand,Topspin,middle,ad_alley,deuce,Out,Opponent,side out,down the line,behind
+Cindy Hu,4,57,10,1,2.748274,3.353275,-4.832031,-0.197122,0.982422,72.856071,return_plus_one,Backhand,Topspin,middle,deuce,ad_alley,In,Opponent,wide,down the line,behind
+Opponent,5,57,10,1,-1.437584,3.973984,1.761719,-0.907538,1.206055,77.640419,in_play,Forehand,Slice,middle,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,1,58,11,1,3.412791,5.025759,0.871582,-0.360663,2.242188,132.936356,first_serve,Serve,Flat,none,deuce,deuce,Out,Opponent,none,out wide,none
+Cindy Hu,1,58,11,1,1.345777,6.311196,0.635254,1.436212,2.275391,103.361839,second_serve,Serve,Kick,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,58,11,1,3.27755,0.15208,1.717773,-1.540872,1.078125,84.226662,second_return,Backhand,Topspin,deep,deuce,deuce,In,Opponent,wide,inside out,behind
+Cindy Hu,3,58,11,1,0.63072,5.225318,3.292969,-1.813788,0.646973,61.899799,serve_plus_one,Forehand,Flat,middle,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,4,58,11,1,-1.226699,4.84019,0.913574,3.232565,1.016602,67.242241,return_plus_one,Forehand,Slice,middle,ad,deuce,In,Opponent,middle,down the line,inside
+Cindy Hu,5,58,11,1,-1.924805,10.132812,-1.196289,-0.173163,0.615234,45.145359,in_play,Backhand,Slice,short,ad,ad,In,Opponent,middle,cross court,behind
+Opponent,6,58,11,1,1.620659,5.479524,-1.924805,9.607566,1.876953,29.268389,in_play,Volley,Flat,middle,deuce,ad,In,Opponent,middle,down the line,volley
+Cindy Hu,1,59,11,1,-2.689805,6.993958,-1.208984,-0.516913,2.5,113.444588,first_serve,Serve,Slice,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,59,11,1,0.341221,0.012628,-4.5,-0.658059,1.296875,98.400902,first_return,Backhand,Flat,deep,deuce,ad_alley,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,3,59,11,1,-1.84401,7.396437,0.517578,-0.720038,0.555176,55.73938,serve_plus_one,Forehand,Topspin,short,ad,deuce,In,Cindy Hu,middle,down the line,behind
+Opponent,4,59,11,1,-2.454857,3.768419,-2.494141,1.021628,1.613281,90.689636,return_plus_one,Backhand,Flat,middle,ad,ad,In,Cindy Hu,wide,cross court,inside
+Cindy Hu,5,59,11,1,3.834955,6.320379,-3.253906,-0.876288,1.146484,105.029037,in_play,Backhand,Topspin,short,deuce,ad,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,1,60,11,1,2.352342,7.134663,0.972656,-0.360663,2.248047,117.713905,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,out wide,none
+Opponent,2,60,11,1,1.674575,2.550886,3.201172,-0.712747,1.140625,89.665245,first_return,Forehand,Flat,deep,deuce,deuce,In,Opponent,middle,cross court,behind
+Cindy Hu,3,60,11,1,-3.500504,0.316763,2.849609,-0.563788,1.243164,78.718285,serve_plus_one,Forehand,Topspin,deep,ad,deuce,In,Opponent,wide,down the line,behind
+Opponent,4,60,11,1,-1.491348,6.706691,-3.201172,-1.314309,1.100586,64.601173,return_plus_one,Backhand,Flat,short,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,5,60,11,1,-4.804395,0.475746,-2.392578,-0.360663,0.951172,70.665627,in_play,Backhand,Slice,deep,ad_alley,ad,Out,Opponent,side out,down the line,behind
+Cindy Hu,1,61,11,1,1.460938,11.3325,-1.164062,-0.720038,2.439453,76.084122,first_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,down the T,none
+Cindy Hu,1,61,11,1,-3.374239,5.698764,-1.394531,-0.313788,2.474609,108.676041,second_serve,Serve,Slice,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,61,11,1,-1.247171,4.830541,-4.429688,-0.970559,1.319336,76.647041,second_return,Backhand,Topspin,middle,ad,ad_alley,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,3,61,11,1,-0.075885,4.720384,-1.829102,-0.470038,1.613281,64.789528,serve_plus_one,Backhand,Slice,middle,ad,ad,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,1,62,11,1,3.570887,6.470742,0.93457,-0.282538,2.222656,140.933899,first_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,out wide,none
+Opponent,2,62,11,1,-0.642533,-0.000628,4.207031,1.513816,1.339844,56.665539,first_return,Forehand,Slice,baseline out,ad,deuce_alley,In,Cindy Hu,middle,down the line,inside
+Cindy Hu,3,62,11,1,3.055759,6.020793,0.178589,-1.110663,1.400391,83.834274,serve_plus_one,Forehand,Topspin,short,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Opponent,4,62,11,1,1.95305,4.684564,3.470703,-0.501809,0.875977,68.120224,return_plus_one,Forehand,Slice,middle,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,5,62,11,1,3.995953,1.366031,2.677734,0.779962,1.375977,80.67498,in_play,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,wide,cross court,inside
+Opponent,6,62,11,1,-0.136825,6.277344,3.125,5.951315,3.089844,29.23715,in_play,Forehand,Topspin,none,ad,deuce,Net,Cindy Hu,none,down the line,inside
+Cindy Hu,7,62,11,1,-1.423647,9.579278,-0.341553,7.920587,2.992188,89.767464,in_play,Overhead,Flat,short,ad,ad,In,Cindy Hu,middle,---,volley
+Opponent,8,62,11,1,-0.958984,10.601562,-2.152344,8.591941,6.917969,9.371463,in_play,Backhand,Topspin,none,ad,ad,Net,Cindy Hu,none,cross court,inside
+Cindy Hu,1,63,11,1,-3.595228,6.730449,-0.967285,0.529962,2.392578,133.16748,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,63,11,1,-3.246094,11.617188,-4.542969,-0.158059,1.173828,39.233303,first_return,Backhand,Topspin,none,ad,ad_alley,Net,Cindy Hu,none,down the line,behind
+Cindy Hu,1,64,11,1,4.091607,4.413814,0.51416,0.686212,2.34375,122.920044,first_serve,Serve,Flat,none,deuce,deuce,Out,Opponent,none,out wide,none
+Cindy Hu,1,64,11,1,2.081624,6.308553,0.835938,-0.407538,2.201172,103.620132,second_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,64,11,1,-1.592221,1.872024,2.765625,-1.423684,1.189453,96.283127,second_return,Forehand,Flat,deep,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,3,64,11,1,-3.062567,1.77328,-1.027344,0.498712,1.103516,78.304329,serve_plus_one,Forehand,Flat,deep,ad,ad,In,Opponent,wide,inside out,inside
+Opponent,4,64,11,1,-1.983677,4.792141,-3.490234,-0.900247,1.306641,85.306229,return_plus_one,Backhand,Flat,middle,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,5,64,11,1,-1.284283,4.888292,-2.494141,-0.845038,1.25,80.400291,in_play,Backhand,Topspin,middle,ad,ad,In,Opponent,middle,cross court,behind
+Opponent,6,64,11,1,-1.771924,5.059089,-2.285156,0.849753,0.772461,88.745079,in_play,Backhand,Flat,middle,ad,ad,In,Opponent,middle,cross court,inside
+Cindy Hu,7,64,11,1,1.274869,2.504151,-2.478516,-2.313788,1.236328,67.598625,in_play,Backhand,Slice,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Opponent,8,64,11,1,3.234375,7.774154,0.881348,-0.853372,0.990234,53.305019,in_play,Forehand,Flat,none,deuce,deuce,Net,Opponent,none,cross court,behind
+Opponent,1,65,12,1,0.670812,5.671648,1.055664,0.646628,2.373047,128.715515,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,65,12,1,1.127277,3.893959,1.349609,-0.438788,1.367188,74.378586,first_return,Backhand,Topspin,middle,deuce,deuce,In,Cindy Hu,middle,inside out,behind
+Opponent,3,65,12,1,-0.729492,0.299651,0.71875,0.138816,1.166992,52.576668,serve_plus_one,Forehand,Flat,none,ad,deuce,Net,Cindy Hu,none,down the line,inside
+Cindy Hu,4,65,12,1,2.516596,5.462467,0.60498,-1.220038,0.783203,80.844131,return_plus_one,Forehand,Topspin,middle,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Opponent,5,65,12,1,3.13354,4.691017,2.613281,-0.603372,1.168945,91.240707,in_play,Forehand,Flat,middle,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,6,65,12,1,-2.162109,11.504375,4.300781,-1.516913,1.275391,55.077419,in_play,Forehand,Flat,none,ad,deuce_alley,Net,Cindy Hu,none,down the line,behind
+Opponent,1,66,12,1,3.505859,11.804688,-0.654785,-0.134622,2.371094,66.108955,first_serve,Serve,Flat,none,deuce,ad,Net,Opponent,none,out wide,none
+Opponent,1,66,12,1,-3.021365,6.842392,-0.508301,-0.322122,2.283203,102.276802,second_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Cindy Hu,2,66,12,1,0.551562,4.270388,-3.580078,-0.063788,1.435547,83.480171,second_return,Backhand,Flat,middle,deuce,ad,In,Opponent,middle,down the line,behind
+Opponent,3,66,12,1,-0.822266,6.08288,-0.529297,-1.806497,1.115234,58.711281,serve_plus_one,Forehand,Topspin,none,ad,ad,Net,Opponent,none,inside out,behind
+Opponent,1,67,12,1,0.971328,5.751762,0.781738,0.29121,2.259766,139.887558,second_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,67,12,1,-0.851362,-0.350703,1.77832,-0.641913,1.242188,67.979897,second_return,Backhand,Flat,baseline out,ad,deuce,Out,Opponent,middle,inside in,behind
+Opponent,3,67,12,1,-2.052907,3.829311,-1.044922,-1.376809,0.24707,59.857353,serve_plus_one,Backhand,Flat,middle,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,4,67,12,1,-0.053883,2.517943,-1.912109,-0.782538,1.638672,86.65564,return_plus_one,Backhand,Flat,deep,ad,ad,In,Opponent,middle,cross court,behind
+Opponent,1,68,12,1,-0.613301,7.520025,-0.799316,-0.314309,2.349609,122.153397,second_serve,Serve,Slice,none,ad,ad,In,Opponent,none,down the T,none
+Cindy Hu,2,68,12,1,5.354761,3.009415,-0.752441,-0.173163,1.216797,52.921562,second_return,Forehand,Topspin,deep,deuce_alley,ad,Out,Opponent,side out,inside in,behind
+Opponent,1,69,12,1,3.673828,4.92625,1.131836,-0.150247,2.615234,172.04361,first_serve,Serve,Slice,none,deuce,deuce,Out,Opponent,none,out wide,none
+Opponent,1,69,12,1,2.876266,5.691898,0.77832,0.787253,2.431641,108.277809,second_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,out wide,none
+Cindy Hu,2,69,12,1,0.12377,3.048412,4.425781,-0.985663,1.142578,71.250298,second_return,Forehand,Topspin,deep,deuce,deuce_alley,In,Opponent,middle,down the line,behind
+Opponent,3,69,12,1,-1.798081,1.637708,0.813965,-1.329934,1.484375,90.430748,serve_plus_one,Forehand,Topspin,deep,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,4,69,12,1,3.328125,11.066875,-1.813477,-0.970038,0.771484,47.043182,return_plus_one,Backhand,Topspin,none,deuce,ad,Net,Opponent,none,down the line,behind
+Cindy Hu,1,70,13,2,1.007812,5.479524,0.706543,0.257688,2.294922,142.222427,first_serve,Serve,Slice,none,deuce,deuce,Out,Opponent,none,down the T,none
+Opponent,2,70,13,2,-0.510742,11.285625,1.421875,-0.220038,1.355469,43.17112,first_return,Backhand,Topspin,none,ad,deuce,Net,Opponent,none,inside in,behind
+Cindy Hu,1,71,13,2,-3.247312,6.866333,-1.206055,0.568503,2.222656,124.230621,first_serve,Serve,Slice,none,ad,ad,In,Opponent,none,out wide,none
+Opponent,2,71,13,2,5.041348,2.792979,-4.5625,-0.360663,1.53418,79.747208,first_return,Backhand,Topspin,deep,deuce_alley,ad_alley,Out,Opponent,side out,down the line,behind
+Cindy Hu,1,72,13,2,2.920527,7.260274,0.651367,0.698494,2.183594,119.057686,first_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,out wide,none
+Opponent,2,72,13,2,2.273504,2.357022,5.328125,-1.595038,1.050781,63.573872,first_return,Forehand,Slice,deep,deuce,deuce_alley,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,3,72,13,2,1.231207,4.964849,2.449219,-1.173684,1.147461,94.041801,serve_plus_one,Forehand,Flat,middle,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Opponent,4,72,13,2,1.970311,-1.78276,3.175781,-1.298163,1.004883,91.620667,return_plus_one,Forehand,Topspin,baseline out,deuce,deuce,Out,Cindy Hu,middle,cross court,behind
+Cindy Hu,1,73,13,2,-4.380134,8.344817,-0.917969,0.740378,2.162109,114.671104,first_serve,Serve,Flat,none,ad_alley,ad,Out,Cindy Hu,none,out wide,none
+Opponent,1,75,14,2,1.027933,5.470381,1.035156,-0.376288,2.220703,136.137756,first_serve,Serve,Flat,none,deuce,deuce,Out,Cindy Hu,none,down the T,none
+Cindy Hu,2,75,14,2,3.573026,0.024133,1.616211,-1.681497,1.081055,93.730331,first_return,Backhand,Flat,deep,deuce,deuce,In,Cindy Hu,wide,inside out,behind
+Opponent,3,75,14,2,3.181737,1.543208,3.246094,-1.251288,0.436523,80.227524,serve_plus_one,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,4,75,14,2,2.081482,0.321769,3.345703,0.029441,1.356445,84.534447,return_plus_one,Forehand,Flat,deep,deuce,deuce,In,Cindy Hu,wide,cross court,inside
+Opponent,5,75,14,2,-1.972311,5.78574,2.748047,-1.813788,1.09082,82.250633,in_play,Forehand,Topspin,short,ad,deuce,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,6,75,14,2,-1.09388,1.070571,-1.635742,-0.540872,1.388672,68.366959,in_play,Backhand,Slice,deep,ad,ad,In,Cindy Hu,middle,cross court,behind
+Opponent,7,75,14,2,4.417374,3.131418,-1.378906,-1.532538,0.939453,77.856155,in_play,Forehand,Topspin,deep,deuce_alley,ad,Out,Cindy Hu,side out,inside in,behind
+Opponent,1,76,14,2,-3.24631,5.988393,-0.851074,-0.173163,2.453125,133.545212,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,76,14,2,0.552953,3.234823,-4.324219,-0.353372,0.990234,73.498932,first_return,Backhand,Flat,middle,deuce,ad_alley,In,Cindy Hu,middle,down the line,behind
+Opponent,3,76,14,2,2.935826,3.619825,0.868652,-0.766913,0.861816,83.765808,serve_plus_one,Forehand,Topspin,middle,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,4,76,14,2,1.870117,5.721681,3.333984,-1.533059,1.15332,52.644112,return_plus_one,Forehand,Flat,none,deuce,deuce,Net,Cindy Hu,none,cross court,behind
+Opponent,1,77,14,2,0.907063,4.6345,0.993652,-0.423163,2.265625,125.595055,first_serve,Serve,Flat,none,deuce,deuce,Out,Cindy Hu,none,down the T,none
+Opponent,1,77,14,2,1.305254,7.092509,0.795898,0.592462,2.267578,92.9394,second_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,77,14,2,1.790485,3.927829,1.716797,0.537253,1.308594,68.151909,second_return,Backhand,Flat,middle,deuce,deuce,In,Cindy Hu,middle,inside out,inside
+Opponent,3,77,14,2,2.387371,6.63132,2.628906,-0.563788,1.433594,80.645416,serve_plus_one,Forehand,Topspin,short,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,4,77,14,2,3.202927,4.357069,3.771484,-1.064309,1.005859,86.48597,return_plus_one,Forehand,Flat,middle,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Opponent,5,77,14,2,-6.175204,5.10031,4.605469,-1.470038,1.277344,85.230087,in_play,Forehand,Topspin,middle,ad_out,deuce_alley,Out,Cindy Hu,side out,down the line,behind
+Opponent,1,78,14,2,-0.716107,6.124284,-0.592285,1.201837,2.316406,94.504715,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Cindy Hu,2,78,14,2,-0.031061,2.148862,-0.489014,-1.228372,1.132812,69.901505,first_return,Forehand,Flat,deep,ad,ad,In,Opponent,middle,inside out,behind
+Opponent,3,78,14,2,2.508405,1.737813,-0.117188,-0.173163,1.350586,87.599609,serve_plus_one,Forehand,Topspin,deep,deuce,ad,In,Opponent,wide,inside in,behind
+Cindy Hu,4,78,14,2,-2.218969,3.390514,3.417969,-2.056497,1.291992,54.415199,return_plus_one,Forehand,Slice,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Opponent,5,78,14,2,-3.232925,6.858021,-1.1875,1.967462,1.667969,80.93869,in_play,Backhand,Topspin,short,ad,ad,In,Opponent,wide,cross court,inside
+Cindy Hu,6,78,14,2,-2.757258,-0.864872,-4.082031,-0.197122,0.918457,64.39904,in_play,Backhand,Slice,baseline out,ad,ad,Out,Opponent,wide,cross court,behind
+Opponent,7,78,14,2,-0.33247,5.470381,-2.800781,-1.063788,2.111328,52.427315,in_play,Backhand,Topspin,middle,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,8,78,14,2,-0.723885,4.283887,-1.299805,-1.579934,1.833984,83.025558,in_play,Backhand,Slice,middle,ad,ad,In,Opponent,middle,cross court,behind
+Opponent,1,79,14,2,3.570898,6.233136,0.832031,0.654962,2.265625,94.903458,first_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,out wide,none
+Cindy Hu,2,79,14,2,3.561392,-5.877938,4.625,2.357565,1.275391,92.785942,first_return,Forehand,Topspin,baseline out,deuce,deuce_alley,Out,Opponent,wide,down the line,inside
+Opponent,1,80,14,2,-3.966704,4.33111,-1.072266,-0.063788,2.451172,121.588593,first_serve,Serve,Flat,none,ad,ad,Out,Opponent,none,out wide,none
+Opponent,1,80,14,2,-3.423787,5.138612,-0.469238,0.027212,2.330078,89.998077,first_serve,Serve,Flat,none,ad,ad,Out,Opponent,none,out wide,none
+Opponent,1,80,14,2,-1.109375,7.02,-0.883789,-0.563788,2.296875,43.542274,first_serve,Serve,Flat,none,ad,ad,Net,Opponent,none,out wide,none
+Opponent,1,80,14,2,-3.362539,7.355353,-0.295898,-0.26261,2.292969,103.183891,second_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Cindy Hu,2,80,14,2,-4.736009,11.789062,-4.863281,0.076316,1.164062,57.929073,second_return,Backhand,Flat,none,ad_alley,ad_alley,Net,Opponent,none,cross court,inside
+Cindy Hu,1,81,15,2,3.949272,8.765338,0.646484,-0.360663,2.267578,46.05114,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,out wide,none
+Cindy Hu,1,83,15,2,1.720889,7.162872,0.686523,-0.063788,2.277344,130.943649,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,83,15,2,1.410308,10.766046,2.033203,-1.087747,1.508789,63.321991,first_return,Forehand,Flat,none,deuce,deuce,Net,Opponent,none,cross court,behind
+Cindy Hu,1,84,15,2,-0.495959,7.180637,-1.1875,0.154962,2.4375,138.483124,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Opponent,2,84,15,2,-1.694336,6.451279,-1.769531,-2.798685,1.1875,53.148392,first_return,Forehand,Slice,none,ad,ad,Net,Opponent,none,inside out,behind
+Cindy Hu,1,85,15,2,-1.735352,7.473125,1.196289,-0.126288,2.228516,46.883415,first_serve,Serve,Flat,none,ad,deuce,Net,Opponent,none,out wide,none
+Cindy Hu,1,85,15,2,3.456078,5.573771,0.877441,-0.251288,2.193359,128.682404,second_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,out wide,none
+Opponent,2,85,15,2,2.803127,8.07107,4.613281,-0.345559,0.938477,64.518097,second_return,Forehand,Topspin,short,deuce,deuce_alley,In,Opponent,wide,down the line,behind
+Cindy Hu,3,85,15,2,3.5415,6.333833,5.351562,0.123712,0.8125,54.765053,serve_plus_one,Forehand,Slice,short,deuce,deuce_alley,In,Opponent,wide,down the line,inside
+Opponent,4,85,15,2,1.585632,5.492454,4.269531,4.31069,1.083984,84.05761,return_plus_one,Forehand,Topspin,short,deuce,deuce_alley,In,Opponent,middle,down the line,inside
+Cindy Hu,5,85,15,2,-0.868652,8.789062,3.162109,-0.016913,0.803223,44.710751,in_play,Forehand,Flat,short,ad,deuce,In,Opponent,middle,down the line,behind
+Opponent,6,85,15,2,-2.627422,6.212898,-0.868652,8.263816,0.834961,32.055855,in_play,Volley,Flat,short,ad,ad,In,Opponent,wide,cross court,volley
+Cindy Hu,1,86,15,2,0.931641,10.285625,-1.287109,0.139337,2.367188,40.059296,first_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,down the T,none
+Cindy Hu,1,86,15,2,-0.252801,6.931299,-1.074219,-0.251288,2.419922,133.311935,second_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,down the T,none
+Opponent,2,86,15,2,4.002264,0.02844,-0.915527,-2.78306,1.024414,83.324242,second_return,Forehand,Topspin,deep,deuce,ad,In,Cindy Hu,wide,inside in,behind
+Cindy Hu,1,87,15,2,1.138564,5.509485,0.938477,0.045587,2.193359,132.843887,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,2,87,15,2,2.838107,3.701925,1.631836,-2.09556,1.517578,74.640251,first_return,Backhand,Topspin,middle,deuce,deuce,In,Cindy Hu,wide,inside out,behind
+Cindy Hu,3,87,15,2,0.957617,3.283613,3.308594,-1.766913,1.294922,117.348389,serve_plus_one,Forehand,Flat,middle,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Opponent,4,87,15,2,0.070346,1.77079,1.333008,-1.611184,0.850586,78.313667,return_plus_one,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,5,87,15,2,1.966354,0.795355,0.806152,-0.688788,1.208984,82.473526,in_play,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Opponent,6,87,15,2,0.199859,4.110425,1.749023,-1.587747,1.183594,80.182884,in_play,Forehand,Flat,middle,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,7,87,15,2,2.89506,4.349042,1.181641,0.248712,1.40918,85.823601,in_play,Forehand,Topspin,middle,deuce,deuce,In,Cindy Hu,wide,cross court,inside
+Opponent,8,87,15,2,4.088643,0.010442,3.269531,-1.431497,1.001953,76.723763,in_play,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,9,87,15,2,1.092354,7.699542,3.837891,-2.157538,0.862305,72.383377,in_play,Forehand,Topspin,short,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Opponent,10,87,15,2,-2.900385,3.528841,2.230469,3.09194,0.856445,60.763611,in_play,Forehand,Topspin,middle,ad,deuce,In,Cindy Hu,wide,down the line,inside
+Opponent,1,88,16,2,0.988253,5.781845,1.084961,0.779441,2.539062,127.3246,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,88,16,2,-4.707112,1.565218,1.870117,0.404962,1.407227,56.155178,first_return,Backhand,Flat,deep,ad_alley,deuce,Out,Opponent,side out,inside in,inside
+Opponent,3,88,16,2,-0.409823,6.472299,-4.429688,-1.892434,1.412109,51.593178,serve_plus_one,Backhand,Topspin,short,ad,ad_alley,In,Opponent,middle,down the line,behind
+Cindy Hu,4,88,16,2,-3.960284,5.439553,-0.563965,1.311212,2.287109,95.785164,return_plus_one,Forehand,Flat,middle,ad,ad,In,Opponent,wide,inside out,inside
+Opponent,5,88,16,2,1.530273,4.4575,-4.410156,-1.017434,1.416992,53.344975,in_play,Backhand,Topspin,middle,deuce,ad_alley,In,Opponent,middle,down the line,behind
+Opponent,1,89,16,2,1.49707,6.533144,-0.601074,1.002565,2.259766,66.869308,first_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,out wide,none
+Opponent,1,89,16,2,-3.435888,7.299686,-0.547363,0.107566,2.304688,103.250053,second_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,89,16,2,-2.974609,11.074688,-4.417969,-0.157538,1.28125,53.220844,second_return,Backhand,Topspin,none,ad,ad_alley,Net,Cindy Hu,none,down the line,behind
+Opponent,1,90,16,2,1.895947,6.191291,0.960449,0.631003,2.484375,111.513748,first_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,90,16,2,-0.588,4.302015,2.673828,0.014337,1.172852,85.792664,first_return,Backhand,Flat,middle,ad,deuce,In,Cindy Hu,middle,inside in,inside
+Opponent,3,90,16,2,2.800781,5.77,-0.553223,-0.822122,1.254883,130.131241,serve_plus_one,Backhand,Flat,short,deuce,ad,In,Cindy Hu,wide,down the line,behind
+Opponent,1,91,16,2,0.848145,6.282881,-0.793457,0.506687,2.222656,62.852837,first_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,out wide,none
+Opponent,1,91,16,2,-2.741395,5.436332,-0.571777,1.427878,2.427734,95.227806,second_serve,Serve,Flat,none,ad,ad,Out,Cindy Hu,none,out wide,none
+Cindy Hu,2,91,16,2,-4.823845,6.615694,-2.375,-1.282538,1.492188,93.833275,second_return,Forehand,Topspin,short,ad_alley,ad,Out,Cindy Hu,side out,inside in,behind
+Opponent,1,92,16,2,2.707031,5.472572,0.581055,0.212986,2.421875,134.767914,first_serve,Serve,Slice,none,deuce,deuce,Out,Opponent,none,out wide,none
+Cindy Hu,2,92,16,2,1.447748,5.979246,3.830078,-0.563788,1.103516,87.12542,first_return,Forehand,Flat,short,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,3,92,16,2,2.916518,0.9899,2.224609,1.154441,0.997559,91.864388,serve_plus_one,Forehand,Flat,deep,deuce,deuce,In,Opponent,wide,cross court,inside
+Cindy Hu,4,92,16,2,2.59369,3.036423,4.105469,-3.188788,1.037109,91.199226,return_plus_one,Forehand,Topspin,deep,deuce,deuce,In,Opponent,wide,cross court,behind
+Opponent,5,92,16,2,-2.988943,4.136684,3.361328,-1.611184,1.139648,102.326057,in_play,Forehand,Flat,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,6,92,16,2,0.626052,4.101244,-2.248047,0.779962,1.708984,78.484566,in_play,Backhand,Slice,middle,deuce,ad,In,Opponent,middle,down the line,inside
+Opponent,7,92,16,2,-0.747864,5.050622,-0.130127,0.154441,0.873047,68.720337,in_play,Forehand,Slice,middle,ad,ad,In,Opponent,middle,inside out,inside
+Cindy Hu,8,92,16,2,-0.825954,5.503021,-0.679688,-0.657538,0.581055,64.481239,in_play,Backhand,Slice,short,ad,ad,In,Opponent,middle,cross court,behind
+Opponent,9,92,16,2,-0.484131,9.934996,-0.77002,3.59194,1.203125,44.318466,in_play,Backhand,Flat,short,ad,ad,In,Opponent,middle,cross court,inside
+Cindy Hu,10,92,16,2,-3.363976,2.671621,-0.859863,-1.313788,0.430664,66.224052,in_play,Forehand,Flat,deep,ad,ad,In,Opponent,wide,inside out,behind
+Opponent,11,92,16,2,5.404387,0.045114,-4.214844,-0.189309,1.337891,119.914734,in_play,Backhand,Flat,deep,deuce_alley,ad_alley,Out,Opponent,side out,down the line,behind
+Cindy Hu,1,93,16,2,-1.698838,7.423077,1.170898,0.5137,2.341797,152.195618,first_serve,Serve,Flat,none,ad,deuce,Out,Opponent,none,down the T,none
+Opponent,1,93,16,2,-3.597767,6.551912,-0.874023,1.310691,2.392578,129.976547,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Cindy Hu,2,93,16,2,3.25049,5.511047,-4.367188,-1.095038,0.922852,66.265434,first_return,Backhand,Flat,short,deuce,ad_alley,In,Opponent,wide,down the line,behind
+Opponent,3,93,16,2,2.809672,1.531883,2.009766,1.006003,1.208984,100.524178,serve_plus_one,Forehand,Flat,deep,deuce,deuce,In,Opponent,wide,cross court,inside
+Opponent,1,94,16,2,-1.278763,6.408472,-0.773926,0.123191,2.341797,119.536865,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Cindy Hu,2,94,16,2,2.672333,3.884126,-1.30957,-0.782538,1.621094,63.551651,first_return,Forehand,Topspin,middle,deuce,ad,In,Opponent,wide,inside in,behind
+Opponent,3,94,16,2,-3.639128,6.047719,2.587891,-2.478372,1.068359,62.214172,serve_plus_one,Forehand,Topspin,short,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,4,94,16,2,-0.145362,4.573916,-3.144531,-1.782538,1.361328,75.927299,return_plus_one,Forehand,Topspin,middle,ad,ad,In,Opponent,middle,inside out,behind
+Opponent,5,94,16,2,1.147135,5.792144,-1.006836,-1.431497,1.630859,97.640358,in_play,Backhand,Topspin,short,deuce,ad,In,Opponent,middle,down the line,behind
+Cindy Hu,6,94,16,2,1.099089,6.095404,1.893555,-0.532538,1.119141,75.410004,in_play,Forehand,Topspin,short,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,7,94,16,2,-3.158907,4.332256,1.774414,0.998191,0.981445,77.148804,in_play,Forehand,Topspin,middle,ad,deuce,In,Opponent,wide,down the line,inside
+Cindy Hu,8,94,16,2,2.05339,1.38528,-2.869141,-2.110663,1.460938,58.309273,in_play,Backhand,Slice,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Opponent,9,94,16,2,3.325524,3.739484,1.933594,-2.384622,1.091797,94.971329,in_play,Forehand,Topspin,middle,deuce,deuce,In,Opponent,wide,cross court,behind
+Cindy Hu,10,94,16,2,2.723952,6.626181,4.21875,-2.188788,1.038086,62.208717,in_play,Forehand,Flat,short,deuce,deuce_alley,In,Opponent,wide,down the line,behind
+Opponent,11,94,16,2,-0.917964,2.37396,4.007812,1.646628,0.712891,86.141846,in_play,Forehand,Topspin,deep,ad,deuce,In,Opponent,middle,down the line,inside
+Cindy Hu,12,94,16,2,-2.132812,11.402812,0.092529,-0.751288,1.046875,57.339741,in_play,Backhand,Flat,none,ad,deuce,Net,Opponent,none,inside in,behind
+Cindy Hu,1,95,17,2,-2.232422,11.460938,0.679688,0.341897,2.123047,65.117622,first_serve,Serve,Slice,none,ad,deuce,Net,Cindy Hu,none,out wide,none
+Cindy Hu,1,95,17,2,1.555133,6.143562,0.706543,0.099753,2.46875,114.599167,second_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,2,95,17,2,1.622241,7.271133,2.861328,-1.157538,1.275391,83.110497,second_return,Forehand,Topspin,short,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,3,95,17,2,3.564032,0.046518,2.501953,-0.400247,0.838867,95.82309,serve_plus_one,Forehand,Flat,deep,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Opponent,4,95,17,2,1.599581,1.479176,3.710938,-2.985663,0.96875,91.903206,return_plus_one,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,5,95,17,2,-5.401028,3.090328,0.911133,-1.798684,0.9375,81.10054,in_play,Forehand,Flat,deep,ad_alley,deuce,Out,Cindy Hu,side out,down the line,behind
+Cindy Hu,1,96,17,2,-3.498984,7.417291,-1.296875,0.849753,2.433594,137.469818,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Opponent,2,96,17,2,2.66009,3.773827,-4.285156,0.186212,1.722656,48.857628,first_return,Backhand,Slice,middle,deuce,ad_alley,In,Opponent,wide,down the line,inside
+Cindy Hu,3,96,17,2,2.846541,3.015592,1.908203,2.99819,1.416016,96.822403,serve_plus_one,Forehand,Flat,deep,deuce,deuce,In,Opponent,wide,cross court,inside
+Opponent,4,96,17,2,4.593916,1.919839,4.242188,-2.376288,1.074219,82.103943,return_plus_one,Forehand,Topspin,deep,deuce_alley,deuce_alley,Out,Opponent,side out,cross court,behind
+Cindy Hu,1,97,17,2,0.700328,4.089386,0.396973,0.611249,2.460938,139.985046,first_serve,Serve,Slice,none,deuce,deuce,Out,Opponent,none,down the T,none
+Cindy Hu,1,97,17,2,3.568475,6.041976,0.320801,0.748191,2.337891,136.85289,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,out wide,none
+Opponent,2,97,17,2,3.035156,5.066875,5.648438,-0.313788,1.224609,40.926399,second_return,Forehand,Flat,none,deuce,deuce_out,Net,Opponent,none,down the line,behind
+Cindy Hu,1,98,17,2,-0.590507,7.327634,-1.399414,0.881003,2.390625,133.060516,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,down the T,none
+Opponent,2,98,17,2,0.639519,5.764567,-1.063477,-0.532538,1.297852,84.582405,first_return,Forehand,Flat,short,deuce,ad,In,Cindy Hu,middle,inside in,behind
+Cindy Hu,3,98,17,2,-1.582704,4.88804,0.222534,-1.197122,0.924805,93.328247,serve_plus_one,Forehand,Flat,middle,ad,deuce,In,Cindy Hu,middle,down the line,behind
+Opponent,4,98,17,2,3.520639,4.556544,-1.636719,-0.720038,1.486328,97.012619,return_plus_one,Backhand,Topspin,middle,deuce,ad,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,1,99,17,2,-1.746094,11.476562,0.774902,0.107566,2.498047,62.83791,first_serve,Serve,Slice,none,ad,deuce,Net,Opponent,none,out wide,none
+Cindy Hu,1,99,17,2,-0.637695,6.029926,1.629883,0.161412,2.644531,71.968689,second_serve,Serve,Slice,none,ad,deuce,Net,Opponent,none,down the T,none
+Cindy Hu,1,100,17,2,-3.242394,7.238971,-1.033203,0.740378,2.197266,120.113213,first_serve,Serve,Slice,none,ad,ad,In,Cindy Hu,none,out wide,none
+Opponent,2,100,17,2,-0.0347,4.596227,-4.597656,-0.595038,1.388672,74.899124,first_return,Backhand,Topspin,middle,ad,ad_alley,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,3,100,17,2,2.086062,-2.190428,-1.117188,-0.501809,1.640625,104.85157,serve_plus_one,Forehand,Topspin,baseline out,deuce,ad,Out,Cindy Hu,wide,inside in,behind
+Opponent,4,100,17,2,-1.810547,3.28125,2.419922,-1.735663,0.554688,74.616142,return_plus_one,Forehand,Topspin,middle,ad,deuce,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,5,100,17,2,1.050781,7.442366,-1.420898,-0.134622,1.03125,61.967022,in_play,Backhand,Flat,none,deuce,ad,Net,Cindy Hu,none,down the line,behind
+Opponent,1,101,18,2,-2.025391,11.004375,1.118164,0.248712,2.269531,39.299274,first_serve,Serve,Flat,none,ad,deuce,Net,Opponent,none,out wide,none
+Opponent,1,101,18,2,2.242775,7.15888,0.948242,-0.126288,2.357422,109.046585,second_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,out wide,none
+Cindy Hu,2,101,18,2,-1.714844,5.444335,3.582031,-0.423684,1.398438,104.043968,second_return,Forehand,Flat,middle,ad,deuce,In,Opponent,middle,down the line,behind
+Opponent,3,101,18,2,-0.140262,2.57309,-0.881348,-0.735663,1.21582,78.49511,serve_plus_one,Backhand,Topspin,deep,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,4,101,18,2,1.198205,0.701658,-0.380371,-1.501809,1.128906,94.665565,return_plus_one,Backhand,Flat,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Opponent,5,101,18,2,-2.766936,4.112303,1.820312,-1.610663,1.111328,81.060799,in_play,Forehand,Topspin,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,6,101,18,2,-0.997637,1.603832,-2.943359,0.271628,1.705078,70.819221,in_play,Backhand,Flat,deep,ad,ad,In,Opponent,middle,cross court,inside
+Opponent,7,101,18,2,-1.457307,5.460528,-1.382812,-0.673163,1.203125,87.525986,in_play,Forehand,Topspin,middle,ad,ad,In,Opponent,middle,inside out,behind
+Cindy Hu,8,101,18,2,-0.395226,3.001758,-2.115234,0.021628,1.339844,69.568192,in_play,Backhand,Slice,deep,ad,ad,In,Opponent,middle,cross court,inside
+Opponent,9,101,18,2,2.26982,3.901438,-0.22998,-0.423163,0.784668,86.285507,in_play,Forehand,Topspin,middle,deuce,ad,In,Opponent,wide,inside in,behind
+Cindy Hu,10,101,18,2,1.985418,2.34523,2.164062,-2.15806,0.760742,98.817871,in_play,Forehand,Topspin,deep,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,11,101,18,2,-0.261493,4.790596,3.177734,-2.345038,1.021484,74.976372,in_play,Forehand,Slice,middle,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,12,101,18,2,3.2804,2.107383,-0.282227,-1.087747,0.509277,95.021675,in_play,Forehand,Flat,deep,deuce,ad,In,Opponent,wide,inside in,behind
+Opponent,13,101,18,2,3.039943,2.996044,4.03125,-3.501288,0.879883,72.895912,in_play,Forehand,Slice,deep,deuce,deuce,In,Opponent,wide,cross court,behind
+Cindy Hu,14,101,18,2,-0.367591,7.711151,3.140625,1.498191,0.953125,47.200169,in_play,Forehand,Slice,short,ad,deuce,In,Opponent,middle,down the line,inside
+Opponent,15,101,18,2,-0.11207,5.703463,0.528809,0.936212,0.574707,85.452751,in_play,Forehand,Flat,short,ad,deuce,In,Opponent,middle,down the line,inside
+Cindy Hu,16,101,18,2,-0.652881,-4.273242,-1.202148,1.021628,0.243164,68.132202,in_play,Backhand,Flat,baseline out,ad,ad,Out,Opponent,middle,cross court,inside
+Opponent,1,102,18,2,2.455078,11.30125,-0.568359,0.873712,2.335938,61.150124,first_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,out wide,none
+Opponent,1,102,18,2,-2.594597,7.898532,-0.599121,1.092462,2.345703,96.880775,second_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,102,18,2,0.375769,1.278301,-3.390625,-0.118997,1.367188,82.806953,second_return,Forehand,Topspin,deep,deuce,ad,In,Cindy Hu,middle,inside in,behind
+Opponent,3,102,18,2,3.72045,1.627608,0.209717,-1.298163,1.142578,77.971809,serve_plus_one,Forehand,Topspin,deep,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,4,102,18,2,-0.458984,6.73875,3.894531,0.662253,2.689453,48.736515,return_plus_one,Forehand,Topspin,short,ad,deuce,In,Cindy Hu,middle,down the line,inside
+Opponent,5,102,18,2,-1.7663,4.527913,-0.458984,5.529962,2.109375,32.055855,in_play,Volley,Flat,middle,ad,ad,In,Cindy Hu,middle,cross court,volley
+Cindy Hu,6,102,18,2,-3.749309,8.998731,-2.498047,-2.228372,1.211914,71.801849,in_play,Backhand,Topspin,short,ad,ad,In,Cindy Hu,wide,cross court,behind
+Opponent,7,102,18,2,-0.472626,7.666696,-5.101562,-0.204413,0.662598,49.421062,in_play,Backhand,Slice,short,ad,ad_alley,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,8,102,18,2,2.845703,6.30527,-1.384766,5.74819,0.82666,34.881195,in_play,Forehand,Slice,none,deuce,ad,Net,Cindy Hu,none,inside in,inside
+Opponent,1,103,18,2,1.373877,6.974208,0.851562,0.092462,2.226562,101.846298,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,103,18,2,1.307975,3.535589,1.866211,0.029441,1.366211,94.579964,first_return,Backhand,Flat,middle,deuce,deuce,In,Cindy Hu,middle,inside out,inside
+Opponent,3,103,18,2,0.997682,6.259192,2.582031,-1.157538,1.0625,86.757919,serve_plus_one,Forehand,Topspin,short,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,4,103,18,2,-2.177226,2.558477,1.791016,-0.829934,0.485352,76.514877,return_plus_one,Forehand,Topspin,deep,ad,deuce,In,Cindy Hu,wide,down the line,behind
+Opponent,5,103,18,2,-1.98873,2.477309,-1.766602,-0.407538,1.133789,92.797508,in_play,Backhand,Topspin,deep,ad,ad,In,Cindy Hu,middle,cross court,behind
+Cindy Hu,6,103,18,2,0.960599,5.771186,-2.466797,-0.790872,1.083984,71.454445,in_play,Backhand,Slice,short,deuce,ad,In,Cindy Hu,middle,down the line,behind
+Opponent,7,103,18,2,-1.775849,6.499005,1.087891,-0.016913,0.669434,76.405548,in_play,Forehand,Slice,short,ad,deuce,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,8,103,18,2,-4.720997,3.169918,-2.263672,1.474753,0.262451,62.608643,in_play,Backhand,Flat,deep,ad_alley,ad,Out,Cindy Hu,side out,down the line,inside
+Opponent,1,104,18,2,-4.362433,5.323166,-1.037109,-0.282538,2.414062,132.395401,first_serve,Serve,Flat,none,ad_alley,ad,Out,Opponent,none,out wide,none
+Opponent,1,104,18,2,-3.889949,6.643285,-0.882812,0.592462,2.507812,85.183296,second_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Cindy Hu,2,104,18,2,0.367217,2.039751,-5.109375,0.779441,1.068359,103.386337,second_return,Backhand,Flat,deep,deuce,ad_alley,In,Opponent,middle,down the line,inside
+Opponent,3,104,18,2,2.839145,3.630504,-0.996582,-1.001288,1.050781,92.953087,serve_plus_one,Forehand,Flat,middle,deuce,ad,In,Opponent,wide,inside in,behind
+Cindy Hu,4,104,18,2,-1.124027,-0.000185,2.890625,-2.173685,0.99707,60.941357,return_plus_one,Forehand,Slice,baseline out,ad,deuce,In,Opponent,middle,down the line,behind
+Opponent,5,104,18,2,2.315128,3.599984,-0.946289,-0.641913,1.626953,84.67984,in_play,Forehand,Topspin,middle,deuce,ad,In,Opponent,wide,inside in,behind
+Cindy Hu,6,104,18,2,1.601574,1.550659,1.761719,-0.947122,1.121094,100.013992,in_play,Forehand,Topspin,deep,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,7,104,18,2,1.455774,3.631596,2.630859,-1.157538,1.074219,88.219055,in_play,Forehand,Topspin,middle,deuce,deuce,In,Opponent,middle,cross court,behind
+Cindy Hu,8,104,18,2,4.026039,-1.891228,1.84082,-1.408059,1.026367,102.839455,in_play,Forehand,Topspin,baseline out,deuce,deuce,Out,Opponent,wide,cross court,behind
+Cindy Hu,1,105,19,2,4.745261,4.341278,0.720215,0.795587,2.246094,117.205948,first_serve,Serve,Flat,none,deuce_alley,deuce,Out,Opponent,none,out wide,none
+Cindy Hu,1,105,19,2,1.468543,8.727384,0.625,-0.348828,2.296875,105.72287,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,105,19,2,2.668965,5.594537,2.339844,-1.181497,1.067383,89.120949,second_return,Forehand,Flat,short,deuce,deuce,In,Opponent,wide,cross court,behind
+Cindy Hu,3,105,19,2,1.715484,1.59186,4.222656,-1.454413,0.963379,79.93689,serve_plus_one,Forehand,Topspin,deep,deuce,deuce_alley,In,Opponent,middle,down the line,behind
+Opponent,4,105,19,2,-2.908229,6.432329,2.324219,-1.697122,1.232422,95.965065,return_plus_one,Forehand,Flat,short,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,5,105,19,2,-0.880859,7.433594,-2.578125,-1.438788,0.964844,51.413086,in_play,Backhand,Slice,short,ad,ad,In,Opponent,middle,cross court,behind
+Opponent,6,105,19,2,1.634766,11.609375,-0.880859,6.908347,0.620117,28.204039,in_play,Volley,Flat,none,deuce,ad,Net,Opponent,none,down the line,volley
+Cindy Hu,1,106,19,2,-3.060845,7.81191,-1.356445,-0.720038,2.474609,134.178955,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,out wide,none
+Opponent,2,106,19,2,-3.014405,6.206291,-4.753906,-0.478372,1.265625,65.654182,first_return,Backhand,Topspin,short,ad,ad_alley,In,Opponent,wide,down the line,behind
+Cindy Hu,3,106,19,2,-0.026157,3.18647,-4.484375,0.467462,1.689453,80.850655,serve_plus_one,Backhand,Flat,deep,ad,ad_alley,In,Opponent,middle,down the line,inside
+Opponent,4,106,19,2,0.755969,2.922342,-0.937988,-1.345559,1.254883,100.465981,return_plus_one,Backhand,Topspin,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Cindy Hu,5,106,19,2,1.413034,4.055172,1.242188,-1.001288,0.972656,91.551567,in_play,Forehand,Topspin,middle,deuce,deuce,In,Opponent,middle,cross court,behind
+Opponent,6,106,19,2,2.152314,3.394409,1.457031,-0.751809,1.039062,99.100792,in_play,Forehand,Flat,middle,deuce,deuce,In,Opponent,wide,cross court,behind
+Cindy Hu,7,106,19,2,-3.942059,5.276522,3.431641,-2.626288,0.995117,100.30687,in_play,Forehand,Topspin,middle,ad,deuce,In,Opponent,wide,down the line,behind
+Cindy Hu,1,107,19,2,3.679873,6.91328,0.787598,-0.376288,2.277344,138.287689,first_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,out wide,none
+Opponent,2,107,19,2,0.530273,3.7075,4.726562,0.412253,1.083984,65.013351,first_return,Forehand,Topspin,middle,deuce,deuce_alley,In,Opponent,middle,down the line,inside
+Cindy Hu,3,107,19,2,-2.760685,5.671202,2.285156,0.576837,1.333984,75.564163,serve_plus_one,Forehand,Topspin,short,ad,deuce,In,Opponent,wide,down the line,inside
+Opponent,4,107,19,2,1.124442,2.741539,-2.746094,-0.486184,0.871094,69.519478,return_plus_one,Backhand,Flat,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Cindy Hu,5,107,19,2,4.660813,2.210261,1.042969,-0.157538,0.835938,88.311714,in_play,Forehand,Topspin,deep,deuce_alley,deuce,Out,Opponent,side out,down the line,behind
+Cindy Hu,1,108,19,2,-1.396031,6.99823,-1.079102,-0.345038,2.427734,134.489838,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Opponent,2,108,19,2,0.846921,-1.743145,-2.427734,-1.197122,1.605469,97.754234,first_return,Forehand,Topspin,baseline out,deuce,ad,Out,Opponent,middle,inside in,behind
+Cindy Hu,1,109,19,2,0.375308,6.421701,1.007812,0.529962,2.263672,141.289413,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,1,110,20,2,1.521585,5.938766,1.142578,0.763816,2.46875,112.071632,first_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,110,20,2,3.345603,5.043844,1.996094,-0.220038,1.521484,82.960983,first_return,Backhand,Topspin,middle,deuce,deuce,In,Opponent,wide,inside out,behind
+Opponent,3,110,20,2,-0.620961,1.87964,4.09375,-0.087747,1.125,63.887909,serve_plus_one,Forehand,Topspin,deep,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,4,110,20,2,0.092712,0.558999,-0.092712,1.248712,1.472656,125.435951,return_plus_one,Forehand,Topspin,deep,ad,ad,In,Opponent,middle,inside out,inside
+Opponent,1,111,20,2,-0.232544,6.720218,-0.941895,0.263816,2.419922,70.245125,first_serve,Serve,Flat,none,ad,ad,Net,Opponent,none,down the T,none
+Opponent,1,111,20,2,-0.914579,6.063148,-0.741211,-0.14332,2.472656,109.849304,second_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Cindy Hu,2,111,20,2,0.833316,2.30965,-0.818848,0.436212,1.540039,71.03051,second_return,Forehand,Flat,deep,deuce,ad,In,Opponent,middle,inside in,inside
+Opponent,3,111,20,2,2.96875,11.875,0.519531,-1.126809,1.527344,45.059944,serve_plus_one,Forehand,Topspin,none,deuce,deuce,Net,Opponent,none,cross court,behind
+Opponent,1,112,20,2,-0.626465,7.310303,1.057617,0.138816,2.386719,67.962791,first_serve,Serve,Flat,none,ad,deuce,Net,Opponent,none,down the T,none
+Opponent,1,112,20,2,2.50879,5.616224,0.789551,0.966941,2.412109,113.474838,second_serve,Serve,Flat,none,deuce,deuce,In,Opponent,none,out wide,none
+Cindy Hu,2,112,20,2,-0.445819,3.387215,3.806641,-0.220038,1.140625,77.084389,second_return,Forehand,Topspin,middle,ad,deuce,In,Opponent,middle,down the line,behind
+Opponent,3,112,20,2,0.034919,2.429729,-0.245483,-0.751809,1.230469,80.443329,serve_plus_one,Backhand,Flat,deep,deuce,ad,In,Opponent,middle,down the line,behind
+Cindy Hu,4,112,20,2,-2.400391,-0.273438,0.480713,-1.860663,0.663086,82.989693,return_plus_one,Forehand,Topspin,baseline out,ad,deuce,Out,Opponent,wide,down the line,behind
+Opponent,1,114,20,2,3.202509,5.925416,0.612793,0.529916,2.427734,114.919388,first_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,out wide,none
+Cindy Hu,1,114,20,2,0.268494,4.994022,0.845703,1.357566,2.361328,128.117218,first_serve,Serve,Flat,none,deuce,deuce,Out,Opponent,none,down the T,none
+Cindy Hu,1,114,20,2,0.734971,7.345748,0.344482,0.040047,2.367188,113.230148,second_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,down the T,none
+Opponent,2,114,20,2,-0.855116,-0.091287,1.676758,-1.095038,1.466797,77.495903,second_return,Backhand,Topspin,baseline out,ad,deuce,Out,Opponent,middle,inside in,behind
+Opponent,1,115,20,2,-3.043684,6.590609,-0.895508,-0.204413,2.417969,129.282532,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,115,20,2,1.518714,-1.382308,-4.164062,-1.087747,0.895508,85.499702,first_return,Backhand,Flat,baseline out,deuce,ad_alley,Out,Cindy Hu,middle,down the line,behind
+Opponent,1,116,20,2,1.768941,4.491836,0.583984,0.027212,2.992188,124.21344,first_serve,Serve,Flat,none,deuce,deuce,Out,Cindy Hu,none,down the T,none
+Cindy Hu,2,116,20,2,1.180388,5.903621,1.981445,-0.892434,1.161133,79.120148,first_return,Backhand,Flat,short,deuce,deuce,In,Cindy Hu,middle,inside out,behind
+Opponent,1,117,21,2,2.817674,7.219047,1.271484,0.014337,2.300781,115.81472,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,out wide,none
+Cindy Hu,1,117,21,2,-0.35729,6.84572,-1.038086,0.193503,2.458984,132.134872,first_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,down the T,none
+Cindy Hu,1,117,21,2,4.033013,6.310848,0.900391,1.326316,2.298828,132.574234,first_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,out wide,none
+Opponent,2,117,21,2,-2.505859,7.273438,5.835938,-1.251288,1.246094,51.982445,first_return,Forehand,Flat,short,ad,deuce_out,In,Cindy Hu,wide,down the line,behind
+Opponent,1,118,21,2,-3.027471,4.459865,-0.917969,0.373712,2.335938,123.647827,first_serve,Serve,Flat,none,ad,ad,Out,Cindy Hu,none,out wide,none
+Cindy Hu,2,118,21,2,2.339082,2.771184,-3.695312,-1.017434,0.962891,106.178551,first_return,Backhand,Flat,deep,deuce,ad,In,Cindy Hu,wide,down the line,behind
+Opponent,1,120,21,2,-0.465576,6.375612,0.955566,0.279441,2.470703,78.907021,first_serve,Serve,Flat,none,ad,deuce,Net,Opponent,none,down the T,none
+Opponent,1,121,22,3,2.043653,5.684755,1.323242,0.466941,2.623047,99.073654,first_serve,Serve,Slice,none,deuce,deuce,In,Opponent,none,down the T,none
+Cindy Hu,2,121,22,3,2.175557,2.739775,3.435547,0.811212,1.230469,95.501503,first_return,Forehand,Flat,deep,deuce,deuce,In,Opponent,wide,cross court,inside
+Opponent,3,121,22,3,-1.151367,5.61375,2.875,-1.353372,1.121094,96.564301,serve_plus_one,Forehand,Topspin,short,ad,deuce,In,Opponent,middle,down the line,behind
+Cindy Hu,4,121,22,3,-0.205633,0.310615,-0.187378,0.748712,0.969238,77.8722,return_plus_one,Forehand,Topspin,deep,ad,ad,In,Opponent,middle,inside out,inside
+Opponent,5,121,22,3,-0.762911,6.270267,-0.245728,-2.978372,1.193359,75.022484,in_play,Backhand,Flat,short,ad,ad,In,Opponent,middle,cross court,behind
+Cindy Hu,6,121,22,3,3.210749,4.782273,-0.848145,-0.751288,0.949219,98.651894,in_play,Forehand,Topspin,middle,deuce,ad,In,Opponent,wide,inside in,behind
+Opponent,7,121,22,3,0.380859,5.504375,3.826172,-0.478372,2.074219,53.043716,in_play,Forehand,Topspin,short,deuce,deuce,In,Opponent,middle,cross court,behind
+Cindy Hu,8,121,22,3,1.486328,11.30125,0.380859,4.295587,2.726562,96.304497,in_play,Overhead,Flat,none,deuce,deuce,Net,Opponent,none,---,volley
+Cindy Hu,1,122,22,3,-1.075954,5.956199,-0.928223,0.373712,2.449219,127.377945,first_serve,Serve,Flat,none,ad,ad,In,Opponent,none,down the T,none
+Opponent,2,122,22,3,1.109481,3.973285,-1.929688,-1.861184,1.130859,113.863655,first_return,Forehand,Flat,middle,deuce,ad,In,Opponent,middle,inside in,behind
+Cindy Hu,3,122,22,3,1.202148,11.723125,1.338867,0.654962,1.349609,42.339474,serve_plus_one,Forehand,Flat,none,deuce,deuce,Net,Opponent,none,cross court,inside
+Opponent,1,124,22,3,3.390625,7.515571,-0.575684,-0.111184,2.3125,72.083008,first_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,out wide,none
+Opponent,1,124,22,3,3.123047,6.158151,-0.387695,-0.079934,2.398438,62.072311,second_serve,Serve,Flat,none,deuce,ad,Net,Cindy Hu,none,out wide,none
+Opponent,1,125,22,3,2.66571,7.083559,0.37085,0.529916,2.431641,113.351662,first_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,125,22,3,0.830683,0.465841,4.898438,-1.157538,1.113281,92.166809,first_return,Forehand,Topspin,deep,deuce,deuce_alley,In,Cindy Hu,middle,down the line,behind
+Opponent,3,125,22,3,1.233727,4.604484,0.772949,-1.681497,0.62207,53.444809,serve_plus_one,Backhand,Flat,middle,deuce,deuce,In,Cindy Hu,middle,inside out,behind
+Cindy Hu,4,125,22,3,1.916992,0.11375,1.65918,-0.501288,1.473633,112.386559,return_plus_one,Forehand,Topspin,none,deuce,deuce,Net,Cindy Hu,none,cross court,behind
+Cindy Hu,5,125,22,3,2.929064,7.104989,1.916992,-1.095038,1.892578,100.107521,in_play,Forehand,Topspin,short,deuce,deuce,In,Cindy Hu,wide,cross court,behind
+Opponent,6,125,22,3,3.358504,5.443296,4.296875,-0.111184,1.087891,74.138855,in_play,Forehand,Topspin,middle,deuce,deuce_alley,In,Cindy Hu,wide,down the line,behind
+Cindy Hu,7,125,22,3,-1.246321,0.802997,5.101562,-0.579413,1.495117,61.478405,in_play,Forehand,Slice,deep,ad,deuce_alley,In,Cindy Hu,middle,down the line,behind
+Opponent,8,125,22,3,-2.856696,8.049738,-0.756836,-1.845559,1.132812,83.391914,in_play,Backhand,Flat,short,ad,ad,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,9,125,22,3,-0.084811,3.17578,-3.5625,-1.548163,0.693359,66.319382,in_play,Backhand,Slice,deep,ad,ad,In,Cindy Hu,middle,cross court,behind
+Opponent,10,125,22,3,-1.875,6.218572,-0.625,-0.087747,0.870605,55.53231,in_play,Forehand,Flat,none,ad,ad,Net,Cindy Hu,none,inside out,behind
+Cindy Hu,1,126,22,3,0.486084,6.316875,-1.042969,0.154962,2.332031,74.932922,first_serve,Serve,Flat,none,deuce,ad,Net,Opponent,none,down the T,none
+Cindy Hu,1,126,22,3,-3.191952,4.884254,-1.037109,-0.188788,2.400391,141.568527,first_serve,Serve,Flat,none,ad,ad,Out,Opponent,none,out wide,none
+Cindy Hu,1,126,22,3,-3.006409,6.830056,-1.352539,-0.595038,2.513672,109.180618,second_serve,Serve,Slice,none,ad,ad,In,Opponent,none,out wide,none
+Opponent,2,126,22,3,-2.864448,-0.632454,-5.152344,-0.017434,1.375,101.864105,second_return,Backhand,Flat,baseline out,ad,ad_alley,Out,Opponent,wide,down the line,behind
+Cindy Hu,1,127,22,3,4.245131,6.88665,0.439209,0.896628,2.337891,130.973801,first_serve,Serve,Slice,none,deuce_alley,deuce,Out,Cindy Hu,none,out wide,none
+Cindy Hu,1,127,22,3,0.925447,6.207489,0.365479,0.056108,2.445312,107.610458,second_serve,Serve,Slice,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Opponent,2,127,22,3,-0.781583,6.579338,1.685547,-0.423163,1.276367,87.564995,second_return,Backhand,Flat,short,ad,deuce,In,Cindy Hu,middle,inside in,behind
+Cindy Hu,3,127,22,3,-2.450379,1.330505,-0.415283,-1.275247,0.65625,84.50267,serve_plus_one,Forehand,Topspin,deep,ad,ad,In,Cindy Hu,wide,inside out,behind
+Opponent,4,127,22,3,-2.343324,1.184214,-2.279297,-0.610663,0.973633,92.816811,return_plus_one,Backhand,Topspin,deep,ad,ad,In,Cindy Hu,wide,cross court,behind
+Cindy Hu,5,127,22,3,1.380186,2.875141,-2.484375,-0.900247,0.855469,68.729523,in_play,Backhand,Flat,deep,deuce,ad,In,Cindy Hu,middle,down the line,behind
+Opponent,6,127,22,3,-0.700706,-2.227048,1.526367,-0.470038,1.19043,86.384705,in_play,Forehand,Topspin,baseline out,ad,deuce,Out,Cindy Hu,middle,down the line,behind
+Opponent,1,128,22,3,-3.807594,5.400667,-1.073242,-0.376288,2.419922,131.58313,first_serve,Serve,Flat,none,ad,ad,Out,Cindy Hu,none,out wide,none
+Opponent,1,128,22,3,-3.084126,6.917451,-0.557617,-0.191664,2.332031,105.315834,second_serve,Serve,Flat,none,ad,ad,In,Cindy Hu,none,out wide,none
+Cindy Hu,2,128,22,3,-1.193156,1.765058,-3.660156,0.685691,1.447266,78.354851,second_return,Forehand,Topspin,deep,ad,ad,In,Cindy Hu,middle,inside out,inside
+Opponent,3,128,22,3,0.251807,2.834803,-1.40918,-0.141913,1.259766,88.981987,serve_plus_one,Backhand,Flat,deep,deuce,ad,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,4,128,22,3,-2.427442,0.989954,-0.172241,-2.56431,1.248047,82.573936,return_plus_one,Forehand,Flat,deep,ad,ad,In,Cindy Hu,wide,inside out,behind
+Opponent,5,128,22,3,0.464987,4.512739,-2.369141,-1.845038,0.670898,70.364296,in_play,Backhand,Topspin,middle,deuce,ad,In,Cindy Hu,middle,down the line,behind
+Cindy Hu,6,128,22,3,2.884766,5.684486,0.004871,-0.501809,1.361328,61.372219,in_play,Forehand,Flat,none,deuce,center_line,Net,Cindy Hu,none,down the line,behind
+Opponent,1,129,22,3,0.860352,2.145,1.083008,-0.063788,2.048828,132.035645,first_serve,Serve,Flat,none,deuce,deuce,Net,Cindy Hu,none,out wide,none
+Opponent,1,129,22,3,1.679831,6.347607,1.087891,-0.141913,2.269531,107.421417,second_serve,Serve,Flat,none,deuce,deuce,In,Cindy Hu,none,down the T,none
+Cindy Hu,2,129,22,3,0.079336,1.425746,2.617188,-0.626809,1.03418,77.538208,second_return,Forehand,Flat,deep,deuce,deuce,In,Cindy Hu,middle,cross court,behind
+Opponent,3,129,22,3,4.071648,6.283379,0.562012,-0.876288,1.257812,72.323166,serve_plus_one,Backhand,Flat,short,deuce,deuce,In,Cindy Hu,wide,inside out,behind
+Cindy Hu,4,129,22,3,-0.929496,5.393709,4.667969,2.771628,1.667969,47.775898,return_plus_one,Forehand,Topspin,middle,ad,deuce_alley,In,Cindy Hu,middle,down the line,inside
+Opponent,5,129,22,3,-2.42318,5.592212,-0.0383,1.342462,1.527344,97.453476,in_play,Backhand,Flat,short,ad,ad,In,Cindy Hu,wide,cross court,inside
+Cindy Hu,6,129,22,3,2.125,9.754375,-3.246094,-2.275247,0.599609,47.110348,in_play,Backhand,Flat,short,deuce,ad,In,Cindy Hu,wide,down the line,behind
+Opponent,7,129,22,3,1.519531,5.692331,2.125,8.545587,0.3125,36.237053,in_play,Volley,Flat,none,deuce,deuce,Net,Cindy Hu,none,cross court,volley
