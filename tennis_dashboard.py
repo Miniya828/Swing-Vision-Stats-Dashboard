@@ -1316,3 +1316,4 @@ def update_point_table(point_id):
 # =========================================================
 if __name__ == "__main__":
     app.run(debug=True, port=8050)
+server = app.server
