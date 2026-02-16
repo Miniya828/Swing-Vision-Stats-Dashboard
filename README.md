@@ -10,18 +10,16 @@ Run:
 python tennis_dashboard.py
 
 ## Data
-This repo ignores *.csv by default. Keep match data local.
-
-#Purpose 
+##Purpose 
 An interactive dashboard that converts SwingVision shot-level exports into actionable performance summaries and court visualizations. The dashboard should support fast review of Serve, Return, Rally outcomes, Shot characteristics (speed/spin/direction), and court positioning (hit/bounce maps + movement proxies).
 
-#Target users Primary: 
+##Target users Primary: 
 player + analyst (self-scouting, training focus, match review) Secondary: coach (tactical patterns, serve/return tendencies, positioning)
 
-#Data inputs Input format: 
+##Data inputs Input format: 
 CSV exported from SwingVision with shot-level row. Identifiers: Set, Game, Point, Shot, Player, Winner Shot metadata: Type (e.g., first_serve, second_serve, first_return, return_plus_one), Stroke (e.g., Forehand, Backhand, Volley), Spin, Direction, Result (In vs not In) Speed: Speed (MPH) Court coordinates (standardized): hit_x_std, hit_y_std, bounce_x_std, bounce_y_std Zones/depth: Hit Zone, Bounce Zone, Hit Depth, Bounce Depth
 
-#Core dashboard sections 
+##Core dashboard sections 
 A. Player & Match Overview Filters: Player (including “Opponent”), Set/Game/Point range, Result (In/Out), Stroke, Type KPI cards (per selected player): total points, points won %, winners, unforced errors, net points won %, aces, double faults
 
 B. Serve Module Aces (operational: point length = 1, first_serve in) Double faults (second_serve not In) 1st serve in %, 2nd serve in % 1st serve won %, 2nd serve won %
