@@ -1,0 +1,418 @@
+﻿Player,Shot,Point,Game,Set,Type,Stroke,Spin,Result,Winner,Bounce Depth,Bounce Zone,Bounce Side,Hit Depth,Hit Zone,Direction,Speed (MPH),Hit Side,Bounce (x),Bounce (y),bounce_x_std,bounce_y_std,Hit (x),Hit (y),Hit (z),hit_x_std,hit_y_std
+Opponent,1,1,1,1,first_serve,Serve,Slice,In,Opponent,short,deuce,far,deep,deuce,out wide,86.72966,near,-2.905763,18.282887,2.905763,5.487113,-0.054871,0.740981,2.314453,0.740981,0.740981
+Nikol Mircheva,2,1,1,1,first_return,Forehand,Topspin,Out,Opponent,out,ad,near,deep,deuce_alley,down the line,49.983871,far,-1.436523,-0.328125,-1.436523,-0.328125,-4.171875,24.771288,1.203125,4.171875,-1.001288
+Opponent,1,2,1,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,far,deep,ad,down the T,77.967628,near,1.119798,17.936949,-1.119798,5.833051,-0.22998,0.904441,2.376953,0.904441,0.904441
+Nikol Mircheva,2,2,1,1,first_return,Forehand,Topspin,In,Nikol Mircheva,deep,deuce,near,out,ad,inside in,51.893654,far,1.389241,5.06339,1.389241,5.06339,1.749023,25.583788,1.306641,-1.749023,-1.813788
+Opponent,3,2,1,1,serve_plus_one,Forehand,Slice,In,Nikol Mircheva,short,ad,far,deep,deuce,down the line,41.020351,near,1.383748,18.285948,-1.383748,5.484052,1.149414,1.006003,0.983398,1.006003,1.006003
+Nikol Mircheva,4,2,1,1,return_plus_one,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,deep,ad,cross court,43.64473,far,-2.917999,3.194446,-2.917999,3.194446,1.202148,24.427538,0.361816,-1.202148,-0.657538
+Opponent,5,2,1,1,in_play,Backhand,Flat,In,Nikol Mircheva,short,ad,far,deep,ad,cross court,52.118725,near,2.175781,15.085938,-2.175781,8.684062,-2.335938,0.099753,0.770508,0.099753,0.099753
+Nikol Mircheva,6,2,1,1,in_play,Volley,Flat,In,Nikol Mircheva,short,deuce,near,short,ad,down the line,24.248772,far,2.507812,7.472656,2.507812,7.472656,2.175781,16.294725,1.15625,-2.175781,7.475275
+Opponent,1,3,1,1,first_serve,Serve,Slice,In,Opponent,short,deuce,far,deep,deuce,down the T,86.082153,near,-1.424703,17.700949,1.424703,6.069051,0.65625,0.216941,2.650391,0.216941,0.216941
+Nikol Mircheva,2,3,1,1,first_return,Backhand,Slice,Net,Opponent,short,deuce,far,deep,deuce,inside out,26.271345,far,-1.054688,12.640625,-1.054688,12.640625,-1.44043,23.865038,1.800781,1.44043,-0.095038
+Opponent,1,4,1,1,first_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,out wide,73.622192,near,3.05222,16.91419,-3.05222,6.85581,-0.773926,0.138816,2.412109,0.138816,0.138816
+Nikol Mircheva,2,4,1,1,first_return,Backhand,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,cross court,40.926609,far,-0.315186,9.15625,-0.315186,9.15625,3.587891,23.771288,1.384766,-3.587891,-0.001288
+Opponent,3,4,1,1,serve_plus_one,Volley,Flat,Net,Nikol Mircheva,short,deuce,near,short,ad,down the line,13.467036,near,1.554688,5.527153,-1.554688,18.242847,-0.315186,8.631003,1.853516,8.631003,8.631003
+Opponent,1,5,1,1,first_serve,Serve,Flat,In,Opponent,short,deuce,far,deep,deuce,down the T,94.007843,near,-0.885004,17.851904,0.885004,5.918096,0.75293,0.045066,2.501953,0.045066,0.045066
+Nikol Mircheva,2,5,1,1,first_return,Backhand,Slice,Out,Opponent,out,deuce,near,deep,deuce,inside out,34.450558,far,2.765625,-1.606999,2.765625,-1.606999,-1.264648,23.021288,3.552734,1.264648,0.748712
+Opponent,1,6,1,1,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,ad,far,deep,ad,out wide,71.137489,near,3.868895,18.309105,-3.868895,5.460895,-0.677734,0.154441,2.341797,0.154441,0.154441
+Opponent,1,6,1,1,second_serve,Serve,Slice,Out,Nikol Mircheva,short,ad_out,far,deep,ad,out wide,34.740997,near,6.265876,18.1455,-6.265876,5.6245,-0.590332,0.107566,2.375,0.107566,0.107566
+Opponent,1,7,1,1,first_serve,Serve,Slice,In,Opponent,short,ad,far,deep,ad,out wide,82.302338,near,2.690343,18.164671,-2.690343,5.605329,-0.810059,0.459128,2.585938,0.459128,0.459128
+Nikol Mircheva,2,7,1,1,first_return,Backhand,Slice,Net,Opponent,short,ad,far,deep,ad,cross court,31.981562,far,0.432617,12.546875,0.432617,12.546875,3.328125,23.958788,2.078125,-3.328125,-0.188788
+Nikol Mircheva,1,8,2,1,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,out wide,86.923096,near,-4.007526,18.268229,4.007526,5.501771,0.944824,-0.173684,2.498047,-0.173684,-0.173684
+Opponent,2,8,2,1,first_return,Forehand,Flat,In,Nikol Mircheva,deep,ad,near,out,deuce_alley,down the line,33.694279,far,-3.51432,2.187675,-3.51432,2.187675,-5.417969,24.990038,1.091797,5.417969,-1.220038
+Nikol Mircheva,3,8,2,1,serve_plus_one,Backhand,Flat,In,Nikol Mircheva,deep,ad,far,out,ad,cross court,80.050941,near,2.509121,21.978252,-2.509121,1.791748,-3.070312,-0.790872,1.197266,-0.790872,-0.790872
+Opponent,4,8,2,1,return_plus_one,Backhand,Flat,Out,Nikol Mircheva,out,ad,near,deep,ad,cross court,48.249943,far,-3.110472,-1.641032,-3.110472,-1.641032,2.521484,24.021288,1.337891,-2.521484,-0.251288
+Nikol Mircheva,1,9,2,1,first_serve,Serve,Flat,In,Opponent,short,ad,far,deep,ad,out wide,91.144188,near,3.491471,18.037924,-3.491471,5.732076,-1.013672,1.279441,2.259766,1.279441,1.279441
+Opponent,2,9,2,1,first_return,Backhand,Flat,In,Opponent,deep,ad,near,deep,ad_alley,down the line,43.500263,far,-3.489539,0.607028,-3.489539,0.607028,4.597656,23.990038,1.865234,-4.597656,-0.220038
+Nikol Mircheva,3,9,2,1,serve_plus_one,Forehand,Flat,In,Opponent,deep,ad,far,deep,ad,inside out,36.287155,near,0.290576,20.139799,-0.290576,3.630201,-2.517578,-0.056497,1.175781,-0.056497,-0.056497
+Opponent,4,9,2,1,return_plus_one,Forehand,Topspin,In,Opponent,deep,ad,near,deep,deuce,down the line,77.509972,far,-3.856572,1.512644,-3.856572,1.512644,-0.129517,21.849413,1.681641,0.129517,1.920587
+Nikol Mircheva,1,10,2,1,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,deuce,far,deep,deuce,down the T,101.450714,near,-0.584092,19.498398,0.584092,4.271602,1.106445,0.240378,2.480469,0.240378,0.240378
+Nikol Mircheva,1,10,2,1,second_serve,Serve,Kick,In,Nikol Mircheva,short,deuce,far,deep,deuce,down the T,61.853565,near,-1.333866,16.728903,1.333866,7.041097,0.891113,-0.243997,2.421875,-0.243997,-0.243997
+Opponent,3,10,2,1,second_return,Forehand,Flat,Out,Nikol Mircheva,out,ad,near,deep,deuce,down the line,48.163052,far,-2.59874,-1.286907,-2.59874,-1.286907,-2.238281,23.708788,1.574219,2.238281,0.061212
+Nikol Mircheva,1,11,2,1,first_serve,Serve,Kick,Out,Nikol Mircheva,deep,ad_alley,far,out,ad,out wide,71.341095,near,5.40183,19.173655,-5.40183,4.596345,-1.413086,-0.556497,2.462891,-0.556497,-0.556497
+Nikol Mircheva,1,11,2,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,out wide,58.259468,near,2.369989,17.17918,-2.369989,6.59082,-1.158203,0.591941,2.210938,0.591941,0.591941
+Opponent,3,11,2,1,second_return,Forehand,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,inside out,53.612579,far,-2.473603,7.144574,-2.473603,7.144574,3.455078,23.521288,1.794922,-3.455078,0.248712
+Nikol Mircheva,4,11,2,1,serve_plus_one,Backhand,Flat,In,Nikol Mircheva,short,deuce,far,out,ad,down the line,60.89357,near,-1.858083,17.82325,1.858083,5.94675,-3.027344,-0.704934,0.921387,-0.704934,-0.704934
+Opponent,5,11,2,1,return_plus_one,Forehand,Flat,Net,Nikol Mircheva,short,deuce,far,deep,deuce,cross court,33.741734,far,-1.977539,12.40625,-1.977539,12.40625,-1.621094,20.568163,0.610352,1.621094,3.201837
+Nikol Mircheva,1,12,2,1,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,out wide,90.929863,near,-3.574116,16.968548,3.574116,6.801452,1.069336,0.302878,2.408203,0.302878,0.302878
+Opponent,2,12,2,1,first_return,Forehand,Flat,In,Nikol Mircheva,short,ad,near,deep,deuce_out,down the line,27.914228,far,-0.510254,10.890625,-0.510254,10.890625,-5.585938,24.661913,1.25,5.585938,-0.891913
+Nikol Mircheva,3,12,2,1,serve_plus_one,Volley,Flat,In,Nikol Mircheva,short,ad,far,short,ad,cross court,25.114799,near,0.979992,17.015512,-0.979992,6.754488,-0.510254,10.365378,1.345703,10.365378,10.365378
+Opponent,4,12,2,1,return_plus_one,Backhand,Flat,Net,Nikol Mircheva,short,deuce,far,out,ad,down the line,26.076424,far,-0.548828,15.5,-0.548828,15.5,2.181641,25.833788,1.587891,-2.181641,-2.063788
+Opponent,1,13,3,1,first_serve,Serve,Flat,In,Opponent,short,deuce,near,deep,deuce,out wide,25.766264,far,2.188827,11.188416,2.188827,11.188416,-0.634277,23.05534,2.34375,0.634277,0.71466
+Opponent,1,14,3,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,80.978195,far,-3.646829,6.1808,-3.646829,6.1808,0.710449,23.615038,2.417969,-0.710449,0.154962
+Nikol Mircheva,2,14,3,1,first_return,Backhand,Topspin,In,Nikol Mircheva,short,ad,far,deep,ad_alley,down the line,48.530891,near,0.660156,15.71875,-0.660156,8.05125,-4.53125,-0.072122,1.289062,-0.072122,-0.072122
+Opponent,3,14,3,1,serve_plus_one,Volley,Flat,Out,Nikol Mircheva,out,deuce,near,short,ad,down the line,19.918634,far,3.659416,-0.04569,3.659416,-0.04569,0.660156,16.927538,1.117188,-0.660156,6.842462
+Opponent,1,15,3,1,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,near,deep,deuce,down the T,71.200775,far,1.66468,6.123202,1.66468,6.123202,-0.688965,23.880663,2.316406,0.688965,-0.110663
+Nikol Mircheva,2,15,3,1,first_return,Backhand,Flat,In,Nikol Mircheva,short,ad,far,out,deuce,inside in,46.732838,near,0.151855,16.1875,-0.151855,7.5825,1.456055,-0.829934,1.232422,-0.829934,-0.829934
+Opponent,3,15,3,1,serve_plus_one,Volley,Flat,Net,Nikol Mircheva,short,deuce,far,short,ad,down the line,18.318287,far,-0.46167,12.226562,-0.46167,12.226562,0.151855,17.396288,1.757812,-0.151855,6.373712
+Opponent,1,16,3,1,first_serve,Serve,Slice,Net,Opponent,short,deuce,far,deep,ad,down the T,44.694221,far,-0.729492,12.390625,-0.729492,12.390625,0.229736,24.365038,2.304688,-0.229736,-0.595038
+Opponent,1,16,3,1,second_serve,Serve,Slice,In,Opponent,short,ad,near,deep,ad,down the T,54.593056,far,-1.450228,7.460942,-1.450228,7.460942,0.617188,22.646288,2.359375,-0.617188,1.123712
+Nikol Mircheva,3,16,3,1,second_return,Forehand,Flat,Out,Opponent,out,ad,far,out,ad,inside out,62.402107,near,2.836684,25.019766,-2.836684,-1.249766,-1.739258,-1.650247,1.359375,-1.650247,-1.650247
+Opponent,1,17,3,1,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,deuce,near,deep,deuce,down the T,36.804451,far,0.158189,3.058573,0.158189,3.058573,-0.814941,24.146288,2.267578,0.814941,-0.376288
+Opponent,1,17,3,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,near,deep,deuce,down the T,62.335732,far,1.954631,7.991343,1.954631,7.991343,-1.829102,24.146288,2.421875,1.829102,-0.376288
+Nikol Mircheva,3,17,3,1,second_return,Forehand,Flat,In,Nikol Mircheva,deep,ad,far,deep,deuce,down the line,55.039375,near,0.399803,19.47883,-0.399803,4.29117,3.552734,-0.134622,1.131836,-0.134622,-0.134622
+Opponent,4,17,3,1,serve_plus_one,Forehand,Slice,In,Nikol Mircheva,deep,ad,near,deep,deuce,down the line,38.712059,far,-1.100129,1.922715,-1.100129,1.922715,-0.803223,23.474413,1.268555,0.803223,0.295587
+Nikol Mircheva,5,17,3,1,return_plus_one,Forehand,Flat,In,Nikol Mircheva,deep,ad,far,out,ad,inside out,54.016083,near,3.428129,23.736736,-3.428129,0.033264,-1.048828,-1.298684,1.046875,-1.298684,-1.298684
+Opponent,6,17,3,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,deep,ad,cross court,39.27454,far,-2.088065,5.479426,-2.088065,5.479426,2.917969,24.927538,1.53125,-2.917969,-1.157538
+Nikol Mircheva,7,17,3,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,deuce,far,deep,ad,down the line,42.500557,near,-2.142542,23.672054,2.142542,0.097946,-2.720703,3.31069,1.925781,3.31069,3.31069
+Opponent,8,17,3,1,in_play,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,deep,deuce,down the line,44.33535,far,-2.884942,4.951103,-2.884942,4.951103,-2.4375,24.802538,1.169922,2.4375,-1.032538
+Nikol Mircheva,9,17,3,1,in_play,Backhand,Flat,In,Nikol Mircheva,deep,ad,far,deep,ad,cross court,63.724697,near,2.583359,19.269825,-2.583359,4.500175,-2.257812,-0.072122,1.119141,-0.072122,-0.072122
+Opponent,10,17,3,1,in_play,Backhand,Slice,In,Nikol Mircheva,short,ad,near,out,ad,cross court,30.079548,far,-2.580559,9.243564,-2.580559,9.243564,3.482422,25.302538,1.394531,-3.482422,-1.532538
+Nikol Mircheva,11,17,3,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,deuce,far,short,ad,down the line,37.13974,near,-3.945841,21.501852,3.945841,2.268148,-3.210938,7.959128,0.870117,7.959128,7.959128
+Opponent,12,17,3,1,in_play,Forehand,Topspin,In,Nikol Mircheva,short,ad,near,deep,deuce,down the line,37.270531,far,-0.072083,9.445312,-0.072083,9.445312,-3.294922,24.865038,1.216797,3.294922,-1.095038
+Nikol Mircheva,13,17,3,1,in_play,Volley,Flat,In,Nikol Mircheva,short,ad,far,short,ad,cross court,21.650688,near,1.755907,14.948046,-1.755907,8.821954,-0.072083,8.920066,1.085938,8.920066,8.920066
+Opponent,1,18,3,1,first_serve,Serve,Slice,In,Opponent,short,ad,near,deep,ad,out wide,85.936913,far,-3.099487,6.81603,-3.099487,6.81603,0.719238,24.193163,2.4375,-0.719238,-0.423163
+Opponent,1,18,3,1,second_serve,Serve,Flat,Out,Opponent,deep,ad,near,deep,ad,out wide,83.405586,far,-3.730141,5.476971,-3.730141,5.476971,0.756348,23.443163,2.367188,-0.756348,0.326837
+Nikol Mircheva,3,18,3,1,second_return,Backhand,Topspin,In,Opponent,short,deuce,far,deep,ad_alley,down the line,40.702854,near,-0.039154,17.796875,0.039154,5.973125,-4.710938,-0.017434,0.932129,-0.017434,-0.017434
+Opponent,4,18,3,1,serve_plus_one,Volley,Flat,In,Opponent,short,deuce,near,short,deuce,cross court,22.516716,far,3.457219,6.934205,3.457219,6.934205,-0.039154,19.005663,1.010742,0.039154,4.764337
+Nikol Mircheva,1,19,3,1,first_serve,Serve,Flat,Net,Nikol Mircheva,short,deuce,far,deep,deuce,down the T,52.959278,far,-0.71875,17.078125,-0.71875,17.078125,-0.948242,23.583879,2.560547,0.948242,0.186121
+Nikol Mircheva,1,19,4,1,second_serve,Serve,Flat,In,Nikol Mircheva,short,deuce,near,deep,deuce,out wide,79.928085,far,3.636549,6.614375,3.636549,6.614375,-1.054688,23.708788,2.548828,1.054688,0.061212
+Opponent,3,19,4,1,second_return,Forehand,Slice,Out,Nikol Mircheva,out,ad,far,deep,deuce_alley,down the line,38.704784,near,1.550414,26.638432,-1.550414,-2.868432,4.394531,0.162253,1.193359,0.162253,0.162253
+Nikol Mircheva,1,20,4,1,first_serve,Serve,Slice,Out,Opponent,deep,ad_alley,near,deep,ad,out wide,75.726326,far,-4.722656,3.664062,-4.722656,3.664062,0.714355,23.115038,2.269531,-0.714355,0.654962
+Nikol Mircheva,1,21,4,1,first_serve,Serve,Flat,Net,Nikol Mircheva,short,ad,far,deep,ad,down the T,44.399426,far,0.108826,17.234375,0.108826,17.234375,0.608398,23.566031,2.296875,-0.608398,0.203969
+Nikol Mircheva,1,21,4,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,61.72477,far,-2.690434,7.843165,-2.690434,7.843165,1.368164,24.708788,2.484375,-1.368164,-0.938788
+Opponent,3,21,4,1,second_return,Backhand,Topspin,Net,Nikol Mircheva,short,ad,near,out,ad_alley,down the line,35.029404,near,-0.393555,5.963419,0.393555,17.806581,-4.660156,-1.884622,0.901367,-1.884622,-1.884622
+Nikol Mircheva,1,22,4,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,deuce,near,deep,deuce,down the T,74.089111,far,0.276539,7.194478,0.276539,7.194478,-0.908203,22.443163,2.570312,0.908203,1.326837
+Nikol Mircheva,1,23,4,1,first_serve,Serve,Slice,In,Opponent,short,ad,near,deep,ad,out wide,65.137512,far,-3.885729,6.924707,-3.885729,6.924707,1.513672,24.427538,2.486328,-1.513672,-0.657538
+Opponent,2,23,4,1,first_return,Backhand,Topspin,In,Opponent,short,deuce,far,deep,ad_alley,down the line,45.986736,near,-0.847656,17.015625,0.847656,6.754375,-4.886719,-0.251809,1.150391,-0.251809,-0.251809
+Nikol Mircheva,3,23,4,1,serve_plus_one,Forehand,Topspin,In,Opponent,deep,ad,near,deep,ad,inside out,58.270714,far,-2.950234,3.319836,-2.950234,3.319836,1.620117,23.365038,0.871582,-1.620117,0.404962
+Opponent,4,23,4,1,return_plus_one,Backhand,Flat,In,Opponent,short,deuce,far,out,ad,down the line,59.519936,near,-0.839844,17.921875,0.839844,5.848125,-3.671875,-0.775247,0.938477,-0.775247,-0.775247
+Nikol Mircheva,5,23,4,1,in_play,Volley,Flat,In,Opponent,short,deuce,near,short,deuce,cross court,21.650688,far,2.249478,7.896819,2.249478,7.896819,-0.839844,19.130663,0.735352,0.839844,4.639337
+Opponent,6,23,4,1,in_play,Forehand,Topspin,In,Opponent,short,ad,far,deep,deuce,down the line,29.153847,near,2.480469,17.946188,-2.480469,5.823812,3.771484,4.271628,1.203125,4.271628,4.271628
+Opponent,1,24,5,1,first_serve,Serve,Flat,Net,Opponent,short,ad,near,deep,deuce,down the T,45.280449,near,-0.573242,11.796875,0.573242,11.973125,0.636719,0.201316,2.650391,0.201316,0.201316
+Opponent,1,24,5,1,second_serve,Serve,Slice,In,Opponent,short,deuce,far,deep,deuce,out wide,63.963898,near,-2.659871,17.042641,2.659871,6.727359,1.5,0.779441,2.390625,0.779441,0.779441
+Nikol Mircheva,3,24,5,1,second_return,Forehand,Topspin,In,Opponent,deep,deuce,near,out,deuce_alley,down the line,47.772415,far,1.594384,2.18342,1.594384,2.18342,-4.375,25.490038,1.138672,4.375,-1.720038
+Opponent,4,24,5,1,serve_plus_one,Forehand,Topspin,In,Opponent,deep,ad,far,out,deuce,down the line,42.029285,near,3.620244,22.312752,-3.620244,1.457248,1.677734,-1.650247,1.208984,-1.650247,-1.650247
+Nikol Mircheva,5,24,5,1,return_plus_one,Backhand,Topspin,In,Opponent,deep,ad,near,out,ad,cross court,49.006325,far,-2.155229,2.431411,-2.155229,2.431411,3.451172,25.990038,1.941406,-3.451172,-2.220038
+Opponent,6,24,5,1,in_play,Backhand,Topspin,In,Opponent,deep,ad,far,out,ad,cross court,43.000435,near,3.287434,20.980139,-3.287434,2.789861,-3.044922,-2.017435,1.755859,-2.017435,-2.017435
+Nikol Mircheva,7,24,5,1,in_play,Backhand,Topspin,In,Opponent,deep,ad,near,out,ad,cross court,48.657368,far,-2.5606,2.839256,-2.5606,2.839256,2.90625,25.583788,2.066406,-2.90625,-1.813788
+Opponent,8,24,5,1,in_play,Backhand,Flat,In,Opponent,short,ad,far,deep,ad,cross court,50.202682,near,2.076404,18.013813,-2.076404,5.756187,-2.841797,0.568503,1.726562,0.568503,0.568503
+Nikol Mircheva,9,24,5,1,in_play,Backhand,Slice,Net,Opponent,short,ad,far,deep,ad,cross court,39.668133,far,2.683594,12.101562,2.683594,12.101562,2.660156,24.427538,1.009766,-2.660156,-0.657538
+Opponent,1,25,5,1,first_serve,Serve,Flat,Out,Opponent,short,ad_alley,far,deep,ad,out wide,77.130653,near,5.286068,17.319475,-5.286068,6.450525,-0.387451,0.173577,2.267578,0.173577,0.173577
+Opponent,1,25,5,1,second_serve,Serve,Slice,In,Opponent,short,ad,far,deep,ad,down the T,57.985001,near,1.981364,17.617777,-1.981364,6.152223,-1.188477,0.185691,2.361328,0.185691,0.185691
+Nikol Mircheva,3,25,5,1,second_return,Forehand,Topspin,In,Opponent,deep,ad,near,deep,ad,inside out,52.180305,far,-1.520043,5.478947,-1.520043,5.478947,2.310547,24.271288,1.511719,-2.310547,-0.501288
+Opponent,4,25,5,1,serve_plus_one,Backhand,Flat,In,Opponent,short,ad,far,out,ad,cross court,35.620678,near,2.276771,16.439623,-2.276771,7.330377,-2.275391,-1.228372,1.169922,-1.228372,-1.228372
+Nikol Mircheva,5,25,5,1,return_plus_one,Backhand,Slice,In,Opponent,deep,ad,near,deep,ad,cross court,46.918247,far,-3.601192,0.06022,-3.601192,0.06022,2.148438,20.599413,0.809082,-2.148438,3.170587
+Opponent,6,25,5,1,in_play,Backhand,Flat,Net,Opponent,short,ad,near,deep,ad,cross court,39.411263,near,-2.818359,5.721681,2.818359,18.048319,-2.818359,0.998191,0.436768,0.998191,0.998191
+Opponent,1,25,5,1,second_serve,Serve,Flat,Out,Opponent,deep,deuce,far,deep,deuce,down the T,85.647629,near,-0.233667,19.202648,0.233667,4.567352,0.895508,0.435691,2.472656,0.435691,0.435691
+Nikol Mircheva,8,25,5,1,second_return,Backhand,Flat,In,Opponent,short,deuce,near,deep,deuce,inside out,28.897978,far,3.136523,6.75591,3.136523,6.75591,-0.578613,23.896288,1.662109,0.578613,-0.126288
+Opponent,9,25,5,1,serve_plus_one,Forehand,Flat,In,Opponent,deep,ad,far,short,deuce,down the line,35.294765,near,3.340201,23.774401,-3.340201,-0.004401,2.601562,5.205222,1.65625,5.205222,5.205222
+Opponent,1,26,5,1,first_serve,Serve,Slice,Out,Nikol Mircheva,deep,ad,far,deep,ad,out wide,80.1894,near,3.134454,19.941492,-3.134454,3.828508,-0.953613,0.412253,2.5625,0.412253,0.412253
+Opponent,1,26,5,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,down the T,62.059776,near,1.63078,16.370007,-1.63078,7.399993,-0.924316,0.302878,2.347656,0.302878,0.302878
+Nikol Mircheva,3,26,5,1,second_return,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,deep,ad,inside out,54.60638,far,-1.863065,3.756761,-1.863065,3.756761,2.4375,24.146288,1.196289,-2.4375,-0.376288
+Opponent,4,26,5,1,serve_plus_one,Backhand,Flat,In,Nikol Mircheva,short,ad,far,out,ad,cross court,55.451904,near,2.667421,18.147738,-2.667421,5.622262,-2.453125,-1.220559,1.162109,-1.220559,-1.220559
+Nikol Mircheva,5,26,5,1,return_plus_one,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,out,ad,cross court,48.261127,far,-1.893208,0.627982,-1.893208,0.627982,3.078125,25.021288,0.871582,-3.078125,-1.251288
+Opponent,6,26,5,1,in_play,Backhand,Flat,In,Nikol Mircheva,deep,ad,far,out,ad,cross court,43.039227,near,0.56035,19.199305,-0.56035,4.570695,-2.255859,-2.134622,0.96875,-2.134622,-2.134622
+Nikol Mircheva,7,26,5,1,in_play,Forehand,Flat,In,Nikol Mircheva,short,ad,near,out,ad,inside out,63.559399,far,-3.336929,6.906824,-3.336929,6.906824,0.524902,25.302538,1.371094,-0.524902,-1.532538
+Opponent,1,27,5,1,first_serve,Serve,Slice,Out,Nikol Mircheva,deep,deuce,far,deep,deuce,down the T,87.837639,near,-0.968851,19.577503,0.968851,4.192497,0.642578,0.357566,2.548828,0.357566,0.357566
+Nikol Mircheva,2,27,5,1,first_return,Backhand,Topspin,In,Nikol Mircheva,short,ad,near,deep,deuce,inside in,58.793022,far,-0.638184,6.078125,-0.638184,6.078125,-1.342773,24.255663,1.188477,1.342773,-0.485663
+Opponent,3,27,5,1,serve_plus_one,Volley,Flat,In,Nikol Mircheva,short,deuce,far,short,ad,down the line,23.382744,near,-0.736838,17.257387,0.736838,6.512613,-0.638184,5.552878,0.34082,5.552878,5.552878
+Nikol Mircheva,4,27,5,1,return_plus_one,Forehand,Flat,In,Nikol Mircheva,short,deuce,near,deep,deuce,cross court,46.963879,far,2.089844,10.078125,2.089844,10.078125,-1.073242,23.740038,0.567871,1.073242,0.029962
+Opponent,5,27,5,1,in_play,Volley,Flat,Out,Nikol Mircheva,deep,deuce_alley,far,short,deuce,down the line,20.784662,near,-4.403707,22.527443,4.403707,1.242557,2.089844,9.552878,2.083984,9.552878,9.552878
+Nikol Mircheva,1,28,6,1,first_serve,Serve,Slice,In,Opponent,short,deuce,far,deep,deuce,out wide,85.872131,near,-2.30219,16.553757,2.30219,7.216243,0.69873,0.506687,2.238281,0.506687,0.506687
+Opponent,2,28,6,1,first_return,Forehand,Slice,In,Opponent,short,ad,near,deep,deuce,down the line,38.95166,far,-0.712654,5.567099,-0.712654,5.567099,-4.097656,23.661913,1.516602,4.097656,0.108087
+Nikol Mircheva,3,28,6,1,serve_plus_one,Forehand,Flat,Out,Opponent,out,ad,far,deep,ad,inside out,60.761322,near,3.082031,26.34375,-3.082031,-2.57375,-0.203247,0.310691,0.831055,0.310691,0.310691
+Nikol Mircheva,1,29,6,1,first_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,out wide,64.606216,near,3.516103,18.285524,-3.516103,5.484476,-1.52832,0.115378,2.373047,0.115378,0.115378
+Opponent,2,29,6,1,first_return,Backhand,Topspin,In,Nikol Mircheva,short,ad,near,deep,ad_alley,down the line,37.888748,far,-3.457239,5.745214,-3.457239,5.745214,4.21875,24.458788,1.46582,-4.21875,-0.688788
+Nikol Mircheva,3,29,6,1,serve_plus_one,Backhand,Topspin,In,Nikol Mircheva,deep,ad,far,deep,ad_alley,down the line,56.244301,near,2.777568,21.107992,-2.777568,2.662008,-4.824219,-0.275247,1.036133,-0.275247,-0.275247
+Opponent,4,29,6,1,return_plus_one,Backhand,Topspin,In,Nikol Mircheva,short,ad,near,out,ad,cross court,36.847939,far,-2.584676,8.155591,-2.584676,8.155591,3.167969,24.990038,1.414062,-3.167969,-1.220038
+Nikol Mircheva,5,29,6,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,deuce,far,deep,ad,down the line,48.669453,near,-4.095679,23.692791,4.095679,0.077209,-3.830078,4.302878,0.634766,4.302878,4.302878
+Opponent,6,29,6,1,in_play,Forehand,Flat,In,Nikol Mircheva,deep,ad,near,out,deuce,down the line,33.556572,far,-2.404967,2.16214,-2.404967,2.16214,-3.298828,25.302538,0.797852,3.298828,-1.532538
+Nikol Mircheva,7,29,6,1,in_play,Backhand,Flat,In,Nikol Mircheva,short,deuce,far,out,ad,down the line,28.906773,near,-2.191406,12.3125,2.191406,11.4575,-1.410156,-4.25181,1.15332,-4.25181,-4.25181
+Nikol Mircheva,1,30,6,1,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,deuce,far,deep,deuce,down the T,90.004059,near,-0.983613,18.597454,0.983613,5.172546,1.047852,0.271628,2.542969,0.271628,0.271628
+Nikol Mircheva,1,30,6,1,second_serve,Serve,Kick,In,Nikol Mircheva,short,deuce,far,deep,deuce,down the T,61.815109,near,-0.892853,17.514671,0.892853,6.255329,1.087891,-0.384622,2.574219,-0.384622,-0.384622
+Opponent,3,30,6,1,second_return,Forehand,Slice,In,Nikol Mircheva,short,ad,near,deep,deuce,down the line,35.528164,far,-0.800354,6.403837,-0.800354,6.403837,-1.648438,23.552538,1.736328,1.648438,0.217462
+Nikol Mircheva,4,30,6,1,serve_plus_one,Forehand,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,inside out,46.534939,near,0.819579,18.2743,-0.819579,5.4957,-0.736328,1.685691,1.113281,1.685691,1.685691
+Opponent,5,30,6,1,return_plus_one,Forehand,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,inside out,35.209103,far,-2.177734,9.335938,-2.177734,9.335938,0.995605,22.896288,0.748047,-0.995605,0.873712
+Nikol Mircheva,6,30,6,1,in_play,Volley,Flat,In,Nikol Mircheva,deep,deuce,far,short,ad,down the line,23.382744,near,-2.427842,23.773998,2.427842,-0.003998,-2.177734,8.810691,0.522949,8.810691,8.810691
+Nikol Mircheva,1,31,6,1,first_serve,Serve,Flat,Net,Nikol Mircheva,short,deuce,near,deep,ad,out wide,41.72657,near,2.414062,7.040822,-2.414062,16.729178,-0.881348,0.321975,1.904297,0.321975,0.321975
+Nikol Mircheva,1,31,6,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,out wide,60.86409,near,2.723077,17.177292,-2.723077,6.592708,-1.134766,-0.134622,2.265625,-0.134622,-0.134622
+Opponent,3,31,6,1,second_return,Backhand,Topspin,In,Nikol Mircheva,short,ad,near,deep,ad,cross court,34.018291,far,-2.795627,7.683961,-2.795627,7.683961,4.085938,24.333788,1.759766,-4.085938,-0.563788
+Nikol Mircheva,4,31,6,1,serve_plus_one,Backhand,Topspin,In,Nikol Mircheva,deep,ad,far,deep,ad_alley,down the line,60.592762,near,2.499836,21.717291,-2.499836,2.052709,-4.574219,0.896628,1.335938,0.896628,0.896628
+Opponent,5,31,6,1,return_plus_one,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,out,ad,cross court,40.848598,far,-2.262187,3.258251,-2.262187,3.258251,3.167969,25.083788,1.537109,-3.167969,-1.313788
+Nikol Mircheva,6,31,6,1,in_play,Backhand,Flat,In,Nikol Mircheva,deep,ad,far,deep,ad,cross court,56.179115,near,2.912316,20.389645,-2.912316,3.380355,-2.783203,0.084128,1.068359,0.084128,0.084128
+Opponent,7,31,6,1,in_play,Backhand,Slice,In,Nikol Mircheva,short,ad,near,out,ad,cross court,46.206638,far,-2.550781,6.648438,-2.550781,6.648438,3.402344,25.927538,1.520508,-3.402344,-2.157538
+Nikol Mircheva,8,31,6,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,ad,far,deep,ad,cross court,57.422096,near,2.116283,20.506891,-2.116283,3.263109,-4.042969,0.732566,0.588867,0.732566,0.732566
+Opponent,9,31,6,1,in_play,Backhand,Flat,Net,Nikol Mircheva,short,ad,far,deep,ad,cross court,34.173679,far,2.533203,12.203125,2.533203,12.203125,2.267578,23.005663,0.631836,-2.267578,0.764337
+Nikol Mircheva,1,32,6,1,first_serve,Serve,Slice,In,Opponent,short,deuce,far,deep,deuce,down the T,63.800777,near,-0.437515,18.230915,0.437515,5.539085,0.569336,0.591941,2.410156,0.591941,0.591941
+Opponent,2,32,6,1,first_return,Backhand,Flat,In,Opponent,deep,ad,near,out,deuce,inside in,44.794437,far,-2.30295,0.555106,-2.30295,0.555106,-0.79834,25.365038,1.486328,0.79834,-1.595038
+Nikol Mircheva,3,32,6,1,serve_plus_one,Backhand,Flat,In,Opponent,deep,ad,far,out,ad,cross court,65.632431,near,2.593577,21.016333,-2.593577,2.753667,-2.134766,-1.408059,1.308594,-1.408059,-1.408059
+Opponent,4,32,6,1,return_plus_one,Backhand,Slice,In,Opponent,short,ad,near,out,ad,cross court,38.293598,far,-2.446013,8.488236,-2.446013,8.488236,3.064453,25.193163,1.53418,-3.064453,-1.423163
+Nikol Mircheva,5,32,6,1,in_play,Backhand,Slice,Out,Opponent,deep,ad_alley,far,deep,ad,down the line,42.463985,near,4.984175,23.756548,-4.984175,0.013452,-3.011719,2.506003,0.675293,2.506003,2.506003
+Nikol Mircheva,1,33,6,1,first_serve,Serve,Flat,Net,Nikol Mircheva,short,ad,near,deep,ad,down the T,42.697884,near,-0.249146,5.660437,0.249146,18.109563,-1.077148,0.224753,2.333984,0.224753,0.224753
+Nikol Mircheva,1,33,6,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,down the T,62.253166,near,1.71304,15.369985,-1.71304,8.400015,-1.308594,0.256003,2.228516,0.256003,0.256003
+Opponent,3,33,6,1,second_return,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,deep,ad,cross court,37.497326,far,-3.92992,4.628976,-3.92992,4.628976,3.171875,24.661913,1.332031,-3.171875,-0.891913
+Nikol Mircheva,4,33,6,1,serve_plus_one,Backhand,Flat,In,Nikol Mircheva,deep,ad,far,deep,ad_alley,down the line,62.281898,near,3.706458,20.372881,-3.706458,3.397119,-4.679688,0.318503,1.242188,0.318503,0.318503
+Opponent,5,33,6,1,return_plus_one,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,out,ad_alley,down the line,38.863708,far,-3.187026,3.703979,-3.187026,3.703979,4.722656,26.271288,1.405273,-4.722656,-2.501288
+Nikol Mircheva,6,33,6,1,in_play,Backhand,Flat,In,Nikol Mircheva,deep,ad,far,deep,ad,cross court,55.889961,near,2.323413,18.868876,-2.323413,4.901124,-3.480469,0.341941,1.160156,0.341941,0.341941
+Opponent,7,33,6,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,deep,ad,cross court,36.327213,far,-2.92299,0.977622,-2.92299,0.977622,2.949219,24.927538,1.292969,-2.949219,-1.157538
+Nikol Mircheva,8,33,6,1,in_play,Forehand,Topspin,In,Nikol Mircheva,deep,ad,far,out,ad,inside out,40.525162,near,2.691607,21.046722,-2.691607,2.723278,-2.496094,-1.501809,1.419922,-1.501809,-1.501809
+Opponent,9,33,6,1,in_play,Backhand,Topspin,In,Nikol Mircheva,deep,ad,near,out,ad,cross court,34.716988,far,-3.811959,2.230768,-3.811959,2.230768,3.21875,25.896288,2.212891,-3.21875,-2.126288
+Nikol Mircheva,10,33,6,1,in_play,Forehand,Topspin,In,Nikol Mircheva,deep,ad,far,out,ad,inside out,52.064659,near,0.409907,18.61067,-0.409907,5.15933,-2.613281,-0.720559,2.015625,-0.720559,-0.720559
+Opponent,11,33,6,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,deep,ad,cross court,40.033169,far,-2.580527,2.999108,-2.580527,2.999108,0.927734,23.740038,1.648438,-0.927734,0.029962
+Nikol Mircheva,12,33,6,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,ad,far,deep,ad,cross court,43.85067,near,1.995662,23.42441,-1.995662,0.34559,-2.447266,0.146628,1.288086,0.146628,0.146628
+Opponent,13,33,6,1,in_play,Backhand,Topspin,In,Nikol Mircheva,short,ad,near,deep,ad,cross court,35.743214,far,-0.543181,8.493611,-0.543181,8.493611,1.740234,23.599413,0.977051,-1.740234,0.170587
+Nikol Mircheva,14,33,6,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,ad,far,deep,ad,cross court,42.238773,near,1.822781,21.286608,-1.822781,2.483392,-1.455078,2.65444,0.869629,2.65444,2.65444
+Opponent,15,33,6,1,in_play,Backhand,Topspin,In,Nikol Mircheva,short,deuce,near,deep,ad,down the line,66.132874,far,1.654297,8.015625,1.654297,8.015625,2.089844,24.333788,0.807617,-2.089844,-0.563788
+Nikol Mircheva,16,33,6,1,in_play,Volley,Flat,In,Nikol Mircheva,deep,ad,far,short,deuce,down the line,18.186579,near,2.033203,22,-2.033203,1.77,1.654297,7.490378,2.474609,7.490378,7.490378
+Opponent,17,33,6,1,in_play,Volley,Flat,Net,Nikol Mircheva,deep,ad,far,deep,ad,cross court,23.382744,far,2.033203,22,2.033203,22,2.033203,23.208788,0.228027,-2.033203,0.561212
+Opponent,1,34,7,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,deuce,near,deep,deuce,down the T,79.582466,far,2.056458,5.690681,2.056458,5.690681,-0.64209,23.146288,2.294922,0.64209,0.623712
+Nikol Mircheva,2,34,7,1,first_return,Backhand,Flat,In,Nikol Mircheva,short,ad,far,deep,deuce,inside in,51.917767,near,1.541992,17.3125,-1.541992,6.4575,2.107422,-0.361184,1,-0.361184,-0.361184
+Opponent,3,34,7,1,serve_plus_one,Volley,Flat,Out,Nikol Mircheva,deep,ad_alley,near,short,ad,down the line,21.650688,far,-4.886719,0.867188,-4.886719,0.867188,1.541992,18.521288,1.623047,-1.541992,5.248712
+Opponent,1,35,7,1,first_serve,Serve,Flat,Net,Opponent,short,deuce,far,deep,ad,down the T,39.359268,far,-1.243164,12.46875,-1.243164,12.46875,0.36499,24.521288,2.376953,-0.36499,-0.751288
+Opponent,1,35,7,1,second_serve,Serve,Flat,In,Opponent,short,ad,near,deep,ad,down the T,54.975075,far,-1.895113,7.687553,-1.895113,7.687553,0.598633,23.740038,2.632812,-0.598633,0.029962
+Nikol Mircheva,3,35,7,1,second_return,Forehand,Topspin,Out,Opponent,deep,ad_alley,far,deep,ad,inside in,62.276646,near,4.499891,23.682297,-4.499891,0.087703,-1.87793,-0.306497,1.363281,-0.306497,-0.306497
+Opponent,1,36,7,1,first_serve,Serve,Flat,In,Opponent,short,deuce,near,deep,deuce,out wide,68.203018,far,3.572969,7.140333,3.572969,7.140333,-1.352539,22.490038,2.572266,1.352539,1.279962
+Nikol Mircheva,2,36,7,1,first_return,Forehand,Topspin,Out,Opponent,out,ad,far,deep,deuce_alley,down the line,52.821129,near,1.579924,24.654219,-1.579924,-0.884219,4.617188,0.748191,0.96582,0.748191,0.748191
+Opponent,1,37,7,1,first_serve,Serve,Flat,Net,Opponent,short,deuce,far,deep,ad,out wide,42.087559,far,-2.931641,12.390625,-2.931641,12.390625,1.032227,24.240038,2.484375,-1.032227,-0.470038
+Opponent,1,37,7,1,second_serve,Serve,Slice,In,Opponent,short,ad,near,deep,ad,out wide,61.813683,far,-2.672189,7.135896,-2.672189,7.135896,1.28418,24.052538,2.441406,-1.28418,-0.282538
+Nikol Mircheva,3,37,7,1,second_return,Backhand,Flat,In,Opponent,deep,ad,far,deep,ad,cross court,47.031441,near,1.438297,21.370909,-1.438297,2.399091,-3.380859,-0.087747,1.345703,-0.087747,-0.087747
+Opponent,4,37,7,1,serve_plus_one,Backhand,Flat,In,Opponent,short,ad,near,deep,ad,cross court,32.474976,far,-3.858909,9.595282,-3.858909,9.595282,2.65625,24.458788,1.373047,-2.65625,-0.688788
+Nikol Mircheva,5,37,7,1,return_plus_one,Backhand,Slice,Out,Opponent,short,ad_alley,far,deep,ad,down the line,33.97757,near,4.838395,18.271379,-4.838395,5.498621,-4.082031,4.388815,0.881836,4.388815,4.388815
+Opponent,1,38,7,1,first_serve,Serve,Flat,In,Opponent,short,deuce,near,deep,deuce,down the T,77.982986,far,1.22286,5.766586,1.22286,5.766586,-0.876953,24.115038,2.285156,0.876953,-0.345038
+Nikol Mircheva,2,38,7,1,first_return,Backhand,Slice,In,Opponent,deep,ad,far,out,deuce,inside in,43.762863,near,1.662808,19.211512,-1.662808,4.558488,1.001953,-0.525247,1.283203,-0.525247,-0.525247
+Opponent,3,38,7,1,serve_plus_one,Backhand,Slice,In,Opponent,deep,deuce,near,deep,ad,down the line,41.106209,far,3.167178,1.392529,3.167178,1.392529,1.62207,23.240038,0.777832,-1.62207,0.529962
+Nikol Mircheva,4,38,7,1,return_plus_one,Forehand,Flat,In,Opponent,short,ad,far,out,deuce,down the line,30.688002,near,1.584961,15.117188,-1.584961,8.652812,2.824219,-0.861184,0.944336,-0.861184,-0.861184
+Opponent,5,38,7,1,in_play,Overhead,Flat,In,Opponent,short,ad,near,short,ad,---,69.614761,far,-0.202506,8.492436,-0.202506,8.492436,1.584961,16.325975,2.208984,-1.584961,7.444025
+Nikol Mircheva,6,38,7,1,in_play,Forehand,Topspin,In,Opponent,short,deuce,far,deep,ad,inside in,30.327038,near,-1.956055,15.25,1.956055,8.52,-2.023438,-0.087747,1.898438,-0.087747,-0.087747
+Opponent,7,38,7,1,in_play,Volley,Flat,In,Opponent,short,deuce,near,short,deuce,cross court,18.186579,far,2.915801,7.326632,2.915801,7.326632,-1.956055,16.458788,0.621094,1.956055,7.311212
+Nikol Mircheva,8,38,7,1,in_play,Forehand,Flat,Net,Opponent,short,deuce,near,deep,deuce_alley,down the line,27.474199,near,3.607422,5.747269,-3.607422,18.022731,4.355469,4.787253,0.554688,4.787253,4.787253
+Nikol Mircheva,1,39,8,1,first_serve,Serve,Flat,Out,Opponent,deep,deuce,near,deep,deuce,out wide,78.04599,far,2.467134,5.467918,2.467134,5.467918,-1.416992,22.349413,2.246094,1.416992,1.420587
+Nikol Mircheva,1,39,8,1,second_serve,Serve,Slice,In,Opponent,short,center_line,near,deep,deuce,down the T,46.030521,far,0.00281,9.717487,0.00281,9.717487,-0.850098,23.271288,2.203125,0.850098,0.498712
+Opponent,3,39,8,1,second_return,Backhand,Slice,In,Opponent,short,ad,far,out,ad,cross court,33.135769,near,0.655507,18.235626,-0.655507,5.534374,-0.096619,-3.525247,1.478516,-3.525247,-3.525247
+Nikol Mircheva,1,40,8,1,first_serve,Serve,Slice,In,Opponent,short,ad,near,deep,ad,down the T,93.288895,far,-1.016671,7.269991,-1.016671,7.269991,0.958496,23.677538,2.449219,-0.958496,0.092462
+Opponent,2,40,8,1,first_return,Forehand,Slice,In,Opponent,deep,ad,far,out,ad,inside out,38.783386,near,2.154382,21.580679,-2.154382,2.189321,-2.050781,-1.611184,1.28125,-1.611184,-1.611184
+Nikol Mircheva,3,40,8,1,serve_plus_one,Forehand,Topspin,Net,Opponent,short,deuce,far,deep,ad,inside in,37.100319,far,-1.433594,12.28125,-1.433594,12.28125,2.230469,23.677538,1.25,-2.230469,0.092462
+Nikol Mircheva,1,41,8,1,first_serve,Serve,Flat,Out,Opponent,deep,deuce,near,deep,deuce,down the T,79.591248,far,0.284789,5.180996,0.284789,5.180996,-1.513672,23.943163,2.429688,1.513672,-0.173163
+Nikol Mircheva,1,42,8,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,94.592316,far,-3.802778,6.421347,-3.802778,6.421347,0.989746,23.974413,2.322266,-0.989746,-0.204413
+Opponent,2,42,8,1,first_return,Backhand,Topspin,Out,Nikol Mircheva,short,deuce_out,far,deep,ad_alley,down the line,26.883919,near,-5.832,13.769942,5.832,10.000058,-4.730469,-0.322122,1.086914,-0.322122,-0.322122
+Nikol Mircheva,1,43,8,1,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,deuce,near,deep,deuce,out wide,88.659912,far,3.818274,4.440246,3.818274,4.440246,-0.784668,23.583788,2.466797,0.784668,0.186212
+Nikol Mircheva,1,43,8,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,near,deep,deuce,down the T,51.119362,far,1.94198,7.097306,1.94198,7.097306,-0.616211,23.505663,2.257812,0.616211,0.264337
+Opponent,3,43,8,1,second_return,Forehand,Flat,In,Nikol Mircheva,short,ad,far,out,deuce,down the line,43.494019,near,0.891126,17.352592,-0.891126,6.417408,2.359375,-1.142434,1.71875,-1.142434,-1.142434
+Nikol Mircheva,4,43,8,1,serve_plus_one,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,deep,ad,inside out,51.768223,far,-3.512715,3.927163,-3.512715,3.927163,0.431885,22.458788,0.845703,-0.431885,1.311212
+Opponent,5,43,8,1,return_plus_one,Backhand,Topspin,In,Nikol Mircheva,short,ad,far,out,ad,cross court,45.506798,near,0.406982,14.046875,-0.406982,9.723125,-3.794922,-0.798684,0.994141,-0.798684,-0.798684
+Nikol Mircheva,6,43,8,1,in_play,Volley,Flat,In,Nikol Mircheva,short,deuce,near,short,ad,down the line,23.382744,far,2.143091,6.129516,2.143091,6.129516,0.406982,15.255663,1.259766,-0.406982,8.514337
+Nikol Mircheva,1,44,8,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,near,deep,ad,down the T,72.399612,far,-1.043379,7.622548,-1.043379,7.622548,0.871094,23.552538,2.394531,-0.871094,0.217462
+Opponent,2,44,8,1,first_return,Forehand,Slice,In,Nikol Mircheva,deep,ad,far,out,ad,inside out,37.642437,near,2.407134,20.928087,-2.407134,2.841913,-1.509766,-2.618997,1.441406,-2.618997,-2.618997
+Nikol Mircheva,3,44,8,1,serve_plus_one,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,deep,ad,inside out,52.988995,far,-3.169876,4.984551,-3.169876,4.984551,2.060547,24.552538,1.609375,-2.060547,-0.782538
+Opponent,4,44,8,1,return_plus_one,Backhand,Topspin,In,Nikol Mircheva,short,ad,far,deep,ad,cross court,37.164314,near,3.01875,17.499058,-3.01875,6.270942,-3.972656,-0.040872,1.520508,-0.040872,-0.040872
+Nikol Mircheva,5,44,8,1,in_play,Backhand,Topspin,In,Nikol Mircheva,deep,deuce,near,deep,ad_alley,down the line,66.935829,far,2.171875,0.765625,2.171875,0.765625,4.324219,22.427538,1.474609,-4.324219,1.342462
+Opponent,6,44,8,1,in_play,Forehand,Slice,Net,Nikol Mircheva,short,ad,near,out,deuce,down the line,33.312244,near,-0.520508,11.6875,0.520508,12.0825,1.941406,-2.361185,1.058594,-2.361185,-2.361185
+Opponent,1,45,9,1,first_serve,Serve,Flat,Net,Nikol Mircheva,short,deuce,near,deep,deuce,down the T,40.410484,near,0.445068,11.75,-0.445068,12.02,0.445557,0.849753,2.435547,0.849753,0.849753
+Opponent,1,45,9,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,out wide,63.721012,near,-2.315466,16.776247,2.315466,6.993753,1.438477,0.490378,2.550781,0.490378,0.490378
+Nikol Mircheva,3,45,9,1,second_return,Forehand,Topspin,In,Nikol Mircheva,deep,deuce,near,out,deuce_alley,down the line,53.526119,far,0.863983,2.260446,0.863983,2.260446,-4.371094,25.083788,1.040039,4.371094,-1.313788
+Opponent,4,45,9,1,serve_plus_one,Forehand,Topspin,In,Nikol Mircheva,deep,ad,far,out,deuce,down the line,46.142605,near,1.582219,23.081959,-1.582219,0.688041,1.47168,-1.392434,1.240234,-1.392434,-1.392434
+Nikol Mircheva,5,45,9,1,return_plus_one,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,out,ad,inside out,40.10141,far,-2.277057,4.324119,-2.277057,4.324119,1.032227,25.521288,1.249023,-1.032227,-1.751288
+Opponent,6,45,9,1,in_play,Forehand,Flat,In,Nikol Mircheva,deep,ad,far,out,ad,inside out,62.385818,near,3.019645,21.477055,-3.019645,2.292945,-2.517578,-1.454934,2.005859,-1.454934,-1.454934
+Nikol Mircheva,7,45,9,1,in_play,Backhand,Flat,In,Nikol Mircheva,deep,deuce,near,deep,ad,down the line,40.729843,far,1.838904,0.26643,1.838904,0.26643,2.894531,24.599413,0.894531,-2.894531,-0.829413
+Opponent,8,45,9,1,in_play,Forehand,Flat,In,Nikol Mircheva,deep,ad,far,out,deuce,down the line,51.179279,near,0.874963,19.452599,-0.874963,4.317401,1.738281,-2.517435,1.417969,-2.517435,-2.517435
+Nikol Mircheva,9,45,9,1,in_play,Forehand,Topspin,Out,Nikol Mircheva,out,ad,near,deep,ad,inside out,65.829918,far,-3.598139,-0.552774,-3.598139,-0.552774,0.385742,23.411913,1.59375,-0.385742,0.358087
+Opponent,10,45,9,1,in_play,Backhand,Topspin,Net,Nikol Mircheva,short,deuce,near,out,ad,down the line,33.601849,near,1.734375,6.505104,-1.734375,17.264896,-3.541016,-2.165872,1.064453,-2.165872,-2.165872
+Opponent,1,46,9,1,first_serve,Serve,Flat,In,Opponent,short,ad,far,deep,ad,out wide,84.008217,near,3.259036,16.812254,-3.259036,6.957746,-1.023438,0.162253,2.513672,0.162253,0.162253
+Nikol Mircheva,2,46,9,1,first_return,Backhand,Slice,In,Opponent,short,deuce,near,out,ad_alley,down the line,34.410984,far,0.650879,8.453125,0.650879,8.453125,4.328125,25.302538,1.1875,-4.328125,-1.532538
+Opponent,3,46,9,1,serve_plus_one,Forehand,Slice,In,Opponent,deep,ad,far,deep,ad,inside out,42.236256,near,3.173901,19.064434,-3.173901,4.705566,-0.380615,3.970847,0.440918,3.970847,3.970847
+Nikol Mircheva,4,46,9,1,return_plus_one,Backhand,Flat,In,Opponent,short,deuce,near,deep,ad,down the line,32.826714,far,0.846191,9.117188,0.846191,9.117188,3.646484,24.771288,0.733887,-3.646484,-1.001288
+Opponent,5,46,9,1,in_play,Overhead,Flat,In,Opponent,short,ad,far,short,deuce,---,65.095184,near,1.897488,16.811541,-1.897488,6.958459,0.846191,8.591941,2.548828,8.591941,8.591941
+Opponent,1,47,9,1,first_serve,Serve,Slice,In,Opponent,short,deuce,far,deep,deuce,down the T,89.16124,near,-0.971542,17.266973,0.971542,6.503027,0.524414,0.377998,2.310547,0.377998,0.377998
+Nikol Mircheva,2,47,9,1,first_return,Backhand,Flat,Net,Opponent,short,deuce,far,deep,deuce,inside out,39.341873,far,-1.896484,12.679688,-1.896484,12.679688,-1.683594,23.427538,1.277344,1.683594,0.342462
+Opponent,1,48,9,1,first_serve,Serve,Slice,Out,Opponent,deep,ad_alley,far,deep,ad,out wide,80.7883,near,4.177226,18.299507,-4.177226,5.470493,-1.00293,0.107566,2.564453,0.107566,0.107566
+Opponent,1,48,9,1,second_serve,Serve,Flat,In,Opponent,short,ad,far,deep,ad,out wide,66.467484,near,2.929527,17.437876,-2.929527,6.332124,-0.938965,0.412253,2.316406,0.412253,0.412253
+Nikol Mircheva,3,48,9,1,second_return,Backhand,Flat,In,Opponent,deep,ad,near,deep,ad,cross court,59.224823,far,-0.847866,3.662389,-0.847866,3.662389,3.939453,24.068163,1.478516,-3.939453,-0.298163
+Opponent,4,48,9,1,serve_plus_one,Backhand,Slice,In,Opponent,deep,ad,far,out,ad,cross court,37.113716,near,0.490873,18.536753,-0.490873,5.233247,-1.737305,-0.892434,1.217773,-0.892434,-0.892434
+Nikol Mircheva,5,48,9,1,return_plus_one,Forehand,Flat,In,Opponent,deep,deuce,near,deep,ad,inside in,76.342392,far,2.965167,3.470339,2.965167,3.470339,0.722168,22.568163,1.224609,-0.722168,1.201837
+Opponent,6,48,9,1,in_play,Forehand,Topspin,In,Opponent,short,ad,far,short,deuce,down the line,17.013889,near,0.38501,13.195312,-0.38501,10.574688,2.041016,6.357565,5.292969,6.357565,6.357565
+Opponent,1,49,9,1,first_serve,Serve,Flat,Net,Nikol Mircheva,short,ad,near,deep,deuce,down the T,42.241005,near,-0.878418,11.75,0.878418,12.02,0.795898,1.091941,2.675781,1.091941,1.091941
+Opponent,1,49,9,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,out wide,56.283699,near,-3.37862,16.130997,3.37862,7.639003,1.469727,0.490378,2.535156,0.490378,0.490378
+Nikol Mircheva,3,49,9,1,second_return,Forehand,Topspin,In,Nikol Mircheva,deep,deuce,near,deep,deuce_out,down the line,48.605766,far,0.926189,3.209623,0.926189,3.209623,-5.570312,24.802538,1.199219,5.570312,-1.032538
+Opponent,4,49,9,1,serve_plus_one,Forehand,Flat,Out,Nikol Mircheva,out,ad,far,deep,deuce,down the line,59.626553,near,2.455686,25.398647,-2.455686,-1.628647,1.453125,-0.384622,1.394531,-0.384622,-0.384622
+Opponent,1,50,9,1,first_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,out wide,69.542419,near,2.698036,18.242422,-2.698036,5.527578,-0.988281,0.341941,2.53125,0.341941,0.341941
+Nikol Mircheva,2,50,9,1,first_return,Forehand,Topspin,In,Nikol Mircheva,deep,deuce,near,deep,ad,inside in,47.764503,far,3.199027,4.868176,3.199027,4.868176,3.238281,23.708788,1.271484,-3.238281,0.061212
+Opponent,3,50,9,1,serve_plus_one,Forehand,Flat,In,Nikol Mircheva,deep,ad,far,deep,deuce,down the line,39.705414,near,2.653235,22.618118,-2.653235,1.151882,3.103516,-0.251809,1.041016,-0.251809,-0.251809
+Nikol Mircheva,4,50,9,1,return_plus_one,Backhand,Topspin,In,Nikol Mircheva,short,ad,near,deep,ad,cross court,49.95752,far,-1.862337,7.100274,-1.862337,7.100274,2.242188,24.958788,1.289062,-2.242188,-1.188788
+Opponent,5,50,9,1,in_play,Backhand,Slice,In,Nikol Mircheva,short,ad,far,out,ad,cross court,35.247559,near,2.619891,18.223623,-2.619891,5.546377,-2.978516,-0.658059,0.752441,-0.658059,-0.658059
+Nikol Mircheva,6,50,9,1,in_play,Forehand,Topspin,In,Nikol Mircheva,deep,deuce,near,short,ad,inside in,81.270012,far,3.750582,1.224615,3.750582,1.224615,2.275391,15.552538,2.003906,-2.275391,8.217462
+Opponent,1,51,9,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,deuce,far,deep,deuce,down the T,81.596733,near,-0.9357,17.356268,0.9357,6.413732,0.855469,0.771628,2.494141,0.771628,0.771628
+Nikol Mircheva,2,51,9,1,first_return,Backhand,Topspin,In,Nikol Mircheva,short,ad,near,deep,deuce,inside in,36.320148,far,-0.06958,6.019531,-0.06958,6.019531,-1.342773,24.208788,1.322266,1.342773,-0.438788
+Opponent,3,51,9,1,serve_plus_one,Volley,Flat,Out,Nikol Mircheva,short,deuce_alley,far,short,ad,down the line,23.382744,near,-4.121094,17.328125,4.121094,6.441875,-0.06958,5.494284,0.396973,5.494284,5.494284
+Nikol Mircheva,4,51,9,1,return_plus_one,Volley,Flat,Net,Nikol Mircheva,short,deuce,far,short,deuce_alley,down the line,17.320551,far,-3.692771,17.328125,-3.692771,17.328125,-4.121094,18.536913,0.027344,4.121094,5.233087
+Nikol Mircheva,5,51,9,1,in_play,Forehand,Topspin,In,Nikol Mircheva,short,deuce,near,deep,deuce_alley,down the line,42.771336,far,0.591454,6.952909,0.591454,6.952909,-4.445312,22.318163,0.94043,4.445312,1.451837
+Nikol Mircheva,1,52,10,1,first_serve,Serve,Slice,Out,Opponent,deep,deuce,far,deep,deuce,down the T,93.15892,near,-1.927048,19.652948,1.927048,4.117052,0.641602,0.709128,2.310547,0.709128,0.709128
+Nikol Mircheva,1,52,10,1,second_serve,Serve,Slice,Out,Opponent,deep,deuce,far,deep,deuce,down the T,55.40398,near,-0.673842,19.477182,0.673842,4.292818,0.622559,0.216941,2.400391,0.216941,0.216941
+Opponent,3,52,10,1,second_return,Backhand,Flat,In,Opponent,deep,ad,near,deep,deuce,inside in,29.503601,far,-1.799406,5.185278,-1.799406,5.185278,-0.652832,23.755663,1.551758,0.652832,0.014337
+Nikol Mircheva,1,53,10,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,far,deep,ad,down the T,83.11631,near,2.23625,18.058382,-2.23625,5.711618,-0.996094,0.099753,2.318359,0.099753,0.099753
+Opponent,2,53,10,1,first_return,Forehand,Slice,In,Nikol Mircheva,short,deuce,near,deep,ad,inside in,35.687401,far,0.602372,5.972656,0.602372,5.972656,2.078125,24.083788,1.875,-2.078125,-0.313788
+Nikol Mircheva,3,53,10,1,serve_plus_one,Forehand,Flat,In,Nikol Mircheva,deep,deuce,far,deep,ad,inside in,74.032326,near,-2.835377,19.260046,2.835377,4.509954,-0.62793,0.998191,0.822754,0.998191,0.998191
+Opponent,4,53,10,1,return_plus_one,Forehand,Flat,In,Nikol Mircheva,deep,ad,near,out,deuce,down the line,34.557758,far,-2.123047,4.671875,-2.123047,4.671875,-3.875,26.427538,0.760254,3.875,-2.657538
+Nikol Mircheva,5,53,10,1,in_play,Overhead,Flat,In,Nikol Mircheva,short,ad,far,deep,ad,---,75.95134,near,2.345806,16.589573,-2.345806,7.180427,-2.123047,4.146628,2.646484,4.146628,4.146628
+Nikol Mircheva,1,54,10,1,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,out wide,95.123016,near,-3.743985,18.250336,3.743985,5.519664,0.458252,0.611249,2.142578,0.611249,0.611249
+Opponent,2,54,10,1,first_return,Forehand,Slice,In,Nikol Mircheva,short,deuce,near,deep,deuce_out,down the line,32.850525,far,1.526475,7.02011,1.526475,7.02011,-5.664062,24.661913,1.083984,5.664062,-0.891913
+Nikol Mircheva,3,54,10,1,serve_plus_one,Forehand,Topspin,In,Nikol Mircheva,deep,deuce,far,deep,deuce,cross court,66.226059,near,-2.886623,21.446705,2.886623,2.323295,1.918945,2.740378,1.185547,2.740378,2.740378
+Opponent,4,54,10,1,return_plus_one,Forehand,Topspin,Out,Nikol Mircheva,out,ad_alley,near,out,deuce_alley,down the line,58.29752,far,-4.769531,-0.289726,-4.769531,-0.289726,-4.300781,25.333788,1.453125,4.300781,-1.563788
+Nikol Mircheva,1,55,10,1,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,far,deep,ad,down the T,85.73365,near,1.53458,17.182186,-1.53458,6.587814,-1.00293,1.084128,2.242188,1.084128,1.084128
+Opponent,2,55,10,1,first_return,Forehand,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,inside out,32.432514,far,-0.571843,6.324368,-0.571843,6.324368,1.478516,23.255663,1.785156,-1.478516,0.514337
+Nikol Mircheva,3,55,10,1,serve_plus_one,Forehand,Flat,In,Nikol Mircheva,deep,ad,far,deep,ad,inside out,58.500561,near,2.98394,20.092003,-2.98394,3.677997,-1.046875,1.013816,1.039062,1.013816,1.013816
+Opponent,4,55,10,1,return_plus_one,Backhand,Topspin,Net,Nikol Mircheva,short,deuce,far,out,ad,down the line,32.343872,far,-2.369141,12.515625,-2.369141,12.515625,3.822266,25.880663,1.351562,-3.822266,-2.110663
+Nikol Mircheva,1,56,10,1,first_serve,Serve,Slice,Out,Opponent,short,deuce_alley,far,deep,deuce,out wide,90.381668,near,-4.441281,18.27857,4.441281,5.49143,0.900391,0.529441,2.449219,0.529441,0.529441
+Nikol Mircheva,1,56,10,1,second_serve,Serve,Slice,In,Opponent,short,deuce,far,deep,deuce,out wide,56.365253,near,-2.12862,16.266884,2.12862,7.503116,0.831543,0.146628,2.341797,0.146628,0.146628
+Opponent,3,56,10,1,second_return,Forehand,Topspin,In,Opponent,deep,ad,near,deep,deuce,down the line,61.773079,far,-0.397626,2.818796,-0.397626,2.818796,-2.755859,22.771288,1.855469,2.755859,0.998712
+Nikol Mircheva,4,56,10,1,serve_plus_one,Forehand,Topspin,In,Opponent,deep,ad,far,out,ad,inside out,36.903709,near,3.660402,20.235968,-3.660402,3.534032,-0.153076,-1.376809,0.805664,-1.376809,-1.376809
+Opponent,5,56,10,1,return_plus_one,Backhand,Topspin,In,Opponent,short,ad,near,out,ad,cross court,36.752682,far,-1.045439,6.650374,-1.045439,6.650374,3.666016,25.271288,1.822266,-3.666016,-1.501288
+Nikol Mircheva,6,56,10,1,in_play,Backhand,Slice,In,Opponent,deep,ad,far,deep,ad,cross court,43.08136,near,1.969187,21.345964,-1.969187,2.424036,-2.007812,3.576315,0.839844,3.576315,3.576315
+Opponent,7,56,10,1,in_play,Backhand,Topspin,In,Opponent,deep,deuce,near,deep,ad,down the line,62.652718,far,4.107826,2.954943,4.107826,2.954943,2.009766,24.052538,0.634766,-2.009766,-0.282538
+Nikol Mircheva,1,57,10,1,first_serve,Serve,Flat,In,Opponent,short,ad,far,deep,ad,down the T,87.401306,near,0.885646,17.545588,-0.885646,6.224412,-1.083984,1.052878,2.355469,1.052878,1.052878
+Opponent,2,57,10,1,first_return,Forehand,Slice,In,Opponent,deep,deuce,near,deep,ad,inside in,35.09161,far,2.345306,5.460243,2.345306,5.460243,1.291992,23.865038,1.169922,-1.291992,-0.095038
+Nikol Mircheva,3,57,10,1,serve_plus_one,Forehand,Flat,Net,Opponent,short,ad,near,deep,deuce,down the line,40.490318,near,-1.290039,5.684486,1.290039,18.085514,1.563477,0.670066,1.037109,0.670066,0.670066
+Nikol Mircheva,1,58,10,1,first_serve,Serve,Slice,Out,Nikol Mircheva,deep,deuce,far,deep,deuce,down the T,92.866661,near,-0.702148,18.319061,0.702148,5.450939,0.774414,0.709128,2.361328,0.709128,0.709128
+Nikol Mircheva,1,58,10,1,second_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,out wide,52.31414,near,-2.35992,15.712288,2.35992,8.057712,0.788086,0.084128,2.542969,0.084128,0.084128
+Opponent,3,58,10,1,second_return,Forehand,Flat,In,Nikol Mircheva,deep,ad,near,deep,deuce,down the line,49.377468,far,-0.101029,1.905758,-0.101029,1.905758,-3.396484,22.599413,1.759766,3.396484,1.170587
+Nikol Mircheva,4,58,10,1,serve_plus_one,Backhand,Flat,In,Nikol Mircheva,short,deuce,far,out,ad,down the line,56.510757,near,-0.581543,16.203125,0.581543,7.566875,-0.107239,-1.486184,1.027344,-1.486184,-1.486184
+Opponent,5,58,10,1,return_plus_one,Volley,Flat,In,Nikol Mircheva,deep,ad,near,short,deuce,down the line,21.650688,far,-2.193359,3.453125,-2.193359,3.453125,-0.581543,17.411913,2.09375,0.581543,6.358087
+Nikol Mircheva,6,58,10,1,in_play,Volley,Flat,Net,Nikol Mircheva,deep,ad,near,deep,ad,cross court,18.186579,near,-2.541016,2.03125,2.541016,21.73875,-2.193359,2.927878,0.958008,2.927878,2.927878
+Nikol Mircheva,7,58,10,1,in_play,Backhand,Flat,In,Nikol Mircheva,short,ad,far,out,ad,cross court,31.873823,near,3.815807,17.598873,-3.815807,6.171127,-2.876953,-1.150247,1.572266,-1.150247,-1.150247
+Opponent,8,58,10,1,in_play,Forehand,Flat,In,Nikol Mircheva,deep,ad,near,short,ad_alley,inside in,48.116699,far,-3.238703,4.035629,-3.238703,4.035629,4.316406,19.318163,2.433594,-4.316406,4.451837
+Nikol Mircheva,9,58,10,1,in_play,Backhand,Flat,In,Nikol Mircheva,deep,deuce,far,out,ad_alley,down the line,36.615795,near,-2.52588,21.970762,2.52588,1.799238,-4.746094,-0.868997,1.271484,-0.868997,-0.868997
+Opponent,10,58,10,1,in_play,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,deep,deuce,down the line,48.709305,far,-3.297604,3.729619,-3.297604,3.729619,-2.164062,24.333788,1.583984,2.164062,-0.563788
+Nikol Mircheva,11,58,10,1,in_play,Backhand,Slice,In,Nikol Mircheva,deep,deuce,far,out,ad,down the line,47.371429,near,-4.110586,22.897923,4.110586,0.872077,-3.095703,-1.087747,1.351562,-1.087747,-1.087747
+Opponent,12,58,10,1,in_play,Forehand,Topspin,Out,Nikol Mircheva,deep,ad_alley,near,short,deuce,down the line,47.6143,far,-5.054458,5.122968,-5.054458,5.122968,-3.664062,14.849413,1.546875,3.664062,8.920587
+Opponent,1,59,11,2,first_serve,Serve,Flat,Out,Opponent,deep,deuce,near,deep,deuce,down the T,73.661446,far,1.112972,2.806578,1.112972,2.806578,-0.629395,22.365038,2.347656,0.629395,1.404962
+Opponent,1,59,11,2,second_serve,Serve,Slice,In,Opponent,short,deuce,near,deep,deuce,down the T,60.03471,far,1.548576,6.435153,1.548576,6.435153,-2.214844,22.865038,2.792969,2.214844,0.904962
+Nikol Mircheva,3,59,11,2,second_return,Forehand,Flat,In,Opponent,deep,deuce,far,deep,deuce,cross court,47.852158,near,-0.727287,23.35976,0.727287,0.41024,2.550781,-0.048684,1.259766,-0.048684,-0.048684
+Opponent,4,59,11,2,serve_plus_one,Forehand,Topspin,Out,Opponent,out,ad,near,deep,deuce,down the line,40.400181,far,-2.007377,-0.033972,-2.007377,-0.033972,-1.06543,23.974413,1.241211,1.06543,-0.204413
+Nikol Mircheva,5,59,11,2,return_plus_one,Forehand,Flat,Out,Opponent,out,deuce,far,out,ad,inside in,52.718449,near,-2.007812,25.757765,2.007812,-1.987765,-1.474609,-1.798684,0.975586,-1.798684,-1.798684
+Opponent,1,60,11,2,first_serve,Serve,Slice,In,Opponent,short,ad,near,deep,ad,out wide,65.284027,far,-3.063061,7.513599,-3.063061,7.513599,1.012695,23.396288,2.626953,-1.012695,0.373712
+Nikol Mircheva,2,60,11,2,first_return,Backhand,Flat,Out,Opponent,deep,deuce_alley,far,deep,ad_alley,down the line,59.257874,near,-5.059515,20.432806,5.059515,3.337194,-4.699219,-0.173684,1.229492,-0.173684,-0.173684
+Opponent,1,61,11,2,first_serve,Serve,Slice,Out,Opponent,deep,deuce,near,deep,deuce,down the T,72.535362,far,1.58526,4.919225,1.58526,4.919225,-0.634277,24.130663,1.998047,0.634277,-0.360663
+Opponent,1,61,11,2,second_serve,Serve,Slice,In,Opponent,short,deuce,near,deep,deuce,out wide,55.358242,far,2.572179,7.384412,2.572179,7.384412,-2.308594,23.865038,2.433594,2.308594,-0.095038
+Nikol Mircheva,3,61,11,2,second_return,Forehand,Slice,In,Opponent,deep,deuce,far,deep,deuce,cross court,37.714375,near,-0.563477,19.84375,0.563477,3.92625,3.587891,1.693503,1.195312,1.693503,1.693503
+Opponent,4,61,11,2,serve_plus_one,Forehand,Topspin,In,Opponent,short,ad,near,deep,deuce,down the line,37.933884,far,-1.919922,8.8125,-1.919922,8.8125,-1.699219,23.974413,1.099609,1.699219,-0.204413
+Nikol Mircheva,5,61,11,2,return_plus_one,Volley,Flat,Net,Opponent,short,deuce,near,short,ad,down the line,17.163776,near,2.279297,5.773529,-2.279297,17.996471,-1.919922,8.287253,0.635742,8.287253,8.287253
+Opponent,1,62,11,2,first_serve,Serve,Slice,In,Opponent,short,ad,near,deep,ad,out wide,64.721809,far,-2.638461,6.792641,-2.638461,6.792641,0.934082,22.646288,2.664062,-0.934082,1.123712
+Nikol Mircheva,2,62,11,2,first_return,Backhand,Flat,In,Opponent,deep,ad,far,deep,ad,cross court,61.091869,near,0.936035,18.6875,-0.936035,5.0825,-3.433594,-0.314309,1.1875,-0.314309,-0.314309
+Opponent,3,62,11,2,serve_plus_one,Volley,Flat,In,Opponent,deep,ad,near,deep,ad,cross court,25.114799,far,-2.476562,2.566435,-2.476562,2.566435,0.936035,19.896288,0.408691,-0.936035,3.873712
+Nikol Mircheva,4,62,11,2,return_plus_one,Backhand,Flat,In,Opponent,short,ad,far,deep,ad,cross court,37.37146,near,1.779297,16.1875,-1.779297,7.5825,-3.138672,2.084128,0.76709,2.084128,2.084128
+Opponent,5,62,11,2,in_play,Volley,Flat,In,Opponent,deep,deuce,near,short,ad,down the line,19.918634,far,0.88916,5.320312,0.88916,5.320312,1.779297,17.396288,0.666016,-1.779297,6.373712
+Nikol Mircheva,6,62,11,2,in_play,Volley,Flat,Net,Opponent,deep,deuce,near,deep,deuce,cross court,23.382744,near,0.689453,0.914062,-0.689453,22.855938,0.88916,4.795065,1.024414,4.795065,4.795065
+Nikol Mircheva,7,62,11,2,in_play,Forehand,Topspin,In,Opponent,short,ad,far,deep,deuce,down the line,39.257412,near,0.469971,16.0625,-0.469971,7.7075,0.726562,1.498191,0.480469,1.498191,1.498191
+Opponent,8,62,11,2,in_play,Volley,Flat,In,Opponent,short,ad,near,short,ad,cross court,18.186579,far,-3.38852,6.457261,-3.38852,6.457261,0.469971,17.271288,1.016602,-0.469971,6.498712
+Nikol Mircheva,9,62,11,2,in_play,Backhand,Flat,In,Opponent,short,ad,far,deep,ad,cross court,36.141872,near,0.665527,17.03125,-0.665527,6.73875,-3.896484,4.62319,0.753418,4.62319,4.62319
+Opponent,10,62,11,2,in_play,Overhead,Flat,In,Opponent,short,deuce,near,short,ad,---,36.005554,far,2.170546,7.22529,2.170546,7.22529,0.665527,18.240038,2.613281,-0.665527,5.529962
+Opponent,1,63,11,2,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,deuce,near,deep,deuce,down the T,75.760292,far,1.890298,5.329919,1.890298,5.329919,-0.686523,23.083788,2.324219,0.686523,0.686212
+Opponent,1,63,11,2,second_serve,Serve,Flat,In,Nikol Mircheva,short,deuce,near,deep,deuce,out wide,58.005451,far,2.722961,8.768919,2.722961,8.768919,-1.882812,22.583788,2.441406,1.882812,1.186212
+Nikol Mircheva,3,63,11,2,second_return,Forehand,Slice,In,Nikol Mircheva,short,ad,far,deep,deuce_alley,down the line,48.707901,near,1.353283,17.479322,-1.353283,6.290678,4.300781,0.959128,0.908203,0.959128,0.959128
+Opponent,4,63,11,2,serve_plus_one,Backhand,Topspin,Out,Nikol Mircheva,deep,deuce_alley,near,deep,deuce,inside in,45.108459,far,5.478947,3.09109,5.478947,3.09109,-0.128296,21.849413,0.969238,0.128296,1.920587
+Opponent,1,64,11,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,68.347626,far,-3.744456,7.605947,-3.744456,7.605947,0.601562,23.177538,2.380859,-0.601562,0.592462
+Nikol Mircheva,2,64,11,2,first_return,Backhand,Topspin,In,Nikol Mircheva,short,deuce,far,deep,ad_alley,down the line,43.983063,near,-2.110424,16.787781,2.110424,6.982219,-4.9375,0.420066,1.139648,0.420066,0.420066
+Nikol Mircheva,1,65,12,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,near,deep,deuce,out wide,80.116417,far,3.619025,6.060316,3.619025,6.060316,-0.908203,23.240038,2.585938,0.908203,0.529962
+Opponent,2,65,12,2,first_return,Forehand,Slice,Net,Nikol Mircheva,short,deuce,near,deep,deuce_alley,down the line,26.212402,near,2.865234,5.625414,-2.865234,18.144586,4.5625,0.881003,1.430664,0.881003,0.881003
+Nikol Mircheva,1,66,12,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,89.704414,far,-2.929298,6.716094,-2.929298,6.716094,0.916016,23.521288,2.373047,-0.916016,0.248712
+Opponent,2,66,12,2,first_return,Backhand,Topspin,In,Nikol Mircheva,deep,ad,far,out,ad_alley,down the line,43.557713,near,1.955708,21.160467,-1.955708,2.609533,-4.132812,-0.939309,1.021484,-0.939309,-0.939309
+Nikol Mircheva,3,66,12,2,serve_plus_one,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,deep,ad,inside out,47.92345,far,-3.893469,3.074767,-3.893469,3.074767,2.257812,24.458788,1.378906,-2.257812,-0.688788
+Opponent,4,66,12,2,return_plus_one,Backhand,Topspin,In,Nikol Mircheva,short,ad,far,deep,ad,cross court,36.982574,near,4.073934,18.186972,-4.073934,5.583028,-4,0.138816,1.919922,0.138816,0.138816
+Nikol Mircheva,5,66,12,2,in_play,Backhand,Flat,In,Nikol Mircheva,deep,deuce,near,deep,ad_alley,down the line,77.893433,far,2.652344,2.882812,2.652344,2.882812,4.207031,22.443163,1.873047,-4.207031,1.326837
+Nikol Mircheva,1,67,12,2,first_serve,Serve,Flat,In,Opponent,short,deuce,near,deep,deuce,out wide,78.130096,far,3.205868,7.47231,3.205868,7.47231,-1.37207,24.208788,2.097656,1.37207,-0.438788
+Opponent,2,67,12,2,first_return,Forehand,Topspin,In,Opponent,deep,deuce,far,deep,deuce_alley,down the line,35.058155,near,-1.807772,21.075314,1.807772,2.694686,4.136719,1.474753,1.302734,1.474753,1.474753
+Nikol Mircheva,3,67,12,2,serve_plus_one,Forehand,Topspin,In,Opponent,deep,ad,near,deep,deuce,down the line,64.459694,far,-2.775087,5.452413,-2.775087,5.452413,-2.679688,23.568163,1.387695,2.679688,0.201837
+Opponent,4,67,12,2,return_plus_one,Backhand,Flat,In,Opponent,short,ad,far,out,ad,cross court,40.687695,near,2.064453,15.710938,-2.064453,8.059062,-2.193359,-2.306497,0.69043,-2.306497,-2.306497
+Nikol Mircheva,5,67,12,2,in_play,Volley,Flat,Out,Opponent,deep,deuce_alley,near,short,ad,down the line,21.650688,far,4.691088,2.416558,4.691088,2.416558,2.064453,16.919725,1.863281,-2.064453,6.850275
+Nikol Mircheva,1,68,12,2,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,73.5867,far,-3.066998,6.303509,-3.066998,6.303509,1.03125,24.365038,2.326172,-1.03125,-0.595038
+Opponent,2,68,12,2,first_return,Forehand,Topspin,In,Nikol Mircheva,short,deuce,far,out,ad,inside in,42.502895,near,-1.886608,17.101843,1.886608,6.668157,-3.609375,-1.368997,1.136719,-1.368997,-1.368997
+Nikol Mircheva,3,68,12,2,serve_plus_one,Forehand,Topspin,In,Nikol Mircheva,deep,deuce,near,deep,deuce,cross court,43.898483,far,2.320832,0.794464,2.320832,0.794464,-1.839844,22.365038,1.109375,1.839844,1.404962
+Opponent,4,68,12,2,return_plus_one,Forehand,Flat,Out,Nikol Mircheva,out,deuce,far,out,deuce,cross court,58.954208,near,-3.103565,29.241823,3.103565,-5.471823,1.761719,-1.447122,0.871094,-1.447122,-1.447122
+Nikol Mircheva,1,69,12,2,first_serve,Serve,Flat,In,Opponent,short,deuce,near,deep,deuce,down the T,68.982925,far,1.566437,6.022795,1.566437,6.022795,-0.498047,23.244484,2.431641,0.498047,0.525516
+Opponent,2,69,12,2,first_return,Backhand,Topspin,In,Opponent,deep,ad,far,out,deuce,inside in,47.630428,near,1.035256,20.896534,-1.035256,2.873466,0.893555,-1.384622,1.374023,-1.384622,-1.384622
+Nikol Mircheva,3,69,12,2,serve_plus_one,Forehand,Flat,In,Opponent,deep,deuce,near,deep,ad,inside in,65.162613,far,2.230965,4.348802,2.230965,4.348802,0.969238,23.583788,1.46875,-0.969238,0.186212
+Opponent,4,69,12,2,return_plus_one,Forehand,Flat,In,Opponent,deep,deuce,far,out,deuce,cross court,59.795986,near,-3.509825,22.246025,3.509825,1.523975,1.879883,-0.915872,1.24707,-0.915872,-0.915872
+Nikol Mircheva,5,69,12,2,in_play,Forehand,Topspin,Net,Opponent,short,deuce,far,out,deuce,cross court,44.478577,far,-0.652832,12.546875,-0.652832,12.546875,-3.988281,25.786913,1.12207,3.988281,-2.016913
+Nikol Mircheva,1,70,12,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,57.956818,far,-2.830919,6.845038,-2.830919,6.845038,1.136719,23.521288,2.400391,-1.136719,0.248712
+Opponent,2,70,12,2,first_return,Backhand,Topspin,In,Nikol Mircheva,short,ad,far,out,ad_alley,down the line,39.197117,near,2.998336,17.462914,-2.998336,6.307086,-4.613281,-1.009622,1.261719,-1.009622,-1.009622
+Nikol Mircheva,3,70,12,2,serve_plus_one,Backhand,Topspin,In,Nikol Mircheva,short,ad,near,deep,ad,cross court,45.949158,far,-1.500768,5.876349,-1.500768,5.876349,3.416016,21.333788,1.794922,-3.416016,2.436212
+Opponent,4,70,12,2,return_plus_one,Backhand,Slice,In,Nikol Mircheva,deep,ad,far,deep,ad,cross court,51.781681,near,1.408754,19.988174,-1.408754,3.781826,-3.191406,-0.314309,1.201172,-0.314309,-0.314309
+Nikol Mircheva,5,70,12,2,in_play,Backhand,Slice,In,Nikol Mircheva,deep,deuce,near,deep,ad,down the line,41.464535,far,0.929455,2.203685,0.929455,2.203685,1.985352,23.255663,0.763672,-1.985352,0.514337
+Opponent,6,70,12,2,in_play,Forehand,Flat,Out,Nikol Mircheva,out,ad,far,out,deuce,down the line,55.06171,near,2.892578,24.34375,-2.892578,-0.57375,1.106445,-0.775247,0.96582,-0.775247,-0.775247
+Opponent,1,71,13,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,down the T,87.856277,near,-1.281551,17.617146,1.281551,6.152854,0.738281,1.045066,2.40625,1.045066,1.045066
+Nikol Mircheva,2,71,13,2,first_return,Backhand,Flat,In,Nikol Mircheva,deep,deuce,near,deep,deuce,inside out,65.78363,far,3.4073,0.069698,3.4073,0.069698,-1.448242,22.865038,1.374023,1.448242,0.904962
+Opponent,1,72,13,2,first_serve,Serve,Flat,Net,Nikol Mircheva,short,deuce,near,deep,ad,out wide,42.388023,near,2.869141,11.875,-2.869141,11.895,-0.452881,0.120259,2.259766,0.120259,0.120259
+Opponent,1,72,13,2,second_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,down the T,58.715843,near,2.258863,18.261843,-2.258863,5.508157,-0.786133,0.576316,2.441406,0.576316,0.576316
+Nikol Mircheva,3,72,13,2,second_return,Forehand,Slice,In,Nikol Mircheva,deep,deuce,near,deep,ad,inside in,41.46402,far,0.965332,2.382812,0.965332,2.382812,2.248047,24.083788,1.243164,-2.248047,-0.313788
+Opponent,4,72,13,2,serve_plus_one,Forehand,Topspin,Net,Nikol Mircheva,short,deuce,near,out,deuce,cross court,33.821224,near,3.048828,5.709128,-3.048828,18.060872,1.085938,-0.564309,0.993652,-0.564309,-0.564309
+Opponent,1,73,13,2,first_serve,Serve,Flat,Net,Nikol Mircheva,short,ad,near,deep,deuce,down the T,42.728188,near,-0.453857,11.828125,0.453857,11.941875,0.841309,0.263816,2.470703,0.263816,0.263816
+Opponent,1,73,13,2,second_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,down the T,67.244034,near,-1.988394,17.349813,1.988394,6.420187,2.050781,0.157453,2.53125,0.157453,0.157453
+Nikol Mircheva,3,73,13,2,second_return,Forehand,Flat,In,Nikol Mircheva,short,ad,near,deep,deuce,down the line,54.544319,far,-0.614319,6.691893,-0.614319,6.691893,-3.384766,23.349413,1.199219,3.384766,0.420587
+Opponent,4,73,13,2,serve_plus_one,Backhand,Slice,In,Nikol Mircheva,short,deuce,far,deep,ad,down the line,35.463135,near,-1.290039,14.179688,1.290039,9.590312,-0.189331,1.310691,0.395264,1.310691,1.310691
+Nikol Mircheva,5,73,13,2,return_plus_one,Volley,Flat,In,Nikol Mircheva,deep,ad,near,short,deuce,down the line,20.784662,far,-3.073357,5.078888,-3.073357,5.078888,-1.290039,15.388475,1.082031,1.290039,8.381525
+Opponent,1,74,13,2,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,ad,far,deep,ad,down the T,82.765617,near,0.530737,19.37772,-0.530737,4.39228,-0.131592,0.004453,2.386719,0.004453,0.004453
+Opponent,1,74,13,2,second_serve,Serve,Slice,Net,Nikol Mircheva,short,deuce_alley,near,deep,ad,out wide,32.438061,near,4.655961,6.82876,-4.655961,16.94124,-0.951172,0.466941,2.402344,0.466941,0.466941
+Nikol Mircheva,1,75,14,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,out wide,84.875671,near,-3.438611,18.143003,3.438611,5.626997,0.666016,1.240378,2.228516,1.240378,1.240378
+Opponent,2,75,14,2,first_return,Forehand,Slice,In,Nikol Mircheva,deep,deuce,near,deep,deuce_alley,down the line,36.323517,far,1.814277,3.116117,1.814277,3.116117,-5.136719,23.927538,1.12207,5.136719,-0.157538
+Nikol Mircheva,3,75,14,2,serve_plus_one,Forehand,Flat,In,Nikol Mircheva,deep,deuce,far,deep,deuce,cross court,57.087334,near,-2.414904,19.867838,2.414904,3.902162,2.234375,-0.236184,1.080078,-0.236184,-0.236184
+Opponent,4,75,14,2,return_plus_one,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,out,deuce,down the line,55.850929,far,-1.513894,0.374476,-1.513894,0.374476,-3.767578,25.552538,1.232422,3.767578,-1.782538
+Nikol Mircheva,5,75,14,2,in_play,Backhand,Flat,In,Nikol Mircheva,short,deuce,far,deep,ad,down the line,57.680065,near,-0.609375,16.96875,0.609375,6.80125,-1.432617,-0.439309,0.77832,-0.439309,-0.439309
+Opponent,6,75,14,2,in_play,Volley,Flat,In,Nikol Mircheva,deep,deuce,near,short,deuce,cross court,25.114799,far,0.271484,5.195312,0.271484,5.195312,-0.609375,18.177538,0.962891,0.609375,5.592462
+Nikol Mircheva,7,75,14,2,in_play,Volley,Flat,Net,Nikol Mircheva,deep,deuce,near,deep,deuce,cross court,19.052607,near,0.321777,3.445312,-0.321777,20.324688,0.271484,4.670065,1.068359,4.670065,4.670065
+Nikol Mircheva,8,75,14,2,in_play,Forehand,Topspin,In,Nikol Mircheva,short,ad,far,deep,deuce,down the line,55.271374,near,2.412109,12.132812,-2.412109,11.637188,0.41748,0.256003,0.9375,0.256003,0.256003
+Nikol Mircheva,1,76,14,2,first_serve,Serve,Flat,Out,Opponent,deep,ad,far,deep,ad,out wide,66.376419,near,4.092315,18.314157,-4.092315,5.455843,-1.000977,0.615378,2.210938,0.615378,0.615378
+Nikol Mircheva,1,76,14,2,second_serve,Serve,Flat,In,Opponent,short,ad,far,deep,ad,down the T,57.846447,near,0.728367,15.540248,-0.728367,8.229752,-1.183594,1.381003,2.289062,1.381003,1.381003
+Opponent,3,76,14,2,second_return,Forehand,Topspin,Out,Opponent,out,ad,near,deep,ad,inside out,49.644859,far,-2.882048,-0.106426,-2.882048,-0.106426,1.371094,23.615038,1.382812,-1.371094,0.154962
+Nikol Mircheva,4,76,14,2,serve_plus_one,Backhand,Flat,In,Opponent,deep,ad,far,out,ad,cross court,49.238865,near,0.136847,20.255157,-0.136847,3.514843,-2.443359,-1.259622,0.817383,-1.259622,-1.259622
+Opponent,5,76,14,2,return_plus_one,Forehand,Topspin,In,Opponent,short,ad,near,deep,ad,inside out,27.295807,far,-2.214844,7.941406,-2.214844,7.941406,0.354492,23.193163,1.294922,-0.354492,0.576837
+Nikol Mircheva,1,77,14,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,down the T,91.010773,near,-1.312686,18.278061,1.312686,5.491939,0.823242,1.12049,2.617188,1.12049,1.12049
+Opponent,2,77,14,2,first_return,Backhand,Topspin,In,Nikol Mircheva,short,deuce,near,deep,deuce,inside out,45.39275,far,0.267992,7.568428,0.267992,7.568428,-1.789062,23.411913,1.417969,1.789062,0.358087
+Nikol Mircheva,3,77,14,2,serve_plus_one,Forehand,Slice,In,Nikol Mircheva,deep,deuce,far,deep,deuce,cross court,41.207043,near,-3.555312,23.705809,3.555312,0.064191,0.86377,0.771628,0.771484,0.771628,0.771628
+Opponent,4,77,14,2,return_plus_one,Forehand,Topspin,Out,Nikol Mircheva,out,ad_alley,near,out,deuce,down the line,52.016682,far,-5.050781,-0.40625,-5.050781,-0.40625,-3.820312,26.536913,0.914062,3.820312,-2.766913
+Nikol Mircheva,1,78,14,2,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,far,deep,ad,down the T,90.583038,near,0.263591,18.078257,-0.263591,5.691743,-1.007812,0.888816,2.25,0.888816,0.888816
+Opponent,1,79,15,2,first_serve,Serve,Slice,In,Opponent,short,deuce,near,deep,deuce,out wide,69.945282,far,2.754547,7.136009,2.754547,7.136009,-0.899902,24.349413,2.292969,0.899902,-0.579413
+Nikol Mircheva,2,79,15,2,first_return,Backhand,Topspin,Net,Opponent,short,ad,near,out,deuce,inside in,32.238083,near,-0.792969,11.609375,0.792969,12.160625,2.105469,-0.673684,1.287109,-0.673684,-0.673684
+Opponent,1,80,15,2,first_serve,Serve,Flat,In,Opponent,short,ad,near,deep,ad,out wide,88.739151,far,-2.402856,6.339896,-2.402856,6.339896,0.689941,24.458788,2.396484,-0.689941,-0.688788
+Nikol Mircheva,2,80,15,2,first_return,Backhand,Topspin,In,Opponent,deep,deuce,far,out,ad,down the line,45.845722,near,-2.193359,19.296875,2.193359,4.473125,-2.892578,-1.267434,1.024414,-1.267434,-1.267434
+Opponent,3,80,15,2,serve_plus_one,Volley,Flat,In,Opponent,deep,ad,near,deep,deuce,down the line,19.052607,far,-0.89325,4.987424,-0.89325,4.987424,-2.193359,20.505663,0.584961,2.193359,3.264337
+Nikol Mircheva,4,80,15,2,return_plus_one,Backhand,Flat,In,Opponent,short,deuce,far,deep,ad,down the line,64.59066,near,-1.347656,14.28125,1.347656,9.48875,-0.581055,1.209128,0.648926,1.209128,1.209128
+Opponent,5,80,15,2,in_play,Volley,Flat,In,Opponent,short,ad,near,short,deuce,down the line,20.784662,far,-2.104024,6.60029,-2.104024,6.60029,-1.347656,15.490038,1.145508,1.347656,8.279962
+Opponent,1,81,15,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,deuce,near,short,deuce,down the T,124.047745,far,1.670898,6.029926,1.670898,6.029926,-0.496582,24.23053,2.453125,0.496582,-0.46053
+Nikol Mircheva,2,81,15,2,first_return,Backhand,Slice,In,Nikol Mircheva,short,deuce,far,deep,deuce,inside out,33.816414,near,-0.700684,17.21875,0.700684,6.55125,1.631836,-0.009622,1.069336,-0.009622,-0.009622
+Opponent,3,81,15,2,serve_plus_one,Overhead,Flat,Net,Nikol Mircheva,short,deuce,far,short,deuce,---,40.444153,far,-0.058787,16.114792,-0.058787,16.114792,-0.700684,18.427538,2.134766,0.700684,5.342462
+Opponent,1,82,15,2,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,80.525673,far,-3.551937,7.109784,-3.551937,7.109784,0.860352,24.427538,2.388672,-0.860352,-0.657538
+Nikol Mircheva,2,82,15,2,first_return,Backhand,Topspin,In,Nikol Mircheva,short,deuce,far,out,ad_alley,down the line,41.20163,near,-0.395508,14.5625,0.395508,9.2075,-4.75,-0.626809,1.230469,-0.626809,-0.626809
+Opponent,1,83,15,2,first_serve,Serve,Flat,In,Opponent,short,deuce,near,short,deuce,down the T,84.581787,far,0.373826,7.360331,0.373826,7.360331,-0.56543,23.583879,2.248047,0.56543,0.186121
+Nikol Mircheva,2,83,15,2,first_return,Backhand,Flat,Net,Opponent,short,deuce,near,deep,deuce,inside out,30.469448,near,0.429443,5.506569,-0.429443,18.263431,0.867188,0.185691,1.320312,0.185691,0.185691
+Opponent,1,84,15,2,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,82.183701,far,-4.105861,7.201267,-4.105861,7.201267,0.482178,23.588198,2.310547,-0.482178,0.181802
+Nikol Mircheva,2,84,15,2,first_return,Backhand,Topspin,In,Nikol Mircheva,deep,deuce,far,deep,ad_alley,down the line,31.849188,near,-0.882812,18.796875,0.882812,4.973125,-5.386719,-0.462747,1.023438,-0.462747,-0.462747
+Nikol Mircheva,1,85,16,2,first_serve,Serve,Flat,In,Nikol Mircheva,short,deuce,near,short,deuce,out wide,83.447456,far,3.206348,6.73927,3.206348,6.73927,-1.145508,23.425589,2.740234,1.145508,0.344411
+Opponent,2,85,16,2,first_return,Forehand,Topspin,Out,Nikol Mircheva,out,ad,far,deep,deuce,down the line,37.969013,near,1.78569,26.872944,-1.78569,-3.102944,3.90625,0.216941,1.619141,0.216941,0.216941
+Nikol Mircheva,1,86,16,2,first_serve,Serve,Slice,Out,Nikol Mircheva,deep,ad,near,deep,ad,down the T,87.662971,far,-1.395122,4.828718,-1.395122,4.828718,1.003906,24.146288,2.441406,-1.003906,-0.376288
+Nikol Mircheva,1,86,16,2,second_serve,Serve,Kick,In,Nikol Mircheva,short,ad,near,deep,ad,out wide,44.010567,far,-3.471572,7.835214,-3.471572,7.835214,0.571777,22.865038,2.425781,-0.571777,0.904962
+Opponent,3,86,16,2,second_return,Backhand,Flat,In,Nikol Mircheva,short,ad,far,deep,ad_alley,down the line,42.845119,near,2.639276,16.100668,-2.639276,7.669332,-4.632812,0.552878,1.742188,0.552878,0.552878
+Nikol Mircheva,4,86,16,2,serve_plus_one,Backhand,Slice,In,Nikol Mircheva,short,ad,near,deep,ad_alley,down the line,33.568161,far,-2.279297,9.015625,-2.279297,9.015625,4.253906,23.052538,0.717285,-4.253906,0.717462
+Opponent,5,86,16,2,return_plus_one,Volley,Flat,In,Nikol Mircheva,short,deuce,far,short,ad,down the line,19.918634,near,-1.8916,17.878996,1.8916,5.891004,-2.279297,8.490378,0.946289,8.490378,8.490378
+Nikol Mircheva,6,86,16,2,in_play,Forehand,Slice,In,Nikol Mircheva,short,ad,near,deep,deuce,down the line,31.522091,far,-1.777344,7.925781,-1.777344,7.925781,-2.066406,20.333788,1.116211,2.066406,3.436212
+Opponent,7,86,16,2,in_play,Overhead,Flat,Net,Nikol Mircheva,deep,ad,near,short,ad,---,51.654785,near,-1.665039,2.0625,1.665039,21.7075,-1.777344,7.400534,2.464844,7.400534,7.400534
+Nikol Mircheva,1,87,16,2,first_serve,Serve,Flat,In,Opponent,short,deuce,near,deep,deuce,down the T,88.074951,far,2.22794,6.414228,2.22794,6.414228,-0.755371,23.083788,2.205078,0.755371,0.686212
+Opponent,2,87,16,2,first_return,Forehand,Flat,In,Opponent,deep,ad,far,out,deuce,down the line,38.498913,near,2.199944,19.791868,-2.199944,3.978132,3.476562,-1.368997,1.013672,-1.368997,-1.368997
+Nikol Mircheva,3,87,16,2,serve_plus_one,Backhand,Flat,Net,Opponent,short,deuce,far,deep,ad,down the line,54.221409,far,-0.814941,12.148438,-0.814941,12.148438,2.119141,22.693163,1.537109,-2.119141,1.076837
+Nikol Mircheva,1,88,16,2,first_serve,Serve,Flat,In,Nikol Mircheva,short,ad,near,short,ad,out wide,85.250656,far,-3.270524,6.626425,-3.270524,6.626425,0.877441,23.547169,4.214844,-0.877441,0.222831
+Opponent,2,88,16,2,first_return,Backhand,Topspin,In,Nikol Mircheva,deep,ad,far,out,ad_alley,down the line,34.284485,near,1.649122,19.721935,-1.649122,4.048065,-4.601562,-0.853372,1.117188,-0.853372,-0.853372
+Nikol Mircheva,3,88,16,2,serve_plus_one,Forehand,Topspin,In,Nikol Mircheva,short,ad,near,deep,ad,inside out,54.787361,far,-2.415127,7.616891,-2.415127,7.616891,1.696289,24.911913,1.435547,-1.696289,-1.141913
+Opponent,4,88,16,2,return_plus_one,Backhand,Topspin,In,Nikol Mircheva,short,ad,far,deep,ad_alley,down the line,37.066803,near,3.038841,17.768391,-3.038841,6.001609,-4.515625,-0.095559,0.694336,-0.095559,-0.095559
+Nikol Mircheva,5,88,16,2,in_play,Backhand,Slice,In,Nikol Mircheva,deep,ad,near,deep,ad,cross court,49.54055,far,-2.706121,2.75288,-2.706121,2.75288,3.443359,23.490038,1.150391,-3.443359,0.279962
+Opponent,6,88,16,2,in_play,Backhand,Flat,Net,Nikol Mircheva,short,ad,near,deep,ad,cross court,52.118725,near,-2.839844,11.664062,2.839844,12.105938,-2.708984,0.529441,0.797363,0.529441,0.529441
+Nikol Mircheva,1,89,16,2,first_serve,Serve,Flat,In,Opponent,short,deuce,near,deep,deuce,down the T,89.849113,far,0.691872,5.909475,0.691872,5.909475,-1.036133,23.099413,2.238281,1.036133,0.670587
+Opponent,2,89,16,2,first_return,Backhand,Slice,In,Opponent,deep,ad,far,out,deuce,inside in,36.442287,near,3.376115,22.728483,-3.376115,1.041517,1.162109,-2.697122,1.089844,-2.697122,-2.697122
+Nikol Mircheva,3,89,16,2,serve_plus_one,Forehand,Topspin,In,Opponent,deep,deuce,near,out,ad,inside in,44.891052,far,2.480196,5.449749,2.480196,5.449749,2.953125,25.005663,1.458984,-2.953125,-1.235663
+Opponent,4,89,16,2,return_plus_one,Forehand,Topspin,In,Opponent,deep,deuce,far,out,deuce,cross court,70.851006,near,-0.030201,23.769287,0.030201,0.000713,1.344727,-0.986184,1.484375,-0.986184,-0.986184
+Nikol Mircheva,5,89,16,2,in_play,Forehand,Topspin,Out,Opponent,deep,ad_alley,near,deep,deuce,down the line,57.357349,far,-4.621015,4.681973,-4.621015,4.681973,-2.943359,24.896288,1.462891,2.943359,-1.126288
+Nikol Mircheva,1,90,16,2,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,ad,near,deep,ad,down the T,98.124428,far,-1.505906,2.320106,-1.505906,2.320106,0.79834,22.536913,2.337891,-0.79834,1.233087
+Nikol Mircheva,1,90,16,2,second_serve,Serve,Slice,In,Nikol Mircheva,short,ad,near,deep,ad,down the T,82.024727,far,-1.828008,8.679229,-1.828008,8.679229,0.811035,22.927538,2.519531,-0.811035,0.842462
+Opponent,3,90,16,2,second_return,Forehand,Flat,In,Nikol Mircheva,deep,ad,far,deep,ad,inside out,51.895317,near,2.08075,23.230995,-2.08075,0.539005,-2.847656,1.396628,1.820312,1.396628,1.396628
+Nikol Mircheva,4,90,16,2,serve_plus_one,Backhand,Topspin,In,Nikol Mircheva,deep,ad,near,deep,ad,cross court,34.228645,far,-1.385536,0.882314,-1.385536,0.882314,2.373047,23.568163,1.004883,-2.373047,0.201837
+Opponent,1,91,17,2,first_serve,Serve,Flat,Out,Nikol Mircheva,deep,deuce,far,deep,deuce,down the T,88.018723,near,-2.277261,20.901293,2.277261,2.868707,0.5625,0.454843,2.386719,0.454843,0.454843
+Opponent,1,91,17,2,second_serve,Serve,Slice,Out,Nikol Mircheva,deep,deuce,far,deep,deuce,out wide,71.05098,near,-3.449362,21.83132,3.449362,1.93868,2.080078,0.724753,2.421875,0.724753,0.724753
+Nikol Mircheva,3,91,17,2,second_return,Forehand,Topspin,In,Nikol Mircheva,deep,ad,near,deep,deuce,down the line,32.648941,far,-0.053883,5.480367,-0.053883,5.480367,-3.955078,23.990038,1.145508,3.955078,-0.220038
+Opponent,1,92,17,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,out wide,70.918137,near,3.482083,18.246008,-3.482083,5.523992,-1.022461,0.146628,2.480469,0.146628,0.146628
+Nikol Mircheva,2,92,17,2,first_return,Backhand,Topspin,In,Nikol Mircheva,short,deuce,near,deep,ad,down the line,50.133579,far,1.861328,9.039062,1.861328,9.039062,3.890625,24.380663,1.484375,-3.890625,-0.610663
+Opponent,3,92,17,2,serve_plus_one,Volley,Flat,In,Nikol Mircheva,deep,deuce,far,short,deuce,cross court,25.114799,near,-1.107274,21.142405,1.107274,2.627595,1.861328,8.513816,0.546387,8.513816,8.513816
+Nikol Mircheva,4,92,17,2,return_plus_one,Forehand,Topspin,In,Nikol Mircheva,short,ad,near,deep,deuce,down the line,57.359993,far,-2.318359,8.21875,-2.318359,8.21875,-1.981445,24.083788,0.708984,1.981445,-0.313788
+Opponent,5,92,17,2,in_play,Volley,Flat,Net,Nikol Mircheva,short,ad,near,short,ad,cross court,17.481636,near,-1.415039,11.757812,1.415039,12.012188,-2.318359,7.693503,1.541016,7.693503,7.693503
+Opponent,1,93,17,2,first_serve,Serve,Flat,Net,Nikol Mircheva,short,ad,near,deep,deuce,out wide,44.133118,near,-1.677734,11.617188,1.677734,12.152812,0.72998,0.045066,2.517578,0.045066,0.045066
+Opponent,1,93,17,2,second_serve,Serve,Slice,Net,Nikol Mircheva,short,ad,near,deep,deuce,down the T,30.457878,near,-0.98291,11.671875,0.98291,12.098125,2.208984,1.170066,2.335938,1.170066,1.170066
+Opponent,1,94,17,2,first_serve,Serve,Slice,In,Nikol Mircheva,short,ad,far,deep,ad,out wide,66.984352,near,3.411168,18.131519,-3.411168,5.638481,-0.771484,0.029441,2.451172,0.029441,0.029441
+Nikol Mircheva,2,94,17,2,first_return,Backhand,Flat,In,Nikol Mircheva,short,deuce,near,deep,ad,down the line,54.357784,far,2.152344,9.46875,2.152344,9.46875,3.830078,24.552538,1.482422,-3.830078,-0.782538
+Opponent,3,94,17,2,serve_plus_one,Volley,Flat,Net,Nikol Mircheva,short,deuce,near,short,deuce,cross court,13.526549,near,3.214844,11.460938,-3.214844,12.309062,2.152344,8.943503,1.128906,8.943503,8.943503
